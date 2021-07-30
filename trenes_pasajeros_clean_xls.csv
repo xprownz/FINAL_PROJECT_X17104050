@@ -1,0 +1,5305 @@
+﻿mes;linea;estacion;cantidad
+01/12/2019;belgranonorte;Boulogne Sur;189118
+01/12/2019;belgranonorte;Carapachay;44049
+01/12/2019;belgranonorte;Del Viso;76691
+01/12/2019;belgranonorte;Don Torcuato;128986
+01/12/2019;belgranonorte;Florida;37226
+01/12/2019;belgranonorte;Grand Bourg;220363
+01/12/2019;belgranonorte;Ing. P. Nogués;103460
+01/12/2019;belgranonorte;Los Polvorines;137590
+01/12/2019;belgranonorte;Munro;98282
+01/12/2019;belgranonorte;R. S. Ortíz;29953
+01/12/2019;belgranonorte;Retiro;452014
+01/12/2019;belgranonorte;Villa Adelina;102193
+01/12/2019;belgranonorte;Villa Rosa;73613
+01/12/2019;belgranosur;20 de Junio;2551
+01/12/2019;belgranosur;Aldo Bonzi;3387
+01/12/2018;belgranosur;Aldo Bonzi;2967
+01/12/2018;belgranosur;Buenos Aires;8
+01/12/2018;belgranosur;Castello;63065
+01/12/2019;belgranosur;Castello;74716
+01/12/2019;belgranosur;Castillo;46729
+01/12/2018;belgranosur;Castillo;32909
+01/12/2018;belgranosur;Eva Duarte;43321
+01/12/2019;belgranosur;Eva Duarte;52890
+01/12/2019;belgranosur;Fournier;40471
+01/12/2018;belgranosur;Fournier;34142
+01/12/2018;belgranosur;G. Catan;158635
+01/12/2019;belgranosur;G. Catan;225286
+01/12/2019;belgranosur;I. Casanova;30212
+01/12/2018;belgranosur;I. Casanova;23087
+01/12/2018;belgranosur;Illia;17970
+01/12/2019;belgranosur;Illia;26205
+01/12/2019;belgranosur;Independencia;136822
+01/12/2018;belgranosur;Independencia;121992
+01/12/2018;belgranosur;J. Ingenieros;3372
+01/12/2019;belgranosur;J. Ingenieros;5105
+01/12/2019;belgranosur;KM. 12;2763
+01/12/2018;belgranosur;KM. 12;1355
+01/12/2018;belgranosur;Laferrere;206912
+01/12/2019;belgranosur;Laferrere;240478
+01/12/2019;belgranosur;Libertad;40104
+01/12/2018;belgranosur;Libertad;27322
+01/12/2018;belgranosur;M. Belgrano;36742
+01/12/2019;belgranosur;M. Belgrano;43576
+01/12/2019;belgranosur;Mendeville;4915
+01/12/2018;belgranosur;Mendeville;4707
+01/12/2018;belgranosur;Merlo Gomez;20940
+01/12/2019;belgranosur;Merlo Gomez;23116
+01/12/2019;belgranosur;Querandi;26506
+01/12/2018;belgranosur;Querandi;21520
+01/12/2018;belgranosur;Saenz;228269
+01/12/2019;belgranosur;Saenz;287061
+01/12/2019;belgranosur;Tapiales;49892
+01/12/2018;belgranosur;Tapiales;41840
+01/12/2018;belgranosur;V. Madero;62193
+01/12/2019;belgranosur;V. Madero;76193
+01/12/2019;belgranosur;V. Soldati;41288
+01/12/2018;belgranosur;V. Soldati;30499
+01/12/2018;belgranosur;V.lugano;80351
+01/12/2019;belgranosur;V.lugano;101623
+01/12/2019;belgranosur;Villegas;5959
+01/12/2018;belgranosur;Villegas;5275
+01/12/2018;mitre;3 De Febrero;63556
+01/12/2019;mitre;3 De Febrero;57018
+01/12/2019;mitre;Acassuso;62778
+01/12/2018;mitre;Acassuso;53970
+01/12/2018;mitre;Beccar;59702
+01/12/2019;mitre;Beccar;76853
+01/12/2019;mitre;Belgrano C.;343434
+01/12/2018;mitre;Belgrano C.;266933
+01/12/2018;mitre;Belgrano R.;166508
+01/12/2019;mitre;Belgrano R.;167615
+01/12/2019;mitre;Benavidez;264
+01/12/2018;mitre;Benavidez;522
+01/12/2018;mitre;Capilla Del Señor;13
+01/12/2019;mitre;Capilla Del Señor;128
+01/12/2019;mitre;Carranza;152489
+01/12/2018;mitre;Carranza;163323
+01/12/2018;mitre;Carupa;86410
+01/12/2019;mitre;Carupa;104406
+01/12/2019;mitre;Centrangolo;14352
+01/12/2018;mitre;Centrangolo;14388
+01/12/2018;mitre;Chilavert;47020
+01/12/2019;mitre;Chilavert;47345
+01/12/2019;mitre;Coghlan;27677
+01/12/2018;mitre;Coghlan;19048
+01/12/2018;mitre;Colegiales;60808
+01/12/2019;mitre;Colegiales;77760
+01/12/2019;mitre;Drago;46602
+01/12/2018;mitre;Drago;29070
+01/12/2018;mitre;El Talar;70
+01/12/2019;mitre;El Talar;15
+01/12/2019;mitre;Escobar;2082
+01/12/2018;mitre;Escobar;2823
+01/12/2018;mitre;Florida;19344
+01/12/2019;mitre;Florida;17548
+01/12/2019;mitre;Garin;880
+01/12/2018;mitre;Garin;995
+01/12/2018;mitre;Jose Leon Suarez;225634
+01/12/2019;mitre;Jose Leon Suarez;219481
+01/12/2019;mitre;Juan B. Justo;17634
+01/12/2018;mitre;Juan B. Justo;18843
+01/12/2019;mitre;L. De La Torre;59543
+01/12/2019;mitre;La Lucila;59966
+01/12/2018;mitre;La Lucila;51743
+01/12/2018;mitre;Lopez Camelo;57
+01/12/2019;mitre;Lopez Camelo;1511
+01/12/2019;mitre;Malaver;27710
+01/12/2018;mitre;Malaver;25828
+01/12/2018;mitre;Maq. Savio;2008
+01/12/2019;mitre;Maq. Savio;954
+01/12/2019;mitre;Martinez;152799
+01/12/2018;mitre;Martinez;150228
+01/12/2018;mitre;Matheu;907
+01/12/2019;mitre;Matheu;922
+01/12/2019;mitre;Migueletes;28113
+01/12/2018;mitre;Migueletes;40112
+01/12/2018;mitre;Mitre;17348
+01/12/2019;mitre;Mitre;48998
+01/12/2019;mitre;Nuñez;100484
+01/12/2018;mitre;Nuñez;87157
+01/12/2018;mitre;Olivos;76069
+01/12/2019;mitre;Olivos;108265
+01/12/2019;mitre;Pueyrredon;66811
+01/12/2018;mitre;Pueyrredon;68937
+01/12/2018;mitre;Retiro (Suarez-Mitre);583005
+01/12/2019;mitre;Retiro (Suarez-Mitre);554650
+01/12/2019;mitre;Retiro (Tigre);713753
+01/12/2018;mitre;Retiro (Tigre);688576
+01/12/2018;mitre;Rivadavia;51179
+01/12/2019;mitre;Rivadavia;101300
+01/12/2019;mitre;Saavedra;33264
+01/12/2018;mitre;Saavedra;40822
+01/12/2018;mitre;San Andres;45493
+01/12/2019;mitre;San Andres;40369
+01/12/2019;mitre;San Fernando;113498
+01/12/2018;mitre;San Fernando;91611
+01/12/2018;mitre;San Isidro;267353
+01/12/2019;mitre;San Isidro;278804
+01/12/2019;mitre;San Martin;219397
+01/12/2018;mitre;San Martin;219175
+01/12/2018;mitre;Tigre;269686
+01/12/2019;mitre;Tigre;299062
+01/12/2019;mitre;Urquiza;216336
+01/12/2018;mitre;Urquiza;216173
+01/12/2018;mitre;V. Ballester;139045
+01/12/2019;mitre;V. Ballester;147473
+01/12/2019;mitre;Vicente Lopez;80437
+01/12/2018;mitre;Vicente Lopez;81834
+01/12/2018;mitre;Victoria Elect;69276
+01/12/2019;mitre;Victoria Elect;77301
+01/12/2019;mitre;Virreyes;138200
+01/12/2018;mitre;Virreyes;132748
+01/12/2018;mitre;Zarate;581
+01/12/2019;mitre;Zarate;915
+01/12/2019;mitre;Zelaya;286
+01/12/2018;mitre;Zelaya;308
+01/12/2018;roca;A. De Elia;12
+01/12/2018;roca;A. Petion;4808
+01/12/2019;roca;A. Petion;5080
+01/12/2019;roca;A.korn;206950
+01/12/2018;roca;A.korn;192618
+01/12/2019;roca;Abbot;664
+01/12/2019;roca;Adrogue;271120
+01/12/2018;roca;Adrogue;291166
+01/12/2019;roca;Altamirano;472
+01/12/2019;roca;Ardigo;150201
+01/12/2018;roca;Ardigo;134124
+01/12/2018;roca;Banfield;501573
+01/12/2019;roca;Banfield;476176
+01/12/2019;roca;Berazategui;283851
+01/12/2018;roca;Berazategui;205276
+01/12/2018;roca;Bernal;111737
+01/12/2019;roca;Bernal;137357
+01/12/2019;roca;Bosques;111340
+01/12/2018;roca;Bosques;103979
+01/12/2018;roca;Brandsen;137
+01/12/2019;roca;Brandsen;1480
+01/12/2018;roca;Brian;2
+01/12/2018;roca;Burzaco;447091
+01/12/2019;roca;Burzaco;422923
+01/12/2019;roca;Calzada;154971
+01/12/2018;roca;Calzada;144693
+01/12/2018;roca;Canuelas;25908
+01/12/2019;roca;Canuelas;27998
+01/12/2019;roca;Chascomus;10422
+01/12/2018;roca;Chascomus;121
+01/12/2018;roca;City Bell;40333
+01/12/2019;roca;City Bell;47797
+01/12/2019;roca;Claypole;276256
+01/12/2018;roca;Claypole;221629
+01/12/2018;roca;Constitucion;3958497
+01/12/2019;roca;Constitucion;3853020
+01/12/2019;roca;Dario Y Maxi;201088
+01/12/2018;roca;Dario Y Maxi;219828
+01/12/2018;roca;Don Bosco;46084
+01/12/2019;roca;Don Bosco;61528
+01/12/2019;roca;El Jaguel;178572
+01/12/2018;roca;El Jaguel;176919
+01/12/2019;roca;Emp. Lobos;365
+01/12/2019;roca;Escalada;126397
+01/12/2018;roca;Escalada;119281
+01/12/2018;roca;Ezeiza;436366
+01/12/2019;roca;Ezeiza;477839
+01/12/2019;roca;Ezpeleta;184637
+01/12/2018;roca;Ezpeleta;159641
+01/12/2018;roca;F. Varela;309044
+01/12/2019;roca;F. Varela;283997
+01/12/2019;roca;Gandara;338
+01/12/2019;roca;Gerli;116072
+01/12/2018;roca;Gerli;143373
+01/12/2018;roca;Glew;558439
+01/12/2019;roca;Glew;498728
+01/12/2019;roca;Gonnet;30167
+01/12/2018;roca;Gonnet;18350
+01/12/2018;roca;Guernica;131566
+01/12/2019;roca;Guernica;189647
+01/12/2019;roca;Gutierrez;3540
+01/12/2018;roca;Gutierrez;5508
+01/12/2018;roca;H. Espanol;12
+01/12/2018;roca;Haedo;2214
+01/12/2019;roca;Haedo;31
+01/12/2019;roca;Hudson;69514
+01/12/2018;roca;Hudson;57843
+01/12/2018;roca;J. Marmol;52627
+01/12/2019;roca;J. Marmol;74271
+01/12/2019;roca;Jeppener;2645
+01/12/2018;roca;Juan XXIII;1
+01/12/2018;roca;Kloosterman;103
+01/12/2019;roca;Kloosterman;531
+01/12/2018;roca;Km. 33;5
+01/12/2018;roca;Km. 34;11
+01/12/2018;roca;L. De Zamora;1007243
+01/12/2019;roca;L. De Zamora;996127
+01/12/2019;roca;L. Guillon;123053
+01/12/2018;roca;L. Guillon;120379
+01/12/2018;roca;La Noria;2
+01/12/2018;roca;La Plata;229855
+01/12/2019;roca;La Plata;317193
+01/12/2019;roca;Lanus;800102
+01/12/2018;roca;Lanus;814018
+01/12/2018;roca;Levene;57
+01/12/2019;roca;Levene;1116
+01/12/2019;roca;Llavallol;86534
+01/12/2018;roca;Llavallol;83439
+01/12/2019;roca;Lobos;2233
+01/12/2019;roca;Longchamps;440429
+01/12/2018;roca;Longchamps;394560
+01/12/2018;roca;Maximo Paz;9414
+01/12/2019;roca;Maximo Paz;10204
+01/12/2019;roca;Monte;3633
+01/12/2018;roca;Monte;1
+01/12/2018;roca;Monte Grande;509488
+01/12/2019;roca;Monte Grande;526589
+01/12/2019;roca;Pereyra;1395
+01/12/2018;roca;Pereyra;1986
+01/12/2018;roca;Platanos;42465
+01/12/2019;roca;Platanos;46632
+01/12/2018;roca;Policlinico;1
+01/12/2018;roca;Quilmes;368441
+01/12/2019;roca;Quilmes;402345
+01/12/2019;roca;Ranelagh;44545
+01/12/2018;roca;Ranelagh;30231
+01/12/2018;roca;Ringuelet;7757
+01/12/2019;roca;Ringuelet;12440
+01/12/2019;roca;San Justo;1
+01/12/2018;roca;San Justo;279
+01/12/2018;roca;Santa Sofia;11361
+01/12/2019;roca;Santa Sofia;9124
+01/12/2019;roca;Sarandi;47873
+01/12/2018;roca;Sarandi;44129
+01/12/2018;roca;Sourigues;33070
+01/12/2019;roca;Sourigues;41786
+01/12/2019;roca;Spegazzini;13008
+01/12/2018;roca;Spegazzini;12350
+01/12/2018;roca;Sta. Catalina;1
+01/12/2018;roca;Tablada;277
+01/12/2018;roca;Temperley;237125
+01/12/2019;roca;Temperley;195357
+01/12/2019;roca;Tolosa;19340
+01/12/2018;roca;Tolosa;15017
+01/12/2018;roca;Tristan Suarez;21709
+01/12/2019;roca;Tristan Suarez;21563
+01/12/2019;roca;Turdera;102239
+01/12/2018;roca;Turdera;91303
+01/12/2018;roca;U. Ferroviaria;1905
+01/12/2019;roca;U. Ferroviaria;2257
+01/12/2019;roca;Universitario;16453
+01/12/2019;roca;Uribelarrea;634
+01/12/2019;roca;V. Casares;1345
+01/12/2018;roca;V. Casares;58
+01/12/2018;roca;V. Dominico;32465
+01/12/2019;roca;V. Dominico;50493
+01/12/2019;roca;Villa Elisa;45074
+01/12/2018;roca;Villa Elisa;34723
+01/12/2018;roca;Villa Espana;35418
+01/12/2019;roca;Villa Espana;38905
+01/12/2019;roca;Wilde;81802
+01/12/2018;roca;Wilde;58112
+01/12/2018;roca;Yrigoyen;80989
+01/12/2019;roca;Yrigoyen;64447
+01/12/2019;roca;Zeballos;110986
+01/12/2018;roca;Zeballos;95396
+01/12/2018;sanmartin;Astolfi;6514
+01/12/2019;sanmartin;Astolfi;14752
+01/12/2019;sanmartin;B. Vista;109472
+01/12/2018;sanmartin;B. Vista;92561
+01/12/2018;sanmartin;Cabred;4161
+01/12/2019;sanmartin;Cabred;5599
+01/12/2019;sanmartin;Caseros;174244
+01/12/2018;sanmartin;Caseros;131398
+01/12/2018;sanmartin;Chacarita;42
+01/12/2019;sanmartin;Chacarita;6
+01/12/2019;sanmartin;Derqui;131229
+01/12/2018;sanmartin;Derqui;154304
+01/12/2018;sanmartin;Hurlingham;81329
+01/12/2019;sanmartin;Hurlingham;89697
+01/12/2019;sanmartin;J.C. Paz;503671
+01/12/2018;sanmartin;J.C. Paz;422703
+01/12/2018;sanmartin;Manzanares;2311
+01/12/2019;sanmartin;Manzanares;3915
+01/12/2019;sanmartin;Muniz;65849
+01/12/2018;sanmartin;Muniz;52652
+01/12/2018;sanmartin;Palermo;66
+01/12/2019;sanmartin;Palermo;306959
+01/12/2019;sanmartin;Palomar;124128
+01/12/2018;sanmartin;Palomar;90222
+01/12/2018;sanmartin;Paternal;9
+01/12/2019;sanmartin;Paternal;2
+01/12/2019;sanmartin;Pilar;124968
+01/12/2018;sanmartin;Pilar;133868
+01/12/2018;sanmartin;Retiro;6
+01/12/2019;sanmartin;Retiro;438504
+01/12/2019;sanmartin;S. Lugares;34609
+01/12/2018;sanmartin;S. Lugares;20524
+01/12/2018;sanmartin;Saenz Pena;105706
+01/12/2019;sanmartin;Saenz Pena;95753
+01/12/2019;sanmartin;San Miguel;340385
+01/12/2018;sanmartin;San Miguel;291087
+01/12/2018;sanmartin;Sol Y Verde;79515
+01/12/2019;sanmartin;Sol Y Verde;78561
+01/12/2019;sanmartin;V. Devoto;140974
+01/12/2018;sanmartin;V. Devoto;103539
+01/12/2018;sanmartin;V. Parque;286902
+01/12/2019;sanmartin;V. Parque;206600
+01/12/2019;sanmartin;W. Morris;59308
+01/12/2018;sanmartin;W. Morris;58613
+01/12/2018;sarmiento;Caballito;172089
+01/12/2019;sarmiento;Caballito;177741
+01/12/2019;sarmiento;Castelar;256068
+01/12/2018;sarmiento;Castelar;251355
+01/12/2018;sarmiento;Ciudadela;148051
+01/12/2019;sarmiento;Ciudadela;150390
+01/12/2019;sarmiento;Flores;283873
+01/12/2018;sarmiento;Flores;261441
+01/12/2018;sarmiento;Floresta;168229
+01/12/2019;sarmiento;Floresta;191406
+01/12/2019;sarmiento;Haedo;148186
+01/12/2018;sarmiento;Haedo;146098
+01/12/2018;sarmiento;Ituzaingo;274228
+01/12/2019;sarmiento;Ituzaingo;288268
+01/12/2019;sarmiento;Liniers;599561
+01/12/2018;sarmiento;Liniers;459091
+01/12/2018;sarmiento;Merlo;807747
+01/12/2019;sarmiento;Merlo;860326
+01/12/2019;sarmiento;Miserere;307
+01/12/2018;sarmiento;Miserere;336
+01/12/2018;sarmiento;Moreno;823200
+01/12/2019;sarmiento;Moreno;858288
+01/12/2019;sarmiento;Morón;927409
+01/12/2018;sarmiento;Morón;862437
+01/12/2018;sarmiento;Once;1616034
+01/12/2019;sarmiento;Once;1623678
+01/12/2019;sarmiento;Paso del Rey;162389
+01/12/2018;sarmiento;Paso del Rey;205227
+01/12/2018;sarmiento;Ramos Mejía;418251
+01/12/2019;sarmiento;Ramos Mejía;446583
+01/12/2019;sarmiento;S.A de Padua;229179
+01/12/2018;sarmiento;S.A de Padua;240765
+01/12/2018;sarmiento;Villa Luro;94012
+01/12/2019;sarmiento;Villa Luro;95606
+01/11/2019;belgranonorte;Boulogne Sur;184155
+01/11/2019;belgranonorte;Carapachay;21425
+01/11/2019;belgranonorte;Del Viso;72717
+01/11/2019;belgranonorte;Don Torcuato;128225
+01/11/2019;belgranonorte;Florida;38316
+01/11/2019;belgranonorte;Grand Bourg;211961
+01/11/2019;belgranonorte;Ing. P. Nogués;104586
+01/11/2019;belgranonorte;Los Polvorines;134373
+01/11/2019;belgranonorte;Munro;105646
+01/11/2019;belgranonorte;R. S. Ortíz;56085
+01/11/2019;belgranonorte;Retiro;477011
+01/11/2019;belgranonorte;Villa Adelina;119975
+01/11/2019;belgranonorte;Villa Rosa;75180
+01/11/2019;belgranosur;Aldo Bonzi;2306
+01/11/2018;belgranosur;Aldo Bonzi;3474
+01/11/2018;belgranosur;Buenos Aires;8
+01/11/2018;belgranosur;Castello;55932
+01/11/2019;belgranosur;Castello;71371
+01/11/2019;belgranosur;Castillo;49971
+01/11/2018;belgranosur;Castillo;33129
+01/11/2018;belgranosur;Eva Duarte;44696
+01/11/2019;belgranosur;Eva Duarte;51228
+01/11/2019;belgranosur;Fournier;42142
+01/11/2018;belgranosur;Fournier;35378
+01/11/2018;belgranosur;G. Catan;152227
+01/11/2019;belgranosur;G. Catan;209819
+01/11/2019;belgranosur;I. Casanova;32452
+01/11/2018;belgranosur;I. Casanova;24860
+01/11/2018;belgranosur;Illia;19827
+01/11/2019;belgranosur;Illia;29475
+01/11/2019;belgranosur;Independencia;132339
+01/11/2018;belgranosur;Independencia;119729
+01/11/2018;belgranosur;J. Ingenieros;3840
+01/11/2019;belgranosur;J. Ingenieros;5440
+01/11/2019;belgranosur;KM. 12;2350
+01/11/2018;belgranosur;KM. 12;718
+01/11/2018;belgranosur;Laferrere;200662
+01/11/2019;belgranosur;Laferrere;230333
+01/11/2019;belgranosur;Libertad;37833
+01/11/2018;belgranosur;Libertad;28432
+01/11/2018;belgranosur;M. Belgrano;38764
+01/11/2019;belgranosur;M. Belgrano;43354
+01/11/2019;belgranosur;Mendeville;3144
+01/11/2018;belgranosur;Mendeville;5595
+01/11/2018;belgranosur;Merlo Gomez;20636
+01/11/2019;belgranosur;Merlo Gomez;23805
+01/11/2019;belgranosur;Puente Alsina;1
+01/11/2019;belgranosur;Querandi;33752
+01/11/2018;belgranosur;Querandi;27469
+01/11/2018;belgranosur;Saenz;236708
+01/11/2019;belgranosur;Saenz;266859
+01/11/2019;belgranosur;Tapiales;40018
+01/11/2018;belgranosur;Tapiales;33012
+01/11/2018;belgranosur;V. Madero;66791
+01/11/2019;belgranosur;V. Madero;79592
+01/11/2019;belgranosur;V. Soldati;43958
+01/11/2018;belgranosur;V. Soldati;35381
+01/11/2018;belgranosur;V.lugano;82188
+01/11/2019;belgranosur;V.lugano;106621
+01/11/2019;belgranosur;Villegas;6558
+01/11/2018;belgranosur;Villegas;5411
+01/11/2018;mitre;3 De Febrero;76475
+01/11/2019;mitre;3 De Febrero;64330
+01/11/2019;mitre;Acassuso;70820
+01/11/2018;mitre;Acassuso;57235
+01/11/2018;mitre;Beccar;66628
+01/11/2019;mitre;Beccar;82104
+01/11/2019;mitre;Belgrano C.;341564
+01/11/2018;mitre;Belgrano C.;300390
+01/11/2018;mitre;Belgrano R.;193854
+01/11/2019;mitre;Belgrano R.;187319
+01/11/2019;mitre;Benavidez;411
+01/11/2018;mitre;Benavidez;601
+01/11/2018;mitre;Carranza;195908
+01/11/2019;mitre;Carranza;173488
+01/11/2019;mitre;Carupa;113602
+01/11/2018;mitre;Carupa;84778
+01/11/2018;mitre;Centrangolo;16767
+01/11/2019;mitre;Centrangolo;15274
+01/11/2019;mitre;Chilavert;50761
+01/11/2018;mitre;Chilavert;54072
+01/11/2018;mitre;Coghlan;33864
+01/11/2019;mitre;Coghlan;29877
+01/11/2019;mitre;Colegiales;91061
+01/11/2018;mitre;Colegiales;87618
+01/11/2018;mitre;Drago;52965
+01/11/2019;mitre;Drago;48175
+01/11/2019;mitre;El Talar;25
+01/11/2018;mitre;El Talar;96
+01/11/2018;mitre;Escobar;3354
+01/11/2019;mitre;Escobar;1952
+01/11/2019;mitre;Florida;19793
+01/11/2018;mitre;Florida;23080
+01/11/2018;mitre;Garin;918
+01/11/2019;mitre;Garin;1258
+01/11/2019;mitre;Jose Leon Suarez;205216
+01/11/2018;mitre;Jose Leon Suarez;251090
+01/11/2018;mitre;Juan B. Justo;22423
+01/11/2019;mitre;Juan B. Justo;17768
+01/11/2019;mitre;L. De La Torre;57344
+01/11/2019;mitre;La Lucila;69006
+01/11/2018;mitre;La Lucila;60289
+01/11/2018;mitre;Lopez Camelo;592
+01/11/2019;mitre;Lopez Camelo;625
+01/11/2019;mitre;Malaver;29889
+01/11/2018;mitre;Malaver;32321
+01/11/2018;mitre;Maq. Savio;2075
+01/11/2019;mitre;Maq. Savio;1621
+01/11/2019;mitre;Martinez;164181
+01/11/2018;mitre;Martinez;167212
+01/11/2018;mitre;Matheu;1076
+01/11/2019;mitre;Matheu;1164
+01/11/2019;mitre;Migueletes;35296
+01/11/2018;mitre;Migueletes;49960
+01/11/2018;mitre;Mitre;66075
+01/11/2019;mitre;Mitre;56653
+01/11/2019;mitre;NuÃ±ez;128454
+01/11/2018;mitre;Nuñez;106138
+01/11/2018;mitre;Olivos;88507
+01/11/2019;mitre;Olivos;115058
+01/11/2019;mitre;Pueyrredon;72143
+01/11/2018;mitre;Pueyrredon;80234
+01/11/2018;mitre;Retiro (Suarez-Mitre);632640
+01/11/2019;mitre;Retiro (Suarez-Mitre);576650
+01/11/2019;mitre;Retiro (Tigre);709713
+01/11/2018;mitre;Retiro (Tigre);768854
+01/11/2018;mitre;Rivadavia;57912
+01/11/2019;mitre;Rivadavia;117453
+01/11/2019;mitre;Saavedra;36134
+01/11/2018;mitre;Saavedra;44872
+01/11/2018;mitre;San Andres;54697
+01/11/2019;mitre;San Andres;42932
+01/11/2019;mitre;San Fernando;122765
+01/11/2018;mitre;San Fernando;97096
+01/11/2018;mitre;San Isidro;296071
+01/11/2019;mitre;San Isidro;293417
+01/11/2019;mitre;San Martin;225698
+01/11/2018;mitre;San Martin;241702
+01/11/2018;mitre;Tigre;294574
+01/11/2019;mitre;Tigre;323670
+01/11/2019;mitre;Urquiza;228824
+01/11/2018;mitre;Urquiza;240793
+01/11/2018;mitre;V. Ballester;153932
+01/11/2019;mitre;V. Ballester;151266
+01/11/2019;mitre;Vicente Lopez;88138
+01/11/2018;mitre;Vicente Lopez;95562
+01/11/2018;mitre;Victoria Elect;79727
+01/11/2019;mitre;Victoria Elect;82697
+01/11/2019;mitre;Virreyes;144211
+01/11/2018;mitre;Virreyes;149074
+01/11/2018;mitre;Zarate;803
+01/11/2019;mitre;Zarate;648
+01/11/2019;mitre;Zelaya;308
+01/11/2018;mitre;Zelaya;399
+01/11/2018;roca;A. De Elia;3
+01/11/2018;roca;A. Petion;5927
+01/11/2019;roca;A. Petion;5017
+01/11/2019;roca;A.korn;199808
+01/11/2018;roca;A.korn;208114
+01/11/2019;roca;Abbot;853
+01/11/2019;roca;Adrogue;298910
+01/11/2018;roca;Adrogue;318368
+01/11/2018;roca;Altamirano;1
+01/11/2019;roca;Altamirano;464
+01/11/2019;roca;Ardigo;155145
+01/11/2018;roca;Ardigo;131934
+01/11/2018;roca;Banfield;570957
+01/11/2019;roca;Banfield;534726
+01/11/2019;roca;Berazategui;306288
+01/11/2018;roca;Berazategui;255501
+01/11/2018;roca;Bernal;142304
+01/11/2019;roca;Bernal;179141
+01/11/2019;roca;Bosques;105720
+01/11/2018;roca;Bosques;105934
+01/11/2018;roca;Brandsen;140
+01/11/2019;roca;Brandsen;1718
+01/11/2018;roca;Brian;1
+01/11/2018;roca;Burzaco;514206
+01/11/2019;roca;Burzaco;463862
+01/11/2019;roca;Calzada;162316
+01/11/2018;roca;Calzada;154286
+01/11/2018;roca;Canuelas;27529
+01/11/2019;roca;Canuelas;29639
+01/11/2019;roca;Chascomus;9131
+01/11/2018;roca;Chascomus;237
+01/11/2018;roca;City Bell;43745
+01/11/2019;roca;City Bell;54122
+01/11/2019;roca;Claypole;290918
+01/11/2018;roca;Claypole;271229
+01/11/2018;roca;Constitucion;4192582
+01/11/2019;roca;Constitucion;4213555
+01/11/2019;roca;Dario Y Maxi;242732
+01/11/2018;roca;Dario Y Maxi;276339
+01/11/2018;roca;Don Bosco;58967
+01/11/2019;roca;Don Bosco;63427
+01/11/2019;roca;El Jaguel;188973
+01/11/2018;roca;El Jaguel;200200
+01/11/2019;roca;Emp. Lobos;379
+01/11/2019;roca;Escalada;154786
+01/11/2018;roca;Escalada;143320
+01/11/2018;roca;Ezeiza;381684
+01/11/2019;roca;Ezeiza;489188
+01/11/2019;roca;Ezpeleta;202167
+01/11/2018;roca;Ezpeleta;200545
+01/11/2018;roca;F. Varela;281153
+01/11/2019;roca;F. Varela;304142
+01/11/2019;roca;Gandara;274
+01/11/2019;roca;Gerli;129488
+01/11/2018;roca;Gerli;158475
+01/11/2018;roca;Glew;625419
+01/11/2019;roca;Glew;550361
+01/11/2019;roca;Gonnet;33899
+01/11/2018;roca;Gonnet;27502
+01/11/2018;roca;Guernica;140900
+01/11/2019;roca;Guernica;201038
+01/11/2019;roca;Gutierrez;3971
+01/11/2018;roca;Gutierrez;6431
+01/11/2018;roca;H. Espanol;14
+01/11/2018;roca;Haedo;2243
+01/11/2019;roca;Haedo;14
+01/11/2019;roca;Hudson;75958
+01/11/2018;roca;Hudson;64843
+01/11/2018;roca;J. Marmol;55502
+01/11/2019;roca;J. Marmol;81700
+01/11/2019;roca;Jeppener;2187
+01/11/2018;roca;Jeppener;4
+01/11/2018;roca;Juan XXIII;1
+01/11/2018;roca;Kloosterman;131
+01/11/2019;roca;Kloosterman;582
+01/11/2018;roca;Km. 33;4
+01/11/2018;roca;Km. 34;14
+01/11/2018;roca;L. De Zamora;1030635
+01/11/2019;roca;L. De Zamora;1067432
+01/11/2019;roca;L. Guillon;138823
+01/11/2018;roca;L. Guillon;136139
+01/11/2018;roca;La Noria;4
+01/11/2018;roca;La Plata;300472
+01/11/2019;roca;La Plata;353997
+01/11/2019;roca;Lanus;869694
+01/11/2018;roca;Lanus;890430
+01/11/2018;roca;Levene;63
+01/11/2019;roca;Levene;1761
+01/11/2019;roca;Llavallol;98100
+01/11/2018;roca;Llavallol;91191
+01/11/2019;roca;Lobos;2513
+01/11/2019;roca;Longchamps;464650
+01/11/2018;roca;Longchamps;456571
+01/11/2018;roca;Maximo Paz;5702
+01/11/2019;roca;Maximo Paz;10667
+01/11/2019;roca;Monte;4781
+01/11/2018;roca;Monte;1
+01/11/2018;roca;Monte Grande;552226
+01/11/2019;roca;Monte Grande;548588
+01/11/2019;roca;Pereyra;4464
+01/11/2018;roca;Pereyra;3103
+01/11/2018;roca;Platanos;49403
+01/11/2019;roca;Platanos;52400
+01/11/2018;roca;Policlinico;52
+01/11/2018;roca;Quilmes;389528
+01/11/2019;roca;Quilmes;425628
+01/11/2019;roca;Ranelagh;49875
+01/11/2018;roca;Ranelagh;38501
+01/11/2018;roca;Ringuelet;9596
+01/11/2019;roca;Ringuelet;14219
+01/11/2019;roca;San Justo;6
+01/11/2018;roca;San Justo;343
+01/11/2018;roca;Santa Sofia;13375
+01/11/2019;roca;Santa Sofia;9351
+01/11/2019;roca;Sarandi;54999
+01/11/2018;roca;Sarandi;49865
+01/11/2018;roca;Sourigues;41252
+01/11/2019;roca;Sourigues;44580
+01/11/2019;roca;Spegazzini;14101
+01/11/2018;roca;Spegazzini;13951
+01/11/2018;roca;Sta. Catalina;1
+01/11/2018;roca;Tablada;305
+01/11/2019;roca;Tablada;3
+01/11/2019;roca;Temperley;231146
+01/11/2018;roca;Temperley;285294
+01/11/2018;roca;Tolosa;10617
+01/11/2019;roca;Tolosa;19281
+01/11/2019;roca;Tristan Suarez;23984
+01/11/2018;roca;Tristan Suarez;28131
+01/11/2018;roca;Turdera;95855
+01/11/2019;roca;Turdera;113223
+01/11/2019;roca;U. Ferroviaria;2700
+01/11/2018;roca;U. Ferroviaria;2517
+01/11/2019;roca;Universitario;28805
+01/11/2019;roca;Uribelarrea;868
+01/11/2019;roca;V. Casares;1424
+01/11/2018;roca;V. Casares;126
+01/11/2018;roca;V. Dominico;22017
+01/11/2019;roca;V. Dominico;56849
+01/11/2019;roca;Villa Elisa;48789
+01/11/2018;roca;Villa Elisa;43083
+01/11/2018;roca;Villa Espana;40134
+01/11/2019;roca;Villa Espana;42721
+01/11/2019;roca;Wilde;93205
+01/11/2018;roca;Wilde;78117
+01/11/2018;roca;Yrigoyen;94917
+01/11/2019;roca;Yrigoyen;82350
+01/11/2019;roca;Zeballos;115190
+01/11/2018;roca;Zeballos;98874
+01/11/2018;sanmartin;Astolfi;14886
+01/11/2019;sanmartin;Astolfi;15264
+01/11/2019;sanmartin;B. Vista;120066
+01/11/2018;sanmartin;B. Vista;103246
+01/11/2018;sanmartin;Cabred;4040
+01/11/2019;sanmartin;Cabred;5495
+01/11/2019;sanmartin;Caseros;189915
+01/11/2018;sanmartin;Caseros;151377
+01/11/2018;sanmartin;Chacarita;33
+01/11/2019;sanmartin;Chacarita;30
+01/11/2019;sanmartin;Derqui;145520
+01/11/2018;sanmartin;Derqui;168810
+01/11/2018;sanmartin;Hurlingham;91310
+01/11/2019;sanmartin;Hurlingham;102344
+01/11/2019;sanmartin;J.C. Paz;502216
+01/11/2018;sanmartin;J.C. Paz;423431
+01/11/2018;sanmartin;Manzanares;2853
+01/11/2019;sanmartin;Manzanares;4034
+01/11/2019;sanmartin;Muniz;72677
+01/11/2018;sanmartin;Muniz;54938
+01/11/2018;sanmartin;Palermo;192
+01/11/2019;sanmartin;Palermo;325966
+01/11/2019;sanmartin;Palomar;126756
+01/11/2018;sanmartin;Palomar;95883
+01/11/2018;sanmartin;Paternal;13
+01/11/2019;sanmartin;Paternal;1
+01/11/2019;sanmartin;Pilar;141285
+01/11/2018;sanmartin;Pilar;160445
+01/11/2018;sanmartin;Retiro;31
+01/11/2019;sanmartin;Retiro;442834
+01/11/2019;sanmartin;S. Lugares;35525
+01/11/2018;sanmartin;S. Lugares;23088
+01/11/2018;sanmartin;Saenz Pena;108016
+01/11/2019;sanmartin;Saenz Pena;102903
+01/11/2019;sanmartin;San Miguel;347155
+01/11/2018;sanmartin;San Miguel;294931
+01/11/2018;sanmartin;Sol Y Verde;92185
+01/11/2019;sanmartin;Sol Y Verde;80667
+01/11/2019;sanmartin;V. Devoto;148903
+01/11/2018;sanmartin;V. Devoto;117520
+01/11/2018;sanmartin;V. Parque;310785
+01/11/2019;sanmartin;V. Parque;208309
+01/11/2019;sanmartin;W. Morris;61282
+01/11/2018;sanmartin;W. Morris;61438
+01/11/2018;sarmiento;Caballito;190927
+01/11/2019;sarmiento;Caballito;204140
+01/11/2019;sarmiento;Castelar;280946
+01/11/2018;sarmiento;Castelar;259034
+01/11/2018;sarmiento;Ciudadela;156530
+01/11/2019;sarmiento;Ciudadela;166459
+01/11/2019;sarmiento;Flores;275102
+01/11/2018;sarmiento;Flores;216072
+01/11/2018;sarmiento;Floresta;145447
+01/11/2019;sarmiento;Floresta;172552
+01/11/2019;sarmiento;Haedo;168738
+01/11/2018;sarmiento;Haedo;162532
+01/11/2018;sarmiento;Ituzaingo;292395
+01/11/2019;sarmiento;Ituzaingo;327491
+01/11/2019;sarmiento;Liniers;628068
+01/11/2018;sarmiento;Liniers;507665
+01/11/2018;sarmiento;Merlo;879399
+01/11/2019;sarmiento;Merlo;911656
+01/11/2019;sarmiento;Miserere;262
+01/11/2018;sarmiento;Miserere;219
+01/11/2018;sarmiento;Moreno;864818
+01/11/2019;sarmiento;Moreno;921916
+01/11/2019;sarmiento;Morón;1027715
+01/11/2018;sarmiento;Morón;916476
+01/11/2018;sarmiento;Once;1601815
+01/11/2019;sarmiento;Once;1723260
+01/11/2019;sarmiento;Paso del Rey;185979
+01/11/2018;sarmiento;Paso del Rey;225516
+01/11/2018;sarmiento;Ramos Mejía;477992
+01/11/2019;sarmiento;Ramos Mejía;510642
+01/11/2019;sarmiento;S.A de Padua;268703
+01/11/2018;sarmiento;S.A de Padua;270635
+01/11/2018;sarmiento;Villa Luro;103856
+01/11/2019;sarmiento;Villa Luro;109076
+01/10/2019;belgranonorte;Boulogne Sur;191366
+01/10/2019;belgranonorte;Del Viso;74355
+01/10/2019;belgranonorte;Don Torcuato;132309
+01/10/2019;belgranonorte;Florida;40689
+01/10/2019;belgranonorte;Grand Bourg;215364
+01/10/2019;belgranonorte;Ing. P. Nogués;102764
+01/10/2019;belgranonorte;Los Polvorines;137156
+01/10/2019;belgranonorte;Munro;115202
+01/10/2019;belgranonorte;R. S. Ortíz;71535
+01/10/2019;belgranonorte;Retiro;504566
+01/10/2019;belgranonorte;Villa Adelina;141904
+01/10/2019;belgranonorte;Villa Rosa;75932
+01/10/2019;belgranosur;Aldo Bonzi;3374
+01/10/2018;belgranosur;Aldo Bonzi;4603
+01/10/2018;belgranosur;Buenos Aires;5
+01/10/2019;belgranosur;Buenos Aires;3
+01/10/2019;belgranosur;Castello;71785
+01/10/2018;belgranosur;Castello;62389
+01/10/2018;belgranosur;Castillo;38932
+01/10/2019;belgranosur;Castillo;49423
+01/10/2019;belgranosur;Eva Duarte;53180
+01/10/2018;belgranosur;Eva Duarte;51853
+01/10/2018;belgranosur;Fournier;42893
+01/10/2019;belgranosur;Fournier;44265
+01/10/2019;belgranosur;G. Catan;215967
+01/10/2018;belgranosur;G. Catan;176673
+01/10/2018;belgranosur;I. Casanova;28751
+01/10/2019;belgranosur;I. Casanova;34648
+01/10/2019;belgranosur;Illia;29413
+01/10/2018;belgranosur;Illia;26615
+01/10/2018;belgranosur;Independencia;138485
+01/10/2019;belgranosur;Independencia;137462
+01/10/2019;belgranosur;J. Ingenieros;5686
+01/10/2018;belgranosur;J. Ingenieros;4521
+01/10/2018;belgranosur;KM. 12;491
+01/10/2019;belgranosur;KM. 12;2808
+01/10/2019;belgranosur;Laferrere;232593
+01/10/2018;belgranosur;Laferrere;230877
+01/10/2018;belgranosur;Libertad;34452
+01/10/2019;belgranosur;Libertad;39487
+01/10/2019;belgranosur;M. Belgrano;45927
+01/10/2018;belgranosur;M. Belgrano;45561
+01/10/2018;belgranosur;Mendeville;6566
+01/10/2019;belgranosur;Mendeville;6495
+01/10/2019;belgranosur;Merlo Gomez;23296
+01/10/2018;belgranosur;Merlo Gomez;24893
+01/10/2018;belgranosur;Querandi;32069
+01/10/2019;belgranosur;Querandi;33307
+01/10/2019;belgranosur;Saenz;271642
+01/10/2018;belgranosur;Saenz;283528
+01/10/2018;belgranosur;Tapiales;37552
+01/10/2019;belgranosur;Tapiales;39269
+01/10/2019;belgranosur;V. Madero;81056
+01/10/2018;belgranosur;V. Madero;82477
+01/10/2018;belgranosur;V. Soldati;43265
+01/10/2019;belgranosur;V. Soldati;46470
+01/10/2019;belgranosur;V.lugano;107652
+01/10/2018;belgranosur;V.lugano;99516
+01/10/2018;belgranosur;Villegas;6335
+01/10/2019;belgranosur;Villegas;7172
+01/10/2019;mitre;3 De Febrero;57630
+01/10/2018;mitre;3 De Febrero;91273
+01/10/2018;mitre;Acassuso;65892
+01/10/2019;mitre;Acassuso;77789
+01/10/2019;mitre;Beccar;89457
+01/10/2018;mitre;Beccar;72978
+01/10/2018;mitre;Belgrano C.;338501
+01/10/2019;mitre;Belgrano C.;380424
+01/10/2019;mitre;Belgrano R.;198034
+01/10/2018;mitre;Belgrano R.;219041
+01/10/2018;mitre;Benavidez;701
+01/10/2019;mitre;Benavidez;253
+01/10/2019;mitre;Carranza;185162
+01/10/2018;mitre;Carranza;230278
+01/10/2018;mitre;Carupa;91343
+01/10/2019;mitre;Carupa;92302
+01/10/2019;mitre;Centrangolo;16575
+01/10/2018;mitre;Centrangolo;19384
+01/10/2018;mitre;Chilavert;65321
+01/10/2019;mitre;Chilavert;54694
+01/10/2019;mitre;Coghlan;31950
+01/10/2018;mitre;Coghlan;36630
+01/10/2018;mitre;Colegiales;107808
+01/10/2019;mitre;Colegiales;84978
+01/10/2019;mitre;Drago;67021
+01/10/2018;mitre;Drago;62543
+01/10/2019;mitre;El Talar;26
+01/10/2019;mitre;Escobar;1591
+01/10/2018;mitre;Escobar;2840
+01/10/2018;mitre;Florida;26392
+01/10/2019;mitre;Florida;21657
+01/10/2019;mitre;Garin;996
+01/10/2018;mitre;Garin;1259
+01/10/2018;mitre;Jose Leon Suarez;285058
+01/10/2019;mitre;Jose Leon Suarez;233987
+01/10/2019;mitre;Juan B. Justo;20012
+01/10/2018;mitre;Juan B. Justo;25269
+01/10/2019;mitre;L. De La Torre;57318
+01/10/2019;mitre;La Lucila;66819
+01/10/2018;mitre;La Lucila;69996
+01/10/2018;mitre;Lopez Camelo;113
+01/10/2019;mitre;Lopez Camelo;586
+01/10/2019;mitre;Malaver;33336
+01/10/2018;mitre;Malaver;35166
+01/10/2019;mitre;Maq. Savio;1294
+01/10/2019;mitre;Martinez;173381
+01/10/2018;mitre;Martinez;184658
+01/10/2018;mitre;Matheu;2
+01/10/2019;mitre;Matheu;985
+01/10/2019;mitre;Migueletes;39012
+01/10/2018;mitre;Migueletes;54916
+01/10/2018;mitre;Mitre;75734
+01/10/2019;mitre;Mitre;56380
+01/10/2019;mitre;Nuñez;120845
+01/10/2018;mitre;Nuñez;119889
+01/10/2018;mitre;Olivos;98291
+01/10/2019;mitre;Olivos;127467
+01/10/2019;mitre;Pueyrredon;78266
+01/10/2018;mitre;Pueyrredon;92011
+01/10/2018;mitre;Retiro (Suarez-Mitre);729252
+01/10/2019;mitre;Retiro (Suarez-Mitre);590286
+01/10/2019;mitre;Retiro (Tigre);792257
+01/10/2018;mitre;Retiro (Tigre);861893
+01/10/2018;mitre;Rivadavia;53638
+01/10/2019;mitre;Rivadavia;105632
+01/10/2019;mitre;Saavedra;38385
+01/10/2018;mitre;Saavedra;52647
+01/10/2018;mitre;San Andres;63417
+01/10/2019;mitre;San Andres;46191
+01/10/2019;mitre;San Fernando;135050
+01/10/2018;mitre;San Fernando;101129
+01/10/2018;mitre;San Isidro;337456
+01/10/2019;mitre;San Isidro;313973
+01/10/2019;mitre;San Martin;237343
+01/10/2018;mitre;San Martin;283621
+01/10/2018;mitre;Tigre;334860
+01/10/2019;mitre;Tigre;291891
+01/10/2019;mitre;Urquiza;246798
+01/10/2018;mitre;Urquiza;274257
+01/10/2018;mitre;V. Ballester;177806
+01/10/2019;mitre;V. Ballester;166197
+01/10/2019;mitre;Vicente Lopez;90137
+01/10/2018;mitre;Vicente Lopez;106316
+01/10/2018;mitre;Victoria Elect;82974
+01/10/2019;mitre;Victoria Elect;87331
+01/10/2019;mitre;Virreyes;155933
+01/10/2018;mitre;Virreyes;167986
+01/10/2018;mitre;Zarate;322
+01/10/2019;mitre;Zarate;616
+01/10/2019;mitre;Zelaya;259
+01/10/2018;mitre;Zelaya;496
+01/10/2018;roca;A. De Elia;3
+01/10/2018;roca;A. Petion;6281
+01/10/2019;roca;A. Petion;5405
+01/10/2019;roca;A.korn;192275
+01/10/2018;roca;A.korn;231126
+01/10/2019;roca;Abbot;744
+01/10/2019;roca;Adrogue;323061
+01/10/2018;roca;Adrogue;352433
+01/10/2019;roca;Altamirano;210
+01/10/2019;roca;Ardigo;168697
+01/10/2018;roca;Ardigo;147213
+01/10/2018;roca;Banfield;642671
+01/10/2019;roca;Banfield;587945
+01/10/2019;roca;Berazategui;309697
+01/10/2018;roca;Berazategui;289984
+01/10/2018;roca;Bernal;148414
+01/10/2019;roca;Bernal;191207
+01/10/2019;roca;Bosques;113858
+01/10/2018;roca;Bosques;115204
+01/10/2018;roca;Brandsen;184
+01/10/2019;roca;Brandsen;1472
+01/10/2019;roca;Burzaco;497393
+01/10/2018;roca;Burzaco;582419
+01/10/2018;roca;Calzada;170609
+01/10/2019;roca;Calzada;175236
+01/10/2019;roca;Canuelas;28741
+01/10/2018;roca;Canuelas;30886
+01/10/2018;roca;Chascomus;644
+01/10/2019;roca;Chascomus;3280
+01/10/2019;roca;City Bell;55422
+01/10/2018;roca;City Bell;49172
+01/10/2018;roca;Claypole;321383
+01/10/2019;roca;Claypole;310779
+01/10/2019;roca;Constitucion;4525513
+01/10/2018;roca;Constitucion;4734188
+01/10/2018;roca;Dario Y Maxi;316364
+01/10/2019;roca;Dario Y Maxi;270302
+01/10/2019;roca;Don Bosco;66374
+01/10/2018;roca;Don Bosco;65139
+01/10/2018;roca;El Jaguel;227378
+01/10/2019;roca;El Jaguel;212737
+01/10/2019;roca;Emp. Lobos;473
+01/10/2019;roca;Escalada;174819
+01/10/2018;roca;Escalada;166199
+01/10/2018;roca;Ezeiza;535738
+01/10/2019;roca;Ezeiza;529981
+01/10/2019;roca;Ezpeleta;216726
+01/10/2018;roca;Ezpeleta;220439
+01/10/2018;roca;F. Varela;303297
+01/10/2019;roca;F. Varela;339198
+01/10/2019;roca;Gandara;146
+01/10/2019;roca;Gerli;139865
+01/10/2018;roca;Gerli;178127
+01/10/2018;roca;Glew;717240
+01/10/2019;roca;Glew;602098
+01/10/2019;roca;Gonnet;33800
+01/10/2018;roca;Gonnet;29885
+01/10/2018;roca;Guernica;155494
+01/10/2019;roca;Guernica;207798
+01/10/2019;roca;Gutierrez;4268
+01/10/2018;roca;Gutierrez;7888
+01/10/2018;roca;H. Espanol;16
+01/10/2018;roca;Haedo;2651
+01/10/2019;roca;Haedo;1155
+01/10/2019;roca;Hudson;80406
+01/10/2018;roca;Hudson;76179
+01/10/2018;roca;J. Marmol;63591
+01/10/2019;roca;J. Marmol;89899
+01/10/2019;roca;Jeppener;1335
+01/10/2018;roca;Jeppener;1
+01/10/2018;roca;Juan XXIII;1
+01/10/2019;roca;Juan XXIII;2
+01/10/2019;roca;Kloosterman;523
+01/10/2018;roca;Kloosterman;185
+01/10/2018;roca;Km. 33;6
+01/10/2019;roca;Km. 33;1
+01/10/2018;roca;Km. 34;7
+01/10/2018;roca;L. De Zamora;1210977
+01/10/2019;roca;L. De Zamora;1140104
+01/10/2019;roca;L. Guillon;149539
+01/10/2018;roca;L. Guillon;161085
+01/10/2018;roca;La Noria;3
+01/10/2019;roca;La Noria;4
+01/10/2019;roca;La Plata;367627
+01/10/2018;roca;La Plata;328377
+01/10/2018;roca;Lanus;997612
+01/10/2019;roca;Lanus;944551
+01/10/2019;roca;Levene;1846
+01/10/2018;roca;Levene;94
+01/10/2018;roca;Llavallol;103258
+01/10/2019;roca;Llavallol;104425
+01/10/2019;roca;Lobos;2755
+01/10/2019;roca;Longchamps;488426
+01/10/2018;roca;Longchamps;518687
+01/10/2018;roca;Maximo Paz;12928
+01/10/2019;roca;Maximo Paz;10450
+01/10/2019;roca;Monte;3893
+01/10/2018;roca;Monte;8
+01/10/2018;roca;Monte Grande;600471
+01/10/2019;roca;Monte Grande;600808
+01/10/2019;roca;Pereyra;4887
+01/10/2018;roca;Pereyra;1223
+01/10/2018;roca;Platanos;57227
+01/10/2019;roca;Platanos;54753
+01/10/2018;roca;Policlinico;184
+01/10/2018;roca;Quilmes;428183
+01/10/2019;roca;Quilmes;456232
+01/10/2019;roca;Ranelagh;50117
+01/10/2018;roca;Ranelagh;30872
+01/10/2018;roca;Ringuelet;10235
+01/10/2019;roca;Ringuelet;14163
+01/10/2019;roca;San Justo;203
+01/10/2018;roca;San Justo;330
+01/10/2018;roca;Santa Sofia;16004
+01/10/2019;roca;Santa Sofia;10934
+01/10/2019;roca;Sarandi;59148
+01/10/2018;roca;Sarandi;52084
+01/10/2018;roca;Sourigues;30563
+01/10/2019;roca;Sourigues;46239
+01/10/2019;roca;Spegazzini;14530
+01/10/2018;roca;Spegazzini;14123
+01/10/2018;roca;Tablada;376
+01/10/2019;roca;Tablada;357
+01/10/2019;roca;Temperley;251385
+01/10/2018;roca;Temperley;320104
+01/10/2018;roca;Tolosa;6412
+01/10/2019;roca;Tolosa;21252
+01/10/2019;roca;Tristan Suarez;25851
+01/10/2018;roca;Tristan Suarez;26852
+01/10/2018;roca;Turdera;115207
+01/10/2019;roca;Turdera;120752
+01/10/2019;roca;U. Ferroviaria;2512
+01/10/2018;roca;U. Ferroviaria;151
+01/10/2019;roca;Universitario;35496
+01/10/2019;roca;Uribelarrea;628
+01/10/2019;roca;V. Casares;1366
+01/10/2018;roca;V. Casares;114
+01/10/2018;roca;V. Dominico;43079
+01/10/2019;roca;V. Dominico;59606
+01/10/2019;roca;Villa Elisa;57078
+01/10/2018;roca;Villa Elisa;53244
+01/10/2018;roca;Villa Espana;32585
+01/10/2019;roca;Villa Espana;43941
+01/10/2019;roca;Wilde;99620
+01/10/2018;roca;Wilde;84897
+01/10/2018;roca;Yrigoyen;106499
+01/10/2019;roca;Yrigoyen;93502
+01/10/2019;roca;Zeballos;120161
+01/10/2018;roca;Zeballos;107695
+01/10/2018;sanmartin;Astolfi;15889
+01/10/2019;sanmartin;Astolfi;16286
+01/10/2019;sanmartin;B. Vista;130321
+01/10/2018;sanmartin;B. Vista;117149
+01/10/2018;sanmartin;Cabred;4854
+01/10/2019;sanmartin;Cabred;5480
+01/10/2019;sanmartin;Caseros;203725
+01/10/2018;sanmartin;Caseros;171470
+01/10/2018;sanmartin;Chacarita;73
+01/10/2019;sanmartin;Chacarita;32
+01/10/2019;sanmartin;Derqui;154169
+01/10/2018;sanmartin;Derqui;193708
+01/10/2018;sanmartin;Hurlingham;99892
+01/10/2019;sanmartin;Hurlingham;109041
+01/10/2019;sanmartin;J.C. Paz;526372
+01/10/2018;sanmartin;J.C. Paz;494683
+01/10/2018;sanmartin;Manzanares;3266
+01/10/2019;sanmartin;Manzanares;3631
+01/10/2019;sanmartin;Muniz;79951
+01/10/2018;sanmartin;Muniz;75384
+01/10/2018;sanmartin;Palermo;225
+01/10/2019;sanmartin;Palermo;355168
+01/10/2019;sanmartin;Palomar;135015
+01/10/2018;sanmartin;Palomar;106599
+01/10/2018;sanmartin;Paternal;16
+01/10/2019;sanmartin;Paternal;1
+01/10/2019;sanmartin;Pilar;143164
+01/10/2018;sanmartin;Pilar;180339
+01/10/2018;sanmartin;Retiro;32
+01/10/2019;sanmartin;Retiro;451851
+01/10/2019;sanmartin;S. Lugares;37523
+01/10/2018;sanmartin;S. Lugares;24494
+01/10/2018;sanmartin;Saenz Pena;128617
+01/10/2019;sanmartin;Saenz Pena;106910
+01/10/2019;sanmartin;San Miguel;372496
+01/10/2018;sanmartin;San Miguel;339212
+01/10/2018;sanmartin;Sol Y Verde;107138
+01/10/2019;sanmartin;Sol Y Verde;83008
+01/10/2019;sanmartin;V. Devoto;159353
+01/10/2018;sanmartin;V. Devoto;131517
+01/10/2018;sanmartin;V. Parque;339994
+01/10/2019;sanmartin;V. Parque;220162
+01/10/2019;sanmartin;W. Morris;67397
+01/10/2018;sanmartin;W. Morris;73189
+01/10/2018;sarmiento;Caballito;210224
+01/10/2019;sarmiento;Caballito;207636
+01/10/2019;sarmiento;Castelar;298200
+01/10/2018;sarmiento;Castelar;283780
+01/10/2018;sarmiento;Ciudadela;175993
+01/10/2019;sarmiento;Ciudadela;175939
+01/10/2019;sarmiento;Flores;288813
+01/10/2018;sarmiento;Flores;282483
+01/10/2018;sarmiento;Floresta;158197
+01/10/2019;sarmiento;Floresta;174109
+01/10/2019;sarmiento;Haedo;185499
+01/10/2018;sarmiento;Haedo;189116
+01/10/2018;sarmiento;Ituzaingo;332312
+01/10/2019;sarmiento;Ituzaingo;338596
+01/10/2019;sarmiento;Liniers;696078
+01/10/2018;sarmiento;Liniers;524821
+01/10/2018;sarmiento;Merlo;997104
+01/10/2019;sarmiento;Merlo;1002814
+01/10/2019;sarmiento;Miserere;264
+01/10/2018;sarmiento;Miserere;283
+01/10/2018;sarmiento;Moreno;955968
+01/10/2019;sarmiento;Moreno;984504
+01/10/2019;sarmiento;Morón;1083420
+01/10/2018;sarmiento;Morón;955233
+01/10/2018;sarmiento;Once;1822588
+01/10/2019;sarmiento;Once;1842933
+01/10/2019;sarmiento;Paso del Rey;228269
+01/10/2018;sarmiento;Paso del Rey;246380
+01/10/2018;sarmiento;Ramos Mejía;531445
+01/10/2019;sarmiento;Ramos Mejía;547342
+01/10/2019;sarmiento;S.A de Padua;289109
+01/10/2018;sarmiento;S.A de Padua;306271
+01/10/2018;sarmiento;Villa Luro;117906
+01/10/2019;sarmiento;Villa Luro;125904
+01/09/2019;belgranonorte;A. del Valle ;3
+01/09/2019;belgranonorte;Boulogne Sur;187701
+01/09/2019;belgranonorte;Del Viso;75077
+01/09/2019;belgranonorte;Don Torcuato;128421
+01/09/2019;belgranonorte;Florida;38805
+01/09/2019;belgranonorte;Grand Bourg;209951
+01/09/2019;belgranonorte;Ing. P. Nogués;104634
+01/09/2019;belgranonorte;Los Polvorines;139573
+01/09/2019;belgranonorte;Munro;114189
+01/09/2019;belgranonorte;R. S. Ortíz;75840
+01/09/2019;belgranonorte;Retiro;506143
+01/09/2019;belgranonorte;Villa Adelina;136291
+01/09/2019;belgranonorte;Villa Rosa;76469
+01/09/2019;belgranosur;Aldo Bonzi;3423
+01/09/2018;belgranosur;Aldo Bonzi;3396
+01/09/2018;belgranosur;Buenos Aires;10
+01/09/2019;belgranosur;Buenos Aires;2
+01/09/2019;belgranosur;Castello;73918
+01/09/2018;belgranosur;Castello;60258
+01/09/2018;belgranosur;Castillo;37696
+01/09/2019;belgranosur;Castillo;47888
+01/09/2019;belgranosur;Eva Duarte;55134
+01/09/2018;belgranosur;Eva Duarte;46783
+01/09/2018;belgranosur;Fournier;36224
+01/09/2019;belgranosur;Fournier;43257
+01/09/2019;belgranosur;G. Catan;217201
+01/09/2018;belgranosur;G. Catan;160763
+01/09/2018;belgranosur;I. Casanova;27566
+01/09/2019;belgranosur;I. Casanova;32448
+01/09/2019;belgranosur;Illia;29756
+01/09/2018;belgranosur;Illia;23089
+01/09/2018;belgranosur;Independencia;126765
+01/09/2019;belgranosur;Independencia;139583
+01/09/2018;belgranosur;Ing. Budge;1
+01/09/2018;belgranosur;J. Ingenieros;4154
+01/09/2019;belgranosur;J. Ingenieros;5542
+01/09/2019;belgranosur;KM. 12;2564
+01/09/2018;belgranosur;KM. 12;2186
+01/09/2018;belgranosur;Laferrere;212851
+01/09/2019;belgranosur;Laferrere;239606
+01/09/2019;belgranosur;Libertad;38697
+01/09/2018;belgranosur;Libertad;30786
+01/09/2018;belgranosur;M. Belgrano;43868
+01/09/2019;belgranosur;M. Belgrano;43313
+01/09/2019;belgranosur;Mendeville;6109
+01/09/2018;belgranosur;Mendeville;4737
+01/09/2018;belgranosur;Merlo Gomez;25399
+01/09/2019;belgranosur;Merlo Gomez;23062
+01/09/2018;belgranosur;Puente Alsina;1
+01/09/2018;belgranosur;Querandi;27963
+01/09/2019;belgranosur;Querandi;34579
+01/09/2019;belgranosur;Saenz;276447
+01/09/2018;belgranosur;Saenz;260839
+01/09/2018;belgranosur;Tapiales;33148
+01/09/2019;belgranosur;Tapiales;39143
+01/09/2019;belgranosur;V. Madero;78499
+01/09/2018;belgranosur;V. Madero;69378
+01/09/2018;belgranosur;V. Soldati;37142
+01/09/2019;belgranosur;V. Soldati;44221
+01/09/2019;belgranosur;V.lugano;105094
+01/09/2018;belgranosur;V.lugano;89634
+01/09/2018;belgranosur;Villegas;6066
+01/09/2019;belgranosur;Villegas;7319
+01/09/2019;mitre;3 De Febrero;62353
+01/09/2018;mitre;3 De Febrero;72303
+01/09/2018;mitre;Acassuso;57084
+01/09/2019;mitre;Acassuso;76371
+01/09/2019;mitre;Beccar;84050
+01/09/2018;mitre;Beccar;61146
+01/09/2018;mitre;Belgrano C.;264027
+01/09/2019;mitre;Belgrano C.;393158
+01/09/2019;mitre;Belgrano R.;188013
+01/09/2018;mitre;Belgrano R.;191396
+01/09/2018;mitre;Benavidez;640
+01/09/2019;mitre;Benavidez;355
+01/09/2019;mitre;Carranza;188968
+01/09/2018;mitre;Carranza;206845
+01/09/2018;mitre;Carupa;81147
+01/09/2019;mitre;Carupa;80756
+01/09/2019;mitre;Centrangolo;16495
+01/09/2018;mitre;Centrangolo;17187
+01/09/2018;mitre;Chilavert;56523
+01/09/2019;mitre;Chilavert;53352
+01/09/2019;mitre;Coghlan;30505
+01/09/2018;mitre;Coghlan;7137
+01/09/2018;mitre;Colegiales;95774
+01/09/2019;mitre;Colegiales;92464
+01/09/2019;mitre;Drago;66095
+01/09/2018;mitre;Drago;58666
+01/09/2018;mitre;El Talar;36
+01/09/2019;mitre;El Talar;26
+01/09/2019;mitre;Escobar;2408
+01/09/2018;mitre;Escobar;2417
+01/09/2018;mitre;Florida;22871
+01/09/2019;mitre;Florida;20851
+01/09/2019;mitre;Garin;1347
+01/09/2018;mitre;Garin;1700
+01/09/2018;mitre;Jose Leon Suarez;253945
+01/09/2019;mitre;Jose Leon Suarez;220646
+01/09/2019;mitre;Juan B. Justo;19998
+01/09/2018;mitre;Juan B. Justo;22599
+01/09/2019;mitre;L. De La Torre;26895
+01/09/2019;mitre;La Lucila;63854
+01/09/2018;mitre;La Lucila;30993
+01/09/2018;mitre;Lopez Camelo;46
+01/09/2019;mitre;Lopez Camelo;1154
+01/09/2019;mitre;Malaver;31592
+01/09/2018;mitre;Malaver;31938
+01/09/2018;mitre;Maq. Savio;1915
+01/09/2019;mitre;Maq. Savio;2040
+01/09/2019;mitre;Martinez;170820
+01/09/2018;mitre;Martinez;157542
+01/09/2018;mitre;Matheu;1251
+01/09/2019;mitre;Matheu;1460
+01/09/2019;mitre;Migueletes;38845
+01/09/2018;mitre;Migueletes;40686
+01/09/2018;mitre;Mitre;69294
+01/09/2019;mitre;Mitre;54673
+01/09/2018;mitre;Nu;101611
+01/09/2019;mitre;Nuñez;125021
+01/09/2019;mitre;Olivos;122756
+01/09/2018;mitre;Olivos;81280
+01/09/2018;mitre;Pueyrredon;80826
+01/09/2019;mitre;Pueyrredon;74291
+01/09/2019;mitre;Retiro (Suarez-Mitre);585717
+01/09/2018;mitre;Retiro (Suarez-Mitre);639816
+01/09/2018;mitre;Retiro (Tigre);688849
+01/09/2019;mitre;Retiro (Tigre);760277
+01/09/2019;mitre;Rivadavia;89596
+01/09/2018;mitre;Rivadavia;67393
+01/09/2018;mitre;Saavedra;46522
+01/09/2019;mitre;Saavedra;37999
+01/09/2019;mitre;San Andres;45129
+01/09/2018;mitre;San Andres;53214
+01/09/2018;mitre;San Fernando;83069
+01/09/2019;mitre;San Fernando;135037
+01/09/2019;mitre;San Isidro;310383
+01/09/2018;mitre;San Isidro;289829
+01/09/2018;mitre;San Martin;254749
+01/09/2019;mitre;San Martin;231016
+01/09/2019;mitre;Tigre;324001
+01/09/2018;mitre;Tigre;249791
+01/09/2018;mitre;Urquiza;243801
+01/09/2019;mitre;Urquiza;231002
+01/09/2019;mitre;V. Ballester;157613
+01/09/2018;mitre;V. Ballester;159148
+01/09/2018;mitre;Vicente Lopez;89516
+01/09/2019;mitre;Vicente Lopez;89379
+01/09/2019;mitre;Victoria Elect;85195
+01/09/2018;mitre;Victoria Elect;77364
+01/09/2018;mitre;Virreyes;140137
+01/09/2019;mitre;Virreyes;157870
+01/09/2019;mitre;Zarate;767
+01/09/2018;mitre;Zarate;305
+01/09/2018;mitre;Zelaya;390
+01/09/2019;mitre;Zelaya;265
+01/09/2019;roca;A. De Elia;7
+01/09/2018;roca;A. De Elia;17
+01/09/2018;roca;A. Petion;5979
+01/09/2019;roca;A. Petion;5255
+01/09/2019;roca;A.korn;183516
+01/09/2018;roca;A.korn;207211
+01/09/2019;roca;Abbot;850
+01/09/2019;roca;Adrogue;316027
+01/09/2018;roca;Adrogue;319439
+01/09/2019;roca;Altamirano;162
+01/09/2019;roca;Ardigo;167409
+01/09/2018;roca;Ardigo;128095
+01/09/2018;roca;Banfield;568711
+01/09/2019;roca;Banfield;566026
+01/09/2019;roca;Berazategui;305670
+01/09/2018;roca;Berazategui;249270
+01/09/2018;roca;Bernal;118000
+01/09/2019;roca;Bernal;188454
+01/09/2019;roca;Bosques;110465
+01/09/2018;roca;Bosques;84140
+01/09/2018;roca;Brandsen;683
+01/09/2019;roca;Brandsen;1419
+01/09/2019;roca;Brian;3
+01/09/2019;roca;Burzaco;479312
+01/09/2018;roca;Burzaco;515017
+01/09/2018;roca;Calzada;154674
+01/09/2019;roca;Calzada;168114
+01/09/2019;roca;Canuelas;29382
+01/09/2018;roca;Canuelas;27450
+01/09/2018;roca;Chascomus;1354
+01/09/2019;roca;Chascomus;3479
+01/09/2019;roca;City Bell;58381
+01/09/2018;roca;City Bell;47638
+01/09/2018;roca;Claypole;291537
+01/09/2019;roca;Claypole;298225
+01/09/2019;roca;Constitucion;4410897
+01/09/2018;roca;Constitucion;4178554
+01/09/2018;roca;Dario Y Maxi;286010
+01/09/2019;roca;Dario Y Maxi;267260
+01/09/2019;roca;Don Bosco;63936
+01/09/2018;roca;Don Bosco;50118
+01/09/2018;roca;El Jaguel;146348
+01/09/2019;roca;El Jaguel;205409
+01/09/2019;roca;Emp. Lobos;475
+01/09/2019;roca;Escalada;171561
+01/09/2018;roca;Escalada;144341
+01/09/2018;roca;Ezeiza;495371
+01/09/2019;roca;Ezeiza;522281
+01/09/2019;roca;Ezpeleta;210088
+01/09/2018;roca;Ezpeleta;163801
+01/09/2018;roca;F. Varela;250948
+01/09/2019;roca;F. Varela;334632
+01/09/2019;roca;Gandara;16
+01/09/2019;roca;Gerli;138610
+01/09/2018;roca;Gerli;155050
+01/09/2018;roca;Glew;652293
+01/09/2019;roca;Glew;603271
+01/09/2019;roca;Gonnet;36572
+01/09/2018;roca;Gonnet;24575
+01/09/2018;roca;Guernica;136975
+01/09/2019;roca;Guernica;198119
+01/09/2019;roca;Gutierrez;4618
+01/09/2018;roca;Gutierrez;5701
+01/09/2018;roca;H. Espanol;15
+01/09/2018;roca;Haedo;2120
+01/09/2019;roca;Haedo;1455
+01/09/2019;roca;Hudson;80776
+01/09/2018;roca;Hudson;67300
+01/09/2018;roca;J. Marmol;53359
+01/09/2019;roca;J. Marmol;87227
+01/09/2019;roca;Jeppener;422
+01/09/2018;roca;Jeppener;3
+01/09/2018;roca;Juan XXIII;8
+01/09/2019;roca;Juan XXIII;3
+01/09/2019;roca;Kloosterman;602
+01/09/2018;roca;Kloosterman;198
+01/09/2018;roca;Km. 33;1
+01/09/2019;roca;Km. 33;3
+01/09/2019;roca;Km. 34;4
+01/09/2018;roca;Km. 34;3
+01/09/2018;roca;L. De Zamora;1089927
+01/09/2019;roca;L. De Zamora;1108713
+01/09/2019;roca;L. Guillon;145323
+01/09/2018;roca;L. Guillon;144731
+01/09/2018;roca;La Noria;2
+01/09/2018;roca;La Plata;327390
+01/09/2019;roca;La Plata;370193
+01/09/2019;roca;Lanus;926305
+01/09/2018;roca;Lanus;899907
+01/09/2018;roca;Levene;74
+01/09/2019;roca;Levene;1599
+01/09/2019;roca;Llavallol;104535
+01/09/2018;roca;Llavallol;94976
+01/09/2019;roca;Lobos;2964
+01/09/2019;roca;Longchamps;475363
+01/09/2018;roca;Longchamps;479639
+01/09/2018;roca;Maximo Paz;723
+01/09/2019;roca;Maximo Paz;11182
+01/09/2019;roca;Monte;4143
+01/09/2018;roca;Monte;149
+01/09/2018;roca;Monte Grande;542941
+01/09/2019;roca;Monte Grande;592430
+01/09/2019;roca;Pereyra;5460
+01/09/2018;roca;Pereyra;822
+01/09/2018;roca;Platanos;54539
+01/09/2019;roca;Platanos;54731
+01/09/2018;roca;Policlinico;165
+01/09/2018;roca;Quilmes;360725
+01/09/2019;roca;Quilmes;445259
+01/09/2019;roca;Ranelagh;50087
+01/09/2018;roca;Ranelagh;13464
+01/09/2018;roca;Ringuelet;9477
+01/09/2019;roca;Ringuelet;14785
+01/09/2019;roca;San Justo;364
+01/09/2018;roca;San Justo;319
+01/09/2018;roca;Santa Sofia;14518
+01/09/2019;roca;Santa Sofia;11343
+01/09/2019;roca;Sarandi;59229
+01/09/2018;roca;Sarandi;43387
+01/09/2018;roca;Sourigues;14813
+01/09/2019;roca;Sourigues;44976
+01/09/2019;roca;Spegazzini;15183
+01/09/2018;roca;Spegazzini;12374
+01/09/2018;roca;Tablada;321
+01/09/2019;roca;Tablada;440
+01/09/2019;roca;Temperley;246052
+01/09/2018;roca;Temperley;285344
+01/09/2018;roca;Tolosa;14493
+01/09/2019;roca;Tolosa;22355
+01/09/2019;roca;Tristan Suarez;26015
+01/09/2018;roca;Tristan Suarez;20773
+01/09/2018;roca;Turdera;103273
+01/09/2019;roca;Turdera;118529
+01/09/2019;roca;U. Ferroviaria;2693
+01/09/2018;roca;U. Ferroviaria;133
+01/09/2019;roca;Universitario;35676
+01/09/2019;roca;Uribelarrea;851
+01/09/2019;roca;V. Casares;1630
+01/09/2018;roca;V. Casares;117
+01/09/2018;roca;V. Dominico;4833
+01/09/2019;roca;V. Dominico;60311
+01/09/2019;roca;Villa Elisa;52341
+01/09/2018;roca;Villa Elisa;41080
+01/09/2018;roca;Villa Espana;9436
+01/09/2019;roca;Villa Espana;42342
+01/09/2019;roca;Wilde;97521
+01/09/2018;roca;Wilde;64547
+01/09/2018;roca;Yrigoyen;92149
+01/09/2019;roca;Yrigoyen;86486
+01/09/2019;roca;Zeballos;117089
+01/09/2018;roca;Zeballos;91048
+01/09/2018;sanmartin;Astolfi;14609
+01/09/2019;sanmartin;Astolfi;16644
+01/09/2019;sanmartin;B. Vista;125214
+01/09/2018;sanmartin;B. Vista;105581
+01/09/2018;sanmartin;Cabred;3829
+01/09/2019;sanmartin;Cabred;5437
+01/09/2019;sanmartin;Caseros;197214
+01/09/2018;sanmartin;Caseros;152114
+01/09/2018;sanmartin;Chacarita;69
+01/09/2019;sanmartin;Chacarita;15
+01/09/2019;sanmartin;Derqui;150024
+01/09/2018;sanmartin;Derqui;175563
+01/09/2018;sanmartin;Hurlingham;88081
+01/09/2019;sanmartin;Hurlingham;106765
+01/09/2019;sanmartin;J.C. Paz;528923
+01/09/2018;sanmartin;J.C. Paz;445205
+01/09/2018;sanmartin;Manzanares;2406
+01/09/2019;sanmartin;Manzanares;3537
+01/09/2019;sanmartin;Muniz;76590
+01/09/2018;sanmartin;Muniz;68080
+01/09/2018;sanmartin;Palermo;179
+01/09/2019;sanmartin;Palermo;338214
+01/09/2019;sanmartin;Palomar;130479
+01/09/2018;sanmartin;Palomar;96744
+01/09/2018;sanmartin;Paternal;15
+01/09/2019;sanmartin;Paternal;3
+01/09/2019;sanmartin;Pilar;156350
+01/09/2018;sanmartin;Pilar;159931
+01/09/2018;sanmartin;Retiro;91
+01/09/2019;sanmartin;Retiro;422802
+01/09/2019;sanmartin;S. Lugares;35268
+01/09/2018;sanmartin;S. Lugares;21351
+01/09/2018;sanmartin;Saenz Pena;117309
+01/09/2019;sanmartin;Saenz Pena;103849
+01/09/2019;sanmartin;San Miguel;362796
+01/09/2018;sanmartin;San Miguel;331225
+01/09/2018;sanmartin;Sol Y Verde;98085
+01/09/2019;sanmartin;Sol Y Verde;86185
+01/09/2019;sanmartin;V. Devoto;155038
+01/09/2018;sanmartin;V. Devoto;115116
+01/09/2018;sanmartin;V. Parque;302907
+01/09/2019;sanmartin;V. Parque;216671
+01/09/2019;sanmartin;W. Morris;67247
+01/09/2018;sanmartin;W. Morris;66210
+01/09/2018;sarmiento;Caballito;182151
+01/09/2019;sarmiento;Caballito;208823
+01/09/2019;sarmiento;Castelar;287592
+01/09/2018;sarmiento;Castelar;250996
+01/09/2018;sarmiento;Ciudadela;158068
+01/09/2019;sarmiento;Ciudadela;173097
+01/09/2018;sarmiento;Estacion 25;40
+01/09/2018;sarmiento;Estacion 29;51
+01/09/2018;sarmiento;Estacion 31;23
+01/09/2018;sarmiento;Estacion 33;649
+01/09/2018;sarmiento;Estacion 36;397
+01/09/2018;sarmiento;Estacion 40;214
+01/09/2018;sarmiento;Flores;252807
+01/09/2019;sarmiento;Flores;278446
+01/09/2019;sarmiento;Floresta;166870
+01/09/2018;sarmiento;Floresta;135312
+01/09/2018;sarmiento;Haedo;167659
+01/09/2019;sarmiento;Haedo;182198
+01/09/2019;sarmiento;Ituzaingo;321597
+01/09/2018;sarmiento;Ituzaingo;302582
+01/09/2018;sarmiento;Liniers;470348
+01/09/2019;sarmiento;Liniers;669600
+01/09/2019;sarmiento;Merlo;944020
+01/09/2018;sarmiento;Merlo;889735
+01/09/2018;sarmiento;Miserere;337
+01/09/2019;sarmiento;Miserere;235
+01/09/2018;sarmiento;Mor;834831
+01/09/2018;sarmiento;Moreno;892659
+01/09/2019;sarmiento;Moreno;957887
+01/09/2019;sarmiento;Morón;1033370
+01/09/2019;sarmiento;Once;1825775
+01/09/2018;sarmiento;Once;1632491
+01/09/2018;sarmiento;Paso del Rey;216051
+01/09/2019;sarmiento;Paso del Rey;218667
+01/09/2018;sarmiento;Ramos Mej;490901
+01/09/2019;sarmiento;Ramos Mejía;566333
+01/09/2019;sarmiento;S.A de Padua;269532
+01/09/2018;sarmiento;S.A de Padua;280056
+01/09/2018;sarmiento;Villa Luro;102600
+01/09/2019;sarmiento;Villa Luro;126338
+01/08/2019;belgranonorte;Boulogne Sur;186972
+01/08/2019;belgranonorte;Del Viso;79340
+01/08/2019;belgranonorte;Don Torcuato;133226
+01/08/2019;belgranonorte;Florida;39755
+01/08/2019;belgranonorte;Grand Bourg;212642
+01/08/2019;belgranonorte;Ing. P. Nogués;107985
+01/08/2019;belgranonorte;Los Polvorines;141693
+01/08/2019;belgranonorte;Munro;114599
+01/08/2019;belgranonorte;R. S. Ortíz;70830
+01/08/2019;belgranonorte;Retiro;523381
+01/08/2019;belgranonorte;Villa Adelina;140681
+01/08/2019;belgranonorte;Villa Rosa;79543
+01/08/2019;belgranosur;Aldo Bonzi;3802
+01/08/2018;belgranosur;Aldo Bonzi;4201
+01/08/2018;belgranosur;Buenos Aires;33
+01/08/2019;belgranosur;Buenos Aires;8
+01/08/2019;belgranosur;Castello;76021
+01/08/2018;belgranosur;Castello;60404
+01/08/2018;belgranosur;Castillo;41281
+01/08/2019;belgranosur;Castillo;47570
+01/08/2019;belgranosur;Eva Duarte;55351
+01/08/2018;belgranosur;Eva Duarte;48974
+01/08/2018;belgranosur;Fournier;39560
+01/08/2019;belgranosur;Fournier;43076
+01/08/2019;belgranosur;G. Catan;206401
+01/08/2018;belgranosur;G. Catan;195491
+01/08/2018;belgranosur;I. Casanova;27918
+01/08/2019;belgranosur;I. Casanova;32202
+01/08/2019;belgranosur;Illia;29300
+01/08/2018;belgranosur;Illia;20414
+01/08/2018;belgranosur;Independencia;137432
+01/08/2019;belgranosur;Independencia;141564
+01/08/2019;belgranosur;J. Ingenieros;5583
+01/08/2018;belgranosur;J. Ingenieros;4318
+01/08/2018;belgranosur;KM. 12;2763
+01/08/2019;belgranosur;KM. 12;2476
+01/08/2019;belgranosur;Laferrere;244461
+01/08/2018;belgranosur;Laferrere;229610
+01/08/2018;belgranosur;Libertad;31300
+01/08/2019;belgranosur;Libertad;37896
+01/08/2019;belgranosur;M. Belgrano;41498
+01/08/2018;belgranosur;M. Belgrano;46526
+01/08/2018;belgranosur;Mendeville;5771
+01/08/2019;belgranosur;Mendeville;6098
+01/08/2019;belgranosur;Merlo Gomez;23960
+01/08/2018;belgranosur;Merlo Gomez;26592
+01/08/2018;belgranosur;Querandi;30755
+01/08/2019;belgranosur;Querandi;35072
+01/08/2019;belgranosur;Saenz;278210
+01/08/2018;belgranosur;Saenz;290353
+01/08/2018;belgranosur;Tapiales;35239
+01/08/2019;belgranosur;Tapiales;39403
+01/08/2019;belgranosur;V. Madero;79644
+01/08/2018;belgranosur;V. Madero;75784
+01/08/2018;belgranosur;V. Soldati;42663
+01/08/2019;belgranosur;V. Soldati;44538
+01/08/2019;belgranosur;V.lugano;103833
+01/08/2018;belgranosur;V.lugano;96495
+01/08/2018;belgranosur;Villegas;6798
+01/08/2019;belgranosur;Villegas;7143
+01/08/2019;mitre;3 De Febrero;61603
+01/08/2018;mitre;3 De Febrero;72371
+01/08/2018;mitre;Acassuso;65666
+01/08/2019;mitre;Acassuso;65227
+01/08/2019;mitre;Beccar;73515
+01/08/2018;mitre;Beccar;71408
+01/08/2018;mitre;Belgrano C.;293570
+01/08/2019;mitre;Belgrano C.;410477
+01/08/2019;mitre;Belgrano R.;191903
+01/08/2018;mitre;Belgrano R.;211729
+01/08/2018;mitre;Benavidez;483
+01/08/2019;mitre;Benavidez;283
+01/08/2019;mitre;Carranza;187660
+01/08/2018;mitre;Carranza;219887
+01/08/2018;mitre;Carupa;88559
+01/08/2019;mitre;Carupa;89066
+01/08/2019;mitre;Centrangolo;16246
+01/08/2018;mitre;Centrangolo;18357
+01/08/2018;mitre;Chilavert;61605
+01/08/2019;mitre;Chilavert;52180
+01/08/2019;mitre;Coghlan;31700
+01/08/2018;mitre;Coghlan;31070
+01/08/2018;mitre;Colegiales;101385
+01/08/2019;mitre;Colegiales;96459
+01/08/2019;mitre;Drago;62459
+01/08/2018;mitre;Drago;68312
+01/08/2018;mitre;El Talar;87
+01/08/2019;mitre;El Talar;21
+01/08/2019;mitre;Escobar;2253
+01/08/2018;mitre;Escobar;3374
+01/08/2018;mitre;Florida;24446
+01/08/2019;mitre;Florida;21216
+01/08/2019;mitre;Garin;1410
+01/08/2018;mitre;Garin;1863
+01/08/2018;mitre;Jose Leon Suarez;267077
+01/08/2019;mitre;Jose Leon Suarez;232587
+01/08/2019;mitre;Juan B. Justo;19436
+01/08/2018;mitre;Juan B. Justo;23648
+01/08/2018;mitre;La Lucila;61948
+01/08/2019;mitre;La Lucila;60835
+01/08/2019;mitre;Lopez Camelo;355
+01/08/2018;mitre;Lopez Camelo;1524
+01/08/2018;mitre;Malaver;34296
+01/08/2019;mitre;Malaver;32070
+01/08/2019;mitre;Maq. Savio;418
+01/08/2018;mitre;Maq. Savio;2273
+01/08/2018;mitre;Martinez;176866
+01/08/2019;mitre;Martinez;172169
+01/08/2019;mitre;Matheu;294
+01/08/2018;mitre;Matheu;1339
+01/08/2018;mitre;Migueletes;42591
+01/08/2019;mitre;Migueletes;38216
+01/08/2019;mitre;Mitre;55713
+01/08/2018;mitre;Mitre;72026
+01/08/2018;mitre;Nuñez;114467
+01/08/2019;mitre;Nuñez;124155
+01/08/2019;mitre;Olivos;118214
+01/08/2018;mitre;Olivos;95810
+01/08/2018;mitre;Pueyrredon;90326
+01/08/2019;mitre;Pueyrredon;75107
+01/08/2019;mitre;Retiro (Suarez-Mitre);592715
+01/08/2018;mitre;Retiro (Suarez-Mitre);713114
+01/08/2018;mitre;Retiro (Tigre);744735
+01/08/2019;mitre;Retiro (Tigre);746675
+01/08/2019;mitre;Rivadavia;85861
+01/08/2018;mitre;Rivadavia;100877
+01/08/2018;mitre;Saavedra;50717
+01/08/2019;mitre;Saavedra;38085
+01/08/2019;mitre;San Andres;45079
+01/08/2018;mitre;San Andres;54999
+01/08/2018;mitre;San Fernando;92347
+01/08/2019;mitre;San Fernando;125742
+01/08/2019;mitre;San Isidro;305971
+01/08/2018;mitre;San Isidro;331755
+01/08/2018;mitre;San Martin;281913
+01/08/2019;mitre;San Martin;236554
+01/08/2019;mitre;Tigre;322657
+01/08/2018;mitre;Tigre;317746
+01/08/2018;mitre;Urquiza;271465
+01/08/2019;mitre;Urquiza;237299
+01/08/2019;mitre;V. Ballester;159214
+01/08/2018;mitre;V. Ballester;180681
+01/08/2018;mitre;Vicente Lopez;99053
+01/08/2019;mitre;Vicente Lopez;84199
+01/08/2019;mitre;Victoria Elect;75077
+01/08/2018;mitre;Victoria Elect;87673
+01/08/2018;mitre;Virreyes;153941
+01/08/2019;mitre;Virreyes;154994
+01/08/2019;mitre;Zarate;724
+01/08/2018;mitre;Zarate;815
+01/08/2018;mitre;Zelaya;473
+01/08/2019;mitre;Zelaya;350
+01/08/2019;roca;A. De Elia;2
+01/08/2018;roca;A. De Elia;30
+01/08/2018;roca;A. Petion;6251
+01/08/2019;roca;A. Petion;5091
+01/08/2019;roca;A.korn;199063
+01/08/2018;roca;A.korn;230035
+01/08/2018;roca;Abbot;7
+01/08/2019;roca;Abbot;672
+01/08/2019;roca;Adrogue;316693
+01/08/2018;roca;Adrogue;350105
+01/08/2019;roca;Altamirano;226
+01/08/2019;roca;Ardigo;165459
+01/08/2018;roca;Ardigo;143697
+01/08/2018;roca;Banfield;627195
+01/08/2019;roca;Banfield;569953
+01/08/2019;roca;Berazategui;284876
+01/08/2018;roca;Berazategui;284571
+01/08/2018;roca;Bernal;92099
+01/08/2019;roca;Bernal;172576
+01/08/2019;roca;Bosques;105746
+01/08/2018;roca;Bosques;96296
+01/08/2018;roca;Brandsen;1098
+01/08/2019;roca;Brandsen;1652
+01/08/2018;roca;Brian;1
+01/08/2018;roca;Burzaco;574624
+01/08/2019;roca;Burzaco;472006
+01/08/2019;roca;Calzada;166309
+01/08/2018;roca;Calzada;171302
+01/08/2018;roca;Canuelas;29117
+01/08/2019;roca;Canuelas;29078
+01/08/2019;roca;Chascomus;4287
+01/08/2018;roca;Chascomus;2385
+01/08/2018;roca;City Bell;47461
+01/08/2019;roca;City Bell;55909
+01/08/2019;roca;Claypole;290460
+01/08/2018;roca;Claypole;315505
+01/08/2018;roca;Constitucion;4635975
+01/08/2019;roca;Constitucion;4537805
+01/08/2019;roca;Dario Y Maxi;252616
+01/08/2018;roca;Dario Y Maxi;303821
+01/08/2018;roca;Don Bosco;57633
+01/08/2019;roca;Don Bosco;63373
+01/08/2019;roca;El Jaguel;203671
+01/08/2018;roca;El Jaguel;217412
+01/08/2019;roca;Emp. Lobos;408
+01/08/2019;roca;Escalada;179211
+01/08/2018;roca;Escalada;158135
+01/08/2018;roca;Ezeiza;541570
+01/08/2019;roca;Ezeiza;527239
+01/08/2019;roca;Ezpeleta;202637
+01/08/2018;roca;Ezpeleta;196005
+01/08/2018;roca;F. Varela;280201
+01/08/2019;roca;F. Varela;353400
+01/08/2019;roca;Gandara;11
+01/08/2019;roca;Gerli;139948
+01/08/2018;roca;Gerli;164623
+01/08/2018;roca;Glew;705453
+01/08/2019;roca;Glew;613492
+01/08/2019;roca;Gonnet;39157
+01/08/2018;roca;Gonnet;20757
+01/08/2018;roca;Guernica;151224
+01/08/2019;roca;Guernica;203866
+01/08/2019;roca;Gutierrez;4686
+01/08/2018;roca;Gutierrez;8371
+01/08/2018;roca;H. Espanol;24
+01/08/2018;roca;Haedo;3141
+01/08/2019;roca;Haedo;1456
+01/08/2019;roca;Hudson;78166
+01/08/2018;roca;Hudson;69731
+01/08/2018;roca;J. Marmol;58510
+01/08/2019;roca;J. Marmol;86798
+01/08/2019;roca;Jeppener;359
+01/08/2019;roca;Juan XXIII;8
+01/08/2018;roca;Juan XXIII;5
+01/08/2018;roca;Kloosterman;144
+01/08/2019;roca;Kloosterman;528
+01/08/2019;roca;Km. 33;2
+01/08/2018;roca;Km. 33;10
+01/08/2018;roca;Km. 34;7
+01/08/2018;roca;L. De Zamora;1205164
+01/08/2019;roca;L. De Zamora;1130537
+01/08/2019;roca;L. Guillon;151995
+01/08/2018;roca;L. Guillon;157494
+01/08/2018;roca;La Noria;4
+01/08/2018;roca;La Plata;354286
+01/08/2019;roca;La Plata;359752
+01/08/2019;roca;Lanus;947388
+01/08/2018;roca;Lanus;999585
+01/08/2018;roca;Levene;112
+01/08/2019;roca;Levene;1548
+01/08/2019;roca;Llavallol;103981
+01/08/2018;roca;Llavallol;101749
+01/08/2019;roca;Lobos;2548
+01/08/2019;roca;Longchamps;499456
+01/08/2018;roca;Longchamps;533911
+01/08/2018;roca;Maximo Paz;1058
+01/08/2019;roca;Maximo Paz;11507
+01/08/2019;roca;Monte;3881
+01/08/2018;roca;Monte;69
+01/08/2018;roca;Monte Grande;611677
+01/08/2019;roca;Monte Grande;608078
+01/08/2019;roca;Pereyra;4723
+01/08/2018;roca;Pereyra;1141
+01/08/2018;roca;Platanos;54527
+01/08/2019;roca;Platanos;51608
+01/08/2018;roca;Policlinico;214
+01/08/2018;roca;Quilmes;376315
+01/08/2019;roca;Quilmes;447223
+01/08/2019;roca;Ranelagh;44691
+01/08/2018;roca;Ranelagh;9291
+01/08/2018;roca;Ringuelet;9275
+01/08/2019;roca;Ringuelet;14065
+01/08/2019;roca;San Justo;328
+01/08/2018;roca;San Justo;407
+01/08/2018;roca;Santa Sofia;15992
+01/08/2019;roca;Santa Sofia;12030
+01/08/2019;roca;Sarandi;55058
+01/08/2018;roca;Sarandi;46377
+01/08/2018;roca;Sourigues;16077
+01/08/2019;roca;Sourigues;41866
+01/08/2019;roca;Spegazzini;14896
+01/08/2018;roca;Spegazzini;12360
+01/08/2018;roca;Sta. Catalina;1
+01/08/2019;roca;Sta. Catalina;1
+01/08/2019;roca;Tablada;467
+01/08/2018;roca;Tablada;387
+01/08/2018;roca;Temperley;318930
+01/08/2019;roca;Temperley;251881
+01/08/2019;roca;Tolosa;21224
+01/08/2018;roca;Tolosa;12550
+01/08/2018;roca;Tristan Suarez;20955
+01/08/2019;roca;Tristan Suarez;25460
+01/08/2019;roca;Turdera;119238
+01/08/2018;roca;Turdera;108837
+01/08/2018;roca;U. Ferroviaria;152
+01/08/2019;roca;U. Ferroviaria;2594
+01/08/2019;roca;Universitario;32236
+01/08/2019;roca;Uribelarrea;681
+01/08/2019;roca;V. Casares;1468
+01/08/2018;roca;V. Casares;149
+01/08/2018;roca;V. Dominico;41354
+01/08/2019;roca;V. Dominico;56216
+01/08/2019;roca;Villa Elisa;51668
+01/08/2018;roca;Villa Elisa;39913
+01/08/2018;roca;Villa Espana;10387
+01/08/2019;roca;Villa Espana;39320
+01/08/2019;roca;Wilde;95340
+01/08/2018;roca;Wilde;74511
+01/08/2018;roca;Yrigoyen;101452
+01/08/2019;roca;Yrigoyen;86656
+01/08/2019;roca;Zeballos;115684
+01/08/2018;roca;Zeballos;99393
+01/08/2018;sanmartin;Astolfi;17955
+01/08/2019;sanmartin;Astolfi;17529
+01/08/2019;sanmartin;B. Vista;126400
+01/08/2018;sanmartin;B. Vista;114466
+01/08/2018;sanmartin;Cabred;3346
+01/08/2019;sanmartin;Cabred;4757
+01/08/2019;sanmartin;Caseros;196760
+01/08/2018;sanmartin;Caseros;163505
+01/08/2018;sanmartin;Chacarita;137
+01/08/2019;sanmartin;Chacarita;58
+01/08/2019;sanmartin;Derqui;158777
+01/08/2018;sanmartin;Derqui;189349
+01/08/2018;sanmartin;Hurlingham;90268
+01/08/2019;sanmartin;Hurlingham;112988
+01/08/2019;sanmartin;J.C. Paz;560069
+01/08/2018;sanmartin;J.C. Paz;486185
+01/08/2018;sanmartin;Manzanares;2242
+01/08/2019;sanmartin;Manzanares;3611
+01/08/2019;sanmartin;Muniz;75626
+01/08/2018;sanmartin;Muniz;67801
+01/08/2018;sanmartin;Palermo;376
+01/08/2019;sanmartin;Palermo;304344
+01/08/2019;sanmartin;Palomar;129312
+01/08/2018;sanmartin;Palomar;105641
+01/08/2018;sanmartin;Paternal;20
+01/08/2019;sanmartin;Paternal;10
+01/08/2019;sanmartin;Pilar;147819
+01/08/2018;sanmartin;Pilar;167579
+01/08/2018;sanmartin;Retiro;16
+01/08/2019;sanmartin;Retiro;378973
+01/08/2019;sanmartin;S. Lugares;33536
+01/08/2018;sanmartin;S. Lugares;22824
+01/08/2018;sanmartin;Saenz Pena;121349
+01/08/2019;sanmartin;Saenz Pena;102693
+01/08/2019;sanmartin;San Miguel;380281
+01/08/2018;sanmartin;San Miguel;353666
+01/08/2018;sanmartin;Sol Y Verde;103538
+01/08/2019;sanmartin;Sol Y Verde;90791
+01/08/2019;sanmartin;V. Devoto;152167
+01/08/2018;sanmartin;V. Devoto;125793
+01/08/2018;sanmartin;V. Parque;340206
+01/08/2019;sanmartin;V. Parque;239309
+01/08/2019;sanmartin;W. Morris;69840
+01/08/2018;sanmartin;W. Morris;70004
+01/08/2018;sarmiento;Caballito;197099
+01/08/2019;sarmiento;Caballito;198726
+01/08/2019;sarmiento;Castelar;293961
+01/08/2018;sarmiento;Castelar;275135
+01/08/2018;sarmiento;Ciudadela;84414
+01/08/2019;sarmiento;Ciudadela;176750
+01/08/2018;sarmiento;Estacion 25;182
+01/08/2018;sarmiento;Estacion 29;466
+01/08/2018;sarmiento;Estacion 31;294
+01/08/2018;sarmiento;Estacion 32;1953
+01/08/2018;sarmiento;Estacion 33;6053
+01/08/2018;sarmiento;Estacion 36;5885
+01/08/2018;sarmiento;Estacion 40;2388
+01/08/2018;sarmiento;Flores;274711
+01/08/2019;sarmiento;Flores;272776
+01/08/2019;sarmiento;Floresta;171254
+01/08/2018;sarmiento;Floresta;151481
+01/08/2018;sarmiento;Haedo;187696
+01/08/2019;sarmiento;Haedo;188350
+01/08/2019;sarmiento;Ituzaingo;321957
+01/08/2018;sarmiento;Ituzaingo;281853
+01/08/2018;sarmiento;Liniers;221340
+01/08/2019;sarmiento;Liniers;670924
+01/08/2019;sarmiento;Merlo;943507
+01/08/2018;sarmiento;Merlo;970175
+01/08/2018;sarmiento;Miserere;369
+01/08/2019;sarmiento;Miserere;236
+01/08/2019;sarmiento;Moreno;939410
+01/08/2018;sarmiento;Moreno;925785
+01/08/2018;sarmiento;Morón;968464
+01/08/2019;sarmiento;Morón;1015434
+01/08/2019;sarmiento;Once;1858125
+01/08/2018;sarmiento;Once;1855074
+01/08/2018;sarmiento;Paso del Rey;231627
+01/08/2019;sarmiento;Paso del Rey;232118
+01/08/2019;sarmiento;Ramos Mejía;555924
+01/08/2018;sarmiento;Ramos Mejía;515496
+01/08/2018;sarmiento;S.A de Padua;304138
+01/08/2019;sarmiento;S.A de Padua;271411
+01/08/2019;sarmiento;Villa Luro;119532
+01/08/2018;sarmiento;Villa Luro;117156
+01/07/2018;belgranonorte;Boulogne Sur;72577
+01/07/2019;belgranonorte;Boulogne Sur;182155
+01/07/2019;belgranonorte;Del Viso;76376
+01/07/2019;belgranonorte;Don Torcuato;127709
+01/07/2019;belgranonorte;Florida;37791
+01/07/2019;belgranonorte;Grand Bourg;210211
+01/07/2018;belgranonorte;Grand Bourg;90131
+01/07/2018;belgranonorte;Ing. P. Nogués;46886
+01/07/2019;belgranonorte;Ing. P. Nogués;112683
+01/07/2019;belgranonorte;Los Polvorines;136279
+01/07/2019;belgranonorte;Munro;105584
+01/07/2019;belgranonorte;R. S. Ortíz;50548
+01/07/2018;belgranonorte;R. S. Ortíz;22910
+01/07/2018;belgranonorte;Retiro;288852
+01/07/2019;belgranonorte;Retiro;516675
+01/07/2019;belgranonorte;Villa Adelina;135367
+01/07/2018;belgranonorte;Villa Adelina;56971
+01/07/2019;belgranonorte;Villa Rosa;78044
+01/07/2019;belgranosur;Aldo Bonzi;3571
+01/07/2018;belgranosur;Aldo Bonzi;2876
+01/07/2018;belgranosur;Buenos Aires;30
+01/07/2019;belgranosur;Buenos Aires;3
+01/07/2019;belgranosur;Castello;72894
+01/07/2018;belgranosur;Castello;52941
+01/07/2018;belgranosur;Castillo;36406
+01/07/2019;belgranosur;Castillo;47959
+01/07/2019;belgranosur;Eva Duarte;52834
+01/07/2018;belgranosur;Eva Duarte;43040
+01/07/2018;belgranosur;Fournier;33440
+01/07/2019;belgranosur;Fournier;43440
+01/07/2019;belgranosur;G. Catan;188503
+01/07/2018;belgranosur;G. Catan;186775
+01/07/2018;belgranosur;I. Casanova;24472
+01/07/2019;belgranosur;I. Casanova;30591
+01/07/2019;belgranosur;Illia;27845
+01/07/2018;belgranosur;Illia;18014
+01/07/2018;belgranosur;Independencia;125238
+01/07/2019;belgranosur;Independencia;135815
+01/07/2019;belgranosur;J. Ingenieros;5631
+01/07/2018;belgranosur;J. Ingenieros;3738
+01/07/2018;belgranosur;KM. 12;2482
+01/07/2019;belgranosur;KM. 12;2335
+01/07/2019;belgranosur;Laferrere;238395
+01/07/2018;belgranosur;Laferrere;209158
+01/07/2018;belgranosur;Libertad;25079
+01/07/2019;belgranosur;Libertad;37583
+01/07/2019;belgranosur;M. Belgrano;42626
+01/07/2018;belgranosur;M. Belgrano;42169
+01/07/2018;belgranosur;Mendeville;5696
+01/07/2019;belgranosur;Mendeville;5525
+01/07/2019;belgranosur;Merlo Gomez;23833
+01/07/2018;belgranosur;Merlo Gomez;23386
+01/07/2018;belgranosur;Querandi;22361
+01/07/2019;belgranosur;Querandi;31139
+01/07/2019;belgranosur;Saenz;268171
+01/07/2018;belgranosur;Saenz;277008
+01/07/2018;belgranosur;Tapiales;32972
+01/07/2019;belgranosur;Tapiales;43713
+01/07/2019;belgranosur;V. Madero;76828
+01/07/2018;belgranosur;V. Madero;65152
+01/07/2018;belgranosur;V. Soldati;32223
+01/07/2019;belgranosur;V. Soldati;41039
+01/07/2019;belgranosur;V.lugano;100904
+01/07/2018;belgranosur;V.lugano;86549
+01/07/2018;belgranosur;Villegas;6020
+01/07/2019;belgranosur;Villegas;6745
+01/07/2019;mitre;3 De Febrero;70263
+01/07/2018;mitre;3 De Febrero;63475
+01/07/2018;mitre;Acassuso;53342
+01/07/2019;mitre;Acassuso;59283
+01/07/2019;mitre;Beccar;68668
+01/07/2018;mitre;Beccar;60712
+01/07/2018;mitre;Belgrano C.;260290
+01/07/2019;mitre;Belgrano C.;397720
+01/07/2019;mitre;Belgrano R.;179432
+01/07/2018;mitre;Belgrano R.;178660
+01/07/2018;mitre;Benavidez;261
+01/07/2019;mitre;Benavidez;311
+01/07/2019;mitre;Carranza;166161
+01/07/2018;mitre;Carranza;192157
+01/07/2018;mitre;Carupa;68135
+01/07/2019;mitre;Carupa;86343
+01/07/2019;mitre;Centrangolo;14903
+01/07/2018;mitre;Centrangolo;14423
+01/07/2018;mitre;Chilavert;51447
+01/07/2019;mitre;Chilavert;49454
+01/07/2019;mitre;Coghlan;29946
+01/07/2018;mitre;Coghlan;27921
+01/07/2018;mitre;Colegiales;90692
+01/07/2019;mitre;Colegiales;88475
+01/07/2019;mitre;Drago;45043
+01/07/2018;mitre;Drago;55892
+01/07/2018;mitre;El Talar;60
+01/07/2018;mitre;Escobar;3259
+01/07/2019;mitre;Escobar;2710
+01/07/2019;mitre;Florida;19474
+01/07/2018;mitre;Florida;18699
+01/07/2018;mitre;Garin;1815
+01/07/2019;mitre;Garin;1303
+01/07/2019;mitre;Jose Leon Suarez;228029
+01/07/2018;mitre;Jose Leon Suarez;260722
+01/07/2018;mitre;Juan B. Justo;21012
+01/07/2019;mitre;Juan B. Justo;18102
+01/07/2019;mitre;La Lucila;55787
+01/07/2018;mitre;La Lucila;52351
+01/07/2018;mitre;Lopez Camelo;1937
+01/07/2019;mitre;Lopez Camelo;38
+01/07/2019;mitre;Malaver;29178
+01/07/2018;mitre;Malaver;28802
+01/07/2018;mitre;Maq. Savio;2348
+01/07/2018;mitre;Martinez;152511
+01/07/2019;mitre;Martinez;164380
+01/07/2018;mitre;Matheu;1246
+01/07/2018;mitre;Migueletes;32233
+01/07/2019;mitre;Migueletes;34189
+01/07/2019;mitre;Mitre;56412
+01/07/2018;mitre;Mitre;63373
+01/07/2018;mitre;Nuñez;94433
+01/07/2019;mitre;Nuñez;116960
+01/07/2019;mitre;Olivos;88343
+01/07/2018;mitre;Olivos;77454
+01/07/2018;mitre;Pueyrredon;77520
+01/07/2019;mitre;Pueyrredon;69183
+01/07/2019;mitre;Retiro (Suarez-Mitre);597883
+01/07/2018;mitre;Retiro (Suarez-Mitre);666062
+01/07/2018;mitre;Retiro (Tigre);684146
+01/07/2019;mitre;Retiro (Tigre);768390
+01/07/2019;mitre;Rivadavia;78367
+01/07/2018;mitre;Rivadavia;86781
+01/07/2018;mitre;Saavedra;38442
+01/07/2019;mitre;Saavedra;37453
+01/07/2019;mitre;San Andres;43091
+01/07/2018;mitre;San Andres;32637
+01/07/2018;mitre;San Fernando;77904
+01/07/2019;mitre;San Fernando;117977
+01/07/2019;mitre;San Isidro;292346
+01/07/2018;mitre;San Isidro;285285
+01/07/2018;mitre;San Martin;249122
+01/07/2019;mitre;San Martin;222040
+01/07/2019;mitre;Tigre;324863
+01/07/2018;mitre;Tigre;285841
+01/07/2018;mitre;Urquiza;239516
+01/07/2019;mitre;Urquiza;221897
+01/07/2019;mitre;V. Ballester;148284
+01/07/2018;mitre;V. Ballester;152409
+01/07/2018;mitre;Vicente Lopez;84671
+01/07/2019;mitre;Vicente Lopez;79238
+01/07/2019;mitre;Victoria Elect;62871
+01/07/2018;mitre;Victoria Elect;74942
+01/07/2018;mitre;Virreyes;133667
+01/07/2019;mitre;Virreyes;142270
+01/07/2019;mitre;Zarate;995
+01/07/2018;mitre;Zarate;972
+01/07/2018;mitre;Zelaya;427
+01/07/2019;mitre;Zelaya;265
+01/07/2019;roca;A. De Elia;4
+01/07/2018;roca;A. De Elia;23
+01/07/2018;roca;A. Petion;5680
+01/07/2019;roca;A. Petion;5030
+01/07/2019;roca;A.korn;182828
+01/07/2018;roca;A.korn;209231
+01/07/2018;roca;Abbot;3
+01/07/2019;roca;Abbot;409
+01/07/2019;roca;Adrogue;308293
+01/07/2018;roca;Adrogue;308619
+01/07/2019;roca;Altamirano;233
+01/07/2019;roca;Ardigo;159667
+01/07/2018;roca;Ardigo;125247
+01/07/2018;roca;Banfield;552955
+01/07/2019;roca;Banfield;534552
+01/07/2019;roca;Berazategui;268454
+01/07/2018;roca;Berazategui;254754
+01/07/2018;roca;Bernal;84322
+01/07/2019;roca;Bernal;156246
+01/07/2019;roca;Bosques;102655
+01/07/2018;roca;Bosques;81860
+01/07/2018;roca;Brandsen;1175
+01/07/2019;roca;Brandsen;1522
+01/07/2018;roca;Brian;3
+01/07/2018;roca;Burzaco;530531
+01/07/2019;roca;Burzaco;461175
+01/07/2019;roca;Calzada;162423
+01/07/2018;roca;Calzada;147575
+01/07/2018;roca;Canuelas;26255
+01/07/2019;roca;Canuelas;27042
+01/07/2019;roca;Chascomus;4730
+01/07/2018;roca;Chascomus;2431
+01/07/2018;roca;City Bell;40664
+01/07/2019;roca;City Bell;49312
+01/07/2019;roca;Claypole;285582
+01/07/2018;roca;Claypole;296214
+01/07/2018;roca;Constitucion;4287807
+01/07/2019;roca;Constitucion;4377688
+01/07/2019;roca;Dario Y Maxi;237757
+01/07/2018;roca;Dario Y Maxi;260221
+01/07/2018;roca;Don Bosco;48797
+01/07/2019;roca;Don Bosco;60744
+01/07/2019;roca;El Jaguel;199962
+01/07/2018;roca;El Jaguel;196220
+01/07/2019;roca;Emp. Lobos;150
+01/07/2019;roca;Escalada;150571
+01/07/2018;roca;Escalada;133805
+01/07/2018;roca;Ezeiza;505187
+01/07/2019;roca;Ezeiza;525317
+01/07/2019;roca;Ezpeleta;199841
+01/07/2018;roca;Ezpeleta;164490
+01/07/2018;roca;F. Varela;240490
+01/07/2019;roca;F. Varela;320046
+01/07/2019;roca;Gandara;16
+01/07/2019;roca;Gerli;135844
+01/07/2018;roca;Gerli;154370
+01/07/2018;roca;Glew;660760
+01/07/2019;roca;Glew;613394
+01/07/2019;roca;Gonnet;37516
+01/07/2018;roca;Gonnet;22200
+01/07/2018;roca;Guernica;132320
+01/07/2019;roca;Guernica;183576
+01/07/2019;roca;Gutierrez;4928
+01/07/2018;roca;Gutierrez;7387
+01/07/2018;roca;H. Espanol;7
+01/07/2019;roca;H. Espanol;1
+01/07/2019;roca;Haedo;1625
+01/07/2018;roca;Haedo;2760
+01/07/2018;roca;Hudson;61974
+01/07/2019;roca;Hudson;72439
+01/07/2019;roca;J. Marmol;79290
+01/07/2018;roca;J. Marmol;52939
+01/07/2018;roca;Jeppener;1
+01/07/2019;roca;Jeppener;511
+01/07/2019;roca;Juan XXIII;14
+01/07/2018;roca;Juan XXIII;7
+01/07/2018;roca;Kloosterman;80
+01/07/2019;roca;Kloosterman;543
+01/07/2019;roca;Km. 33;4
+01/07/2018;roca;Km. 33;4
+01/07/2018;roca;Km. 34;1
+01/07/2018;roca;L. De Zamora;1118481
+01/07/2019;roca;L. De Zamora;1120389
+01/07/2019;roca;L. Guillon;141845
+01/07/2018;roca;L. Guillon;138913
+01/07/2018;roca;La Noria;7
+01/07/2018;roca;La Plata;293496
+01/07/2019;roca;La Plata;328629
+01/07/2019;roca;Lanus;913980
+01/07/2018;roca;Lanus;911110
+01/07/2018;roca;Levene;122
+01/07/2019;roca;Levene;1510
+01/07/2019;roca;Llavallol;99306
+01/07/2018;roca;Llavallol;88874
+01/07/2019;roca;Lobos;1447
+01/07/2019;roca;Longchamps;484014
+01/07/2018;roca;Longchamps;521828
+01/07/2018;roca;Maximo Paz;8078
+01/07/2019;roca;Maximo Paz;11157
+01/07/2019;roca;Monte;2577
+01/07/2018;roca;Monte;29
+01/07/2018;roca;Monte Grande;555298
+01/07/2019;roca;Monte Grande;593808
+01/07/2019;roca;Pereyra;4819
+01/07/2018;roca;Pereyra;1524
+01/07/2018;roca;Platanos;52682
+01/07/2019;roca;Platanos;48531
+01/07/2019;roca;Quilmes;431025
+01/07/2018;roca;Quilmes;339345
+01/07/2018;roca;Ranelagh;7878
+01/07/2019;roca;Ranelagh;40181
+01/07/2019;roca;Ringuelet;12055
+01/07/2018;roca;Ringuelet;7277
+01/07/2018;roca;San Justo;315
+01/07/2019;roca;San Justo;366
+01/07/2019;roca;Santa Sofia;11156
+01/07/2018;roca;Santa Sofia;13497
+01/07/2018;roca;Sarandi;39347
+01/07/2019;roca;Sarandi;53791
+01/07/2019;roca;Sourigues;37314
+01/07/2018;roca;Sourigues;12955
+01/07/2018;roca;Spegazzini;9993
+01/07/2019;roca;Spegazzini;14451
+01/07/2019;roca;Tablada;426
+01/07/2018;roca;Tablada;315
+01/07/2018;roca;Temperley;284980
+01/07/2019;roca;Temperley;236058
+01/07/2019;roca;Tolosa;19987
+01/07/2018;roca;Tolosa;9191
+01/07/2018;roca;Tristan Suarez;18650
+01/07/2019;roca;Tristan Suarez;24474
+01/07/2019;roca;Turdera;111791
+01/07/2018;roca;Turdera;94620
+01/07/2018;roca;U. Ferroviaria;107
+01/07/2019;roca;U. Ferroviaria;2502
+01/07/2019;roca;Universitario;23161
+01/07/2019;roca;Uribelarrea;331
+01/07/2019;roca;V. Casares;1299
+01/07/2018;roca;V. Casares;151
+01/07/2018;roca;V. Dominico;35258
+01/07/2019;roca;V. Dominico;55099
+01/07/2019;roca;Villa Elisa;50100
+01/07/2018;roca;Villa Elisa;34380
+01/07/2018;roca;Villa Espana;9188
+01/07/2019;roca;Villa Espana;36634
+01/07/2019;roca;Wilde;89992
+01/07/2018;roca;Wilde;67283
+01/07/2018;roca;Yrigoyen;92317
+01/07/2019;roca;Yrigoyen;87362
+01/07/2019;roca;Zeballos;110446
+01/07/2018;roca;Zeballos;85373
+01/07/2018;sanmartin;Astolfi;17710
+01/07/2019;sanmartin;Astolfi;16986
+01/07/2019;sanmartin;B. Vista;109727
+01/07/2018;sanmartin;B. Vista;102417
+01/07/2018;sanmartin;Cabred;3065
+01/07/2019;sanmartin;Cabred;4716
+01/07/2019;sanmartin;Caseros;170688
+01/07/2018;sanmartin;Caseros;146465
+01/07/2018;sanmartin;Chacarita;106
+01/07/2019;sanmartin;Chacarita;90
+01/07/2019;sanmartin;Derqui;153791
+01/07/2018;sanmartin;Derqui;157359
+01/07/2018;sanmartin;Hurlingham;83846
+01/07/2019;sanmartin;Hurlingham;94880
+01/07/2019;sanmartin;J.C. Paz;491564
+01/07/2018;sanmartin;J.C. Paz;446890
+01/07/2018;sanmartin;Manzanares;1838
+01/07/2019;sanmartin;Manzanares;3424
+01/07/2019;sanmartin;Muniz;63503
+01/07/2018;sanmartin;Muniz;57072
+01/07/2018;sanmartin;Palermo;317
+01/07/2019;sanmartin;Palermo;184725
+01/07/2019;sanmartin;Palomar;101201
+01/07/2018;sanmartin;Palomar;93335
+01/07/2018;sanmartin;Paternal;20
+01/07/2019;sanmartin;Paternal;16
+01/07/2019;sanmartin;Pilar;136628
+01/07/2018;sanmartin;Pilar;137447
+01/07/2018;sanmartin;Retiro;39
+01/07/2019;sanmartin;Retiro;214213
+01/07/2019;sanmartin;S. Lugares;28116
+01/07/2018;sanmartin;S. Lugares;20413
+01/07/2018;sanmartin;Saenz Pena;107472
+01/07/2019;sanmartin;Saenz Pena;95173
+01/07/2019;sanmartin;San Miguel;335882
+01/07/2018;sanmartin;San Miguel;321495
+01/07/2018;sanmartin;Sol Y Verde;62210
+01/07/2019;sanmartin;Sol Y Verde;94798
+01/07/2019;sanmartin;V. Devoto;131048
+01/07/2018;sanmartin;V. Devoto;118215
+01/07/2018;sanmartin;V. Parque;316081
+01/07/2019;sanmartin;V. Parque;264180
+01/07/2019;sanmartin;W. Morris;67623
+01/07/2018;sanmartin;W. Morris;61589
+01/07/2018;sarmiento;Caballito;175965
+01/07/2019;sarmiento;Caballito;204697
+01/07/2019;sarmiento;Castelar;266781
+01/07/2018;sarmiento;Castelar;251250
+01/07/2018;sarmiento;Ciudadela;100468
+01/07/2019;sarmiento;Ciudadela;169791
+01/07/2018;sarmiento;Estacion 25;194
+01/07/2018;sarmiento;Estacion 29;261
+01/07/2018;sarmiento;Estacion 31;260
+01/07/2018;sarmiento;Estacion 32;1237
+01/07/2018;sarmiento;Estacion 33;4206
+01/07/2018;sarmiento;Estacion 36;3080
+01/07/2018;sarmiento;Estacion 40;1666
+01/07/2018;sarmiento;Flores;261537
+01/07/2019;sarmiento;Flores;285918
+01/07/2019;sarmiento;Floresta;180503
+01/07/2018;sarmiento;Floresta;130703
+01/07/2018;sarmiento;Haedo;157898
+01/07/2019;sarmiento;Haedo;174841
+01/07/2019;sarmiento;Ituzaingo;311998
+01/07/2018;sarmiento;Ituzaingo;255008
+01/07/2018;sarmiento;Liniers;136704
+01/07/2019;sarmiento;Liniers;632725
+01/07/2019;sarmiento;Merlo;923128
+01/07/2018;sarmiento;Merlo;900631
+01/07/2018;sarmiento;Miserere;261
+01/07/2019;sarmiento;Miserere;242
+01/07/2019;sarmiento;Moreno;941454
+01/07/2018;sarmiento;Moreno;864326
+01/07/2018;sarmiento;Morón;862016
+01/07/2019;sarmiento;Morón;998056
+01/07/2019;sarmiento;Once;1831560
+01/07/2018;sarmiento;Once;1737531
+01/07/2018;sarmiento;Paso del Rey;212704
+01/07/2019;sarmiento;Paso del Rey;215203
+01/07/2019;sarmiento;Ramos Mejía;531822
+01/07/2018;sarmiento;Ramos Mejía;426177
+01/07/2018;sarmiento;S.A de Padua;273315
+01/07/2019;sarmiento;S.A de Padua;269083
+01/07/2019;sarmiento;Villa Luro;94525
+01/07/2018;sarmiento;Villa Luro;95384
+01/06/2019;belgranonorte;Boulogne Sur;166272
+01/06/2019;belgranonorte;Del Viso;69098
+01/06/2019;belgranonorte;Don Torcuato;119053
+01/06/2019;belgranonorte;Florida;35394
+01/06/2019;belgranonorte;Grand Bourg;187695
+01/06/2019;belgranonorte;Ing. P. Nogués;104624
+01/06/2019;belgranonorte;Los Polvorines;122049
+01/06/2019;belgranonorte;Munro;103215
+01/06/2019;belgranonorte;R. S. Ortíz;71275
+01/06/2018;belgranonorte;R. S. Ortíz;28533
+01/06/2018;belgranonorte;Retiro;244068
+01/06/2019;belgranonorte;Retiro;499236
+01/06/2019;belgranonorte;Villa Adelina;121927
+01/06/2019;belgranonorte;Villa Rosa;58962
+01/06/2019;belgranosur;Aldo Bonzi;3509
+01/06/2018;belgranosur;Aldo Bonzi;2874
+01/06/2018;belgranosur;Buenos Aires;156
+01/06/2019;belgranosur;Buenos Aires;1
+01/06/2019;belgranosur;Castello;63864
+01/06/2018;belgranosur;Castello;50358
+01/06/2018;belgranosur;Castillo;36022
+01/06/2019;belgranosur;Castillo;38077
+01/06/2019;belgranosur;Eva Duarte;48282
+01/06/2018;belgranosur;Eva Duarte;43535
+01/06/2018;belgranosur;Fournier;32742
+01/06/2019;belgranosur;Fournier;37382
+01/06/2019;belgranosur;G. Catan;166664
+01/06/2018;belgranosur;G. Catan;176603
+01/06/2018;belgranosur;I. Casanova;23933
+01/06/2019;belgranosur;I. Casanova;26434
+01/06/2019;belgranosur;Illia;25937
+01/06/2018;belgranosur;Illia;18341
+01/06/2018;belgranosur;Independencia;118498
+01/06/2019;belgranosur;Independencia;120761
+01/06/2019;belgranosur;Ing. Budge;1
+01/06/2019;belgranosur;J. Ingenieros;4683
+01/06/2018;belgranosur;J. Ingenieros;4291
+01/06/2018;belgranosur;KM. 12;2381
+01/06/2019;belgranosur;KM. 12;2069
+01/06/2019;belgranosur;Laferrere;212631
+01/06/2018;belgranosur;Laferrere;196091
+01/06/2018;belgranosur;Libertad;25287
+01/06/2019;belgranosur;Libertad;31182
+01/06/2019;belgranosur;M. Belgrano;38148
+01/06/2018;belgranosur;M. Belgrano;41446
+01/06/2018;belgranosur;Mendeville;4501
+01/06/2019;belgranosur;Mendeville;5220
+01/06/2019;belgranosur;Merlo Gomez;20908
+01/06/2018;belgranosur;Merlo Gomez;25117
+01/06/2018;belgranosur;Querandi;25436
+01/06/2019;belgranosur;Querandi;29082
+01/06/2019;belgranosur;Saenz;233123
+01/06/2018;belgranosur;Saenz;265275
+01/06/2018;belgranosur;Tapiales;35440
+01/06/2019;belgranosur;Tapiales;39730
+01/06/2019;belgranosur;V. Madero;68215
+01/06/2018;belgranosur;V. Madero;65748
+01/06/2018;belgranosur;V. Soldati;34243
+01/06/2019;belgranosur;V. Soldati;37614
+01/06/2019;belgranosur;V.lugano;89003
+01/06/2018;belgranosur;V.lugano;89279
+01/06/2018;belgranosur;Villegas;5783
+01/06/2019;belgranosur;Villegas;5806
+01/06/2019;mitre;3 De Febrero;59025
+01/06/2018;mitre;3 De Febrero;61051
+01/06/2018;mitre;Acassuso;56943
+01/06/2019;mitre;Acassuso;54030
+01/06/2019;mitre;Beccar;62532
+01/06/2018;mitre;Beccar;63457
+01/06/2018;mitre;Belgrano C.;284617
+01/06/2019;mitre;Belgrano C.;328804
+01/06/2019;mitre;Belgrano R.;167248
+01/06/2018;mitre;Belgrano R.;177144
+01/06/2018;mitre;Benavidez;458
+01/06/2019;mitre;Benavidez;146
+01/06/2019;mitre;Carranza;154377
+01/06/2018;mitre;Carranza;194209
+01/06/2018;mitre;Carupa;82752
+01/06/2019;mitre;Carupa;82825
+01/06/2019;mitre;Centrangolo;14298
+01/06/2018;mitre;Centrangolo;11249
+01/06/2018;mitre;Chilavert;52429
+01/06/2019;mitre;Chilavert;41856
+01/06/2019;mitre;Coghlan;29059
+01/06/2018;mitre;Coghlan;29976
+01/06/2018;mitre;Colegiales;91720
+01/06/2019;mitre;Colegiales;82897
+01/06/2019;mitre;Drago;52438
+01/06/2018;mitre;Drago;67593
+01/06/2018;mitre;El Talar;51
+01/06/2019;mitre;El Talar;29
+01/06/2019;mitre;Escobar;2131
+01/06/2018;mitre;Escobar;2648
+01/06/2018;mitre;Florida;17703
+01/06/2019;mitre;Florida;18861
+01/06/2019;mitre;Garin;914
+01/06/2018;mitre;Garin;1491
+01/06/2018;mitre;Jose Leon Suarez;257158
+01/06/2019;mitre;Jose Leon Suarez;194766
+01/06/2019;mitre;Juan B. Justo;16828
+01/06/2018;mitre;Juan B. Justo;20730
+01/06/2018;mitre;La Lucila;55684
+01/06/2019;mitre;La Lucila;49786
+01/06/2019;mitre;Lopez Camelo;477
+01/06/2018;mitre;Lopez Camelo;1929
+01/06/2018;mitre;Malaver;27922
+01/06/2019;mitre;Malaver;25149
+01/06/2019;mitre;Maq. Savio;162
+01/06/2018;mitre;Maq. Savio;2262
+01/06/2018;mitre;Martinez;163129
+01/06/2019;mitre;Martinez;143880
+01/06/2019;mitre;Matheu;426
+01/06/2018;mitre;Matheu;1299
+01/06/2018;mitre;Migueletes;31214
+01/06/2019;mitre;Migueletes;37801
+01/06/2019;mitre;Mitre;51228
+01/06/2018;mitre;Mitre;54444
+01/06/2018;mitre;Nuñez;95892
+01/06/2019;mitre;Nuñez;112629
+01/06/2019;mitre;Olivos;77084
+01/06/2018;mitre;Olivos;77960
+01/06/2018;mitre;Pueyrredon;71754
+01/06/2019;mitre;Pueyrredon;61590
+01/06/2019;mitre;Retiro (Suarez-Mitre);544228
+01/06/2018;mitre;Retiro (Suarez-Mitre);628260
+01/06/2018;mitre;Retiro (Tigre);745220
+01/06/2019;mitre;Retiro (Tigre);609729
+01/06/2019;mitre;Rivadavia;68627
+01/06/2018;mitre;Rivadavia;74093
+01/06/2018;mitre;Saavedra;41101
+01/06/2019;mitre;Saavedra;35807
+01/06/2019;mitre;San Andres;39212
+01/06/2018;mitre;San Andres;32322
+01/06/2018;mitre;San Fernando;82785
+01/06/2019;mitre;San Fernando;100262
+01/06/2019;mitre;San Isidro;263973
+01/06/2018;mitre;San Isidro;293337
+01/06/2018;mitre;San Martin;244831
+01/06/2019;mitre;San Martin;191237
+01/06/2019;mitre;Tigre;245247
+01/06/2018;mitre;Tigre;272123
+01/06/2018;mitre;Urquiza;237375
+01/06/2019;mitre;Urquiza;201160
+01/06/2019;mitre;V. Ballester;131762
+01/06/2018;mitre;V. Ballester;150755
+01/06/2018;mitre;Vicente Lopez;86823
+01/06/2019;mitre;Vicente Lopez;70183
+01/06/2019;mitre;Victoria Elect;62606
+01/06/2018;mitre;Victoria Elect;73205
+01/06/2018;mitre;Virreyes;140587
+01/06/2019;mitre;Virreyes;122961
+01/06/2019;mitre;Zarate;590
+01/06/2018;mitre;Zarate;830
+01/06/2018;mitre;Zelaya;327
+01/06/2019;mitre;Zelaya;223
+01/06/2019;roca;A. De Elia;3
+01/06/2018;roca;A. De Elia;35
+01/06/2018;roca;A. Petion;5958
+01/06/2019;roca;A. Petion;4908
+01/06/2019;roca;A.korn;165828
+01/06/2018;roca;A.korn;200489
+01/06/2018;roca;Abbot;1
+01/06/2019;roca;Abbot;73
+01/06/2019;roca;Adrogue;284829
+01/06/2018;roca;Adrogue;313865
+01/06/2018;roca;Altamirano;2
+01/06/2019;roca;Altamirano;41
+01/06/2019;roca;Ardigo;146381
+01/06/2018;roca;Ardigo;123597
+01/06/2018;roca;Banfield;560286
+01/06/2019;roca;Banfield;508608
+01/06/2019;roca;Berazategui;250735
+01/06/2018;roca;Berazategui;259910
+01/06/2018;roca;Bernal;105109
+01/06/2019;roca;Bernal;162730
+01/06/2019;roca;Bosques;92492
+01/06/2018;roca;Bosques;70771
+01/06/2018;roca;Brandsen;1016
+01/06/2019;roca;Brandsen;298
+01/06/2019;roca;Brian;1
+01/06/2018;roca;Brian;1
+01/06/2018;roca;Burzaco;530106
+01/06/2019;roca;Burzaco;417035
+01/06/2019;roca;Calzada;147745
+01/06/2018;roca;Calzada;152734
+01/06/2018;roca;Canuelas;24475
+01/06/2019;roca;Canuelas;24942
+01/06/2019;roca;Chascomus;620
+01/06/2018;roca;Chascomus;2003
+01/06/2018;roca;City Bell;44840
+01/06/2019;roca;City Bell;36110
+01/06/2019;roca;Claypole;248484
+01/06/2018;roca;Claypole;253709
+01/06/2018;roca;Constitucion;4122453
+01/06/2019;roca;Constitucion;3922777
+01/06/2019;roca;Dario Y Maxi;236436
+01/06/2018;roca;Dario Y Maxi;260629
+01/06/2018;roca;Don Bosco;47605
+01/06/2019;roca;Don Bosco;55741
+01/06/2019;roca;El Jaguel;174697
+01/06/2018;roca;El Jaguel;193707
+01/06/2019;roca;Emp. Lobos;48
+01/06/2019;roca;Escalada;154533
+01/06/2018;roca;Escalada;142938
+01/06/2018;roca;Ezeiza;491603
+01/06/2019;roca;Ezeiza;443422
+01/06/2019;roca;Ezpeleta;188202
+01/06/2018;roca;Ezpeleta;165764
+01/06/2018;roca;F. Varela;229954
+01/06/2019;roca;F. Varela;291554
+01/06/2019;roca;Gandara;2
+01/06/2019;roca;Gerli;126029
+01/06/2018;roca;Gerli;147717
+01/06/2018;roca;Glew;653090
+01/06/2019;roca;Glew;538466
+01/06/2019;roca;Gonnet;24808
+01/06/2018;roca;Gonnet;19175
+01/06/2018;roca;Guernica;128677
+01/06/2019;roca;Guernica;167251
+01/06/2019;roca;Gutierrez;4525
+01/06/2018;roca;Gutierrez;7016
+01/06/2018;roca;H. Espanol;6
+01/06/2018;roca;Haedo;2834
+01/06/2019;roca;Haedo;1580
+01/06/2019;roca;Hudson;68641
+01/06/2018;roca;Hudson;62669
+01/06/2018;roca;J. Marmol;53410
+01/06/2019;roca;J. Marmol;74307
+01/06/2019;roca;Jeppener;109
+01/06/2019;roca;Juan XXIII;8
+01/06/2018;roca;Juan XXIII;16
+01/06/2018;roca;Kloosterman;113
+01/06/2019;roca;Kloosterman;514
+01/06/2019;roca;Km. 33;1
+01/06/2018;roca;Km. 33;6
+01/06/2018;roca;Km. 34;5
+01/06/2018;roca;L. De Zamora;1106023
+01/06/2019;roca;L. De Zamora;1008199
+01/06/2019;roca;L. Guillon;129513
+01/06/2018;roca;L. Guillon;140689
+01/06/2018;roca;La Plata;320923
+01/06/2019;roca;La Plata;273592
+01/06/2019;roca;Lanus;836757
+01/06/2018;roca;Lanus;899354
+01/06/2018;roca;Levene;125
+01/06/2019;roca;Levene;1219
+01/06/2019;roca;Llavallol;91667
+01/06/2018;roca;Llavallol;91244
+01/06/2019;roca;Lobos;256
+01/06/2019;roca;Longchamps;431439
+01/06/2018;roca;Longchamps;533856
+01/06/2018;roca;Maximo Paz;8636
+01/06/2019;roca;Maximo Paz;10771
+01/06/2019;roca;Monte;378
+01/06/2018;roca;Monte;149
+01/06/2018;roca;Monte Grande;533368
+01/06/2019;roca;Monte Grande;526182
+01/06/2019;roca;Pereyra;6244
+01/06/2018;roca;Pereyra;1298
+01/06/2018;roca;Platanos;58704
+01/06/2019;roca;Platanos;46263
+01/06/2019;roca;Quilmes;394339
+01/06/2018;roca;Quilmes;329689
+01/06/2018;roca;Ranelagh;8213
+01/06/2019;roca;Ranelagh;37645
+01/06/2019;roca;Ringuelet;8596
+01/06/2018;roca;Ringuelet;7430
+01/06/2018;roca;San Justo;342
+01/06/2019;roca;San Justo;325
+01/06/2019;roca;Santa Sofia;9468
+01/06/2018;roca;Santa Sofia;14090
+01/06/2018;roca;Sarandi;40823
+01/06/2019;roca;Sarandi;51626
+01/06/2019;roca;Sourigues;36415
+01/06/2018;roca;Sourigues;11851
+01/06/2018;roca;Spegazzini;9696
+01/06/2019;roca;Spegazzini;13834
+01/06/2019;roca;Tablada;412
+01/06/2018;roca;Tablada;342
+01/06/2018;roca;Temperley;284950
+01/06/2019;roca;Temperley;218692
+01/06/2019;roca;Tolosa;16051
+01/06/2018;roca;Tolosa;14699
+01/06/2018;roca;Tristan Suarez;18641
+01/06/2019;roca;Tristan Suarez;24356
+01/06/2019;roca;Turdera;102380
+01/06/2018;roca;Turdera;100210
+01/06/2018;roca;U. Ferroviaria;140
+01/06/2019;roca;U. Ferroviaria;2594
+01/06/2019;roca;Uribelarrea;70
+01/06/2019;roca;V. Casares;1340
+01/06/2018;roca;V. Casares;162
+01/06/2018;roca;V. Dominico;39161
+01/06/2019;roca;V. Dominico;53094
+01/06/2019;roca;Villa Elisa;67218
+01/06/2018;roca;Villa Elisa;35458
+01/06/2018;roca;Villa Espana;9257
+01/06/2019;roca;Villa Espana;35704
+01/06/2019;roca;Wilde;83843
+01/06/2018;roca;Wilde;65542
+01/06/2018;roca;Yrigoyen;89954
+01/06/2019;roca;Yrigoyen;79412
+01/06/2019;roca;Zeballos;100890
+01/06/2018;roca;Zeballos;78136
+01/06/2018;sanmartin;Astolfi;2091
+01/06/2019;sanmartin;Astolfi;13609
+01/06/2019;sanmartin;B. Vista;92432
+01/06/2018;sanmartin;B. Vista;96850
+01/06/2018;sanmartin;Cabred;1638
+01/06/2019;sanmartin;Cabred;3789
+01/06/2019;sanmartin;Caseros;141329
+01/06/2018;sanmartin;Caseros;138758
+01/06/2019;sanmartin;Chacarita;40
+01/06/2019;sanmartin;Derqui;147781
+01/06/2018;sanmartin;Derqui;131136
+01/06/2018;sanmartin;Hurlingham;77266
+01/06/2019;sanmartin;Hurlingham;81719
+01/06/2019;sanmartin;J.C. Paz;419144
+01/06/2018;sanmartin;J.C. Paz;424596
+01/06/2018;sanmartin;Manzanares;702
+01/06/2019;sanmartin;Manzanares;2487
+01/06/2019;sanmartin;Muniz;54551
+01/06/2018;sanmartin;Muniz;56798
+01/06/2019;sanmartin;Palermo;208
+01/06/2019;sanmartin;Palomar;79432
+01/06/2018;sanmartin;Palomar;85518
+01/06/2019;sanmartin;Paternal;11
+01/06/2019;sanmartin;Pilar;138927
+01/06/2018;sanmartin;Pilar;120962
+01/06/2019;sanmartin;Retiro;80
+01/06/2019;sanmartin;S. Lugares;20368
+01/06/2018;sanmartin;S. Lugares;18389
+01/06/2018;sanmartin;Saenz Pena;102731
+01/06/2019;sanmartin;Saenz Pena;100609
+01/06/2019;sanmartin;San Miguel;297897
+01/06/2018;sanmartin;San Miguel;279406
+01/06/2018;sanmartin;Sol Y Verde;56575
+01/06/2019;sanmartin;Sol Y Verde;86282
+01/06/2019;sanmartin;V. Devoto;107351
+01/06/2018;sanmartin;V. Devoto;104392
+01/06/2018;sanmartin;V. Parque;289016
+01/06/2019;sanmartin;V. Parque;314054
+01/06/2019;sanmartin;W. Morris;62248
+01/06/2018;sanmartin;W. Morris;53741
+01/06/2018;sarmiento;Caballito;180029
+01/06/2019;sarmiento;Caballito;182324
+01/06/2019;sarmiento;Castelar;252043
+01/06/2018;sarmiento;Castelar;248905
+01/06/2018;sarmiento;Ciudadela;121101
+01/06/2019;sarmiento;Ciudadela;154881
+01/06/2018;sarmiento;Estacion 25;33
+01/06/2018;sarmiento;Estacion 29;61
+01/06/2018;sarmiento;Estacion 31;75
+01/06/2018;sarmiento;Estacion 32;283
+01/06/2018;sarmiento;Estacion 33;1095
+01/06/2018;sarmiento;Estacion 36;982
+01/06/2018;sarmiento;Estacion 40;400
+01/06/2018;sarmiento;Flores;245487
+01/06/2019;sarmiento;Flores;247419
+01/06/2019;sarmiento;Floresta;156247
+01/06/2018;sarmiento;Floresta;137862
+01/06/2018;sarmiento;Haedo;164095
+01/06/2019;sarmiento;Haedo;169309
+01/06/2019;sarmiento;Ituzaingo;300027
+01/06/2018;sarmiento;Ituzaingo;265278
+01/06/2018;sarmiento;Liniers;138884
+01/06/2019;sarmiento;Liniers;533422
+01/06/2019;sarmiento;Merlo;864966
+01/06/2018;sarmiento;Merlo;888247
+01/06/2018;sarmiento;Miserere;348
+01/06/2019;sarmiento;Miserere;184
+01/06/2019;sarmiento;Moreno;842034
+01/06/2018;sarmiento;Moreno;857064
+01/06/2018;sarmiento;Morón;877044
+01/06/2019;sarmiento;Morón;928506
+01/06/2019;sarmiento;Once;1634137
+01/06/2018;sarmiento;Once;1600747
+01/06/2018;sarmiento;Paso del Rey;212460
+01/06/2019;sarmiento;Paso del Rey;212187
+01/06/2019;sarmiento;Ramos Mejía;498238
+01/06/2018;sarmiento;Ramos Mejía;440780
+01/06/2018;sarmiento;S.A de Padua;277494
+01/06/2019;sarmiento;S.A de Padua;252077
+01/06/2019;sarmiento;Villa Luro;66335
+01/06/2018;sarmiento;Villa Luro;95746
+01/05/2018;belgranonorte;A. del Valle ;34829
+01/05/2018;belgranonorte;Boulogne Sur;33243
+01/05/2019;belgranonorte;Boulogne Sur;168167
+01/05/2019;belgranonorte;Del Viso;75400
+01/05/2019;belgranonorte;Don Torcuato;134493
+01/05/2019;belgranonorte;Florida;41716
+01/05/2018;belgranonorte;Grand Bourg;43225
+01/05/2019;belgranonorte;Grand Bourg;216733
+01/05/2019;belgranonorte;Ing. P. Nogués;116948
+01/05/2018;belgranonorte;Ing. P. Nogués;30166
+01/05/2019;belgranonorte;Los Polvorines;137760
+01/05/2018;belgranonorte;Munro;9012
+01/05/2019;belgranonorte;Munro;116011
+01/05/2018;belgranonorte;R. S. Ortíz;12814
+01/05/2019;belgranonorte;R. S. Ortíz;91039
+01/05/2019;belgranonorte;Retiro;591026
+01/05/2018;belgranonorte;Retiro;103194
+01/05/2018;belgranonorte;Villa Adelina;13184
+01/05/2019;belgranonorte;Villa Adelina;142900
+01/05/2019;belgranonorte;Villa Rosa;55486
+01/05/2018;belgranosur;Aldo Bonzi;4287
+01/05/2019;belgranosur;Aldo Bonzi;3906
+01/05/2018;belgranosur;Buenos Aires;13922
+01/05/2018;belgranosur;Castello;51868
+01/05/2019;belgranosur;Castello;71030
+01/05/2019;belgranosur;Castillo;40673
+01/05/2018;belgranosur;Castillo;40874
+01/05/2018;belgranosur;Eva Duarte;42184
+01/05/2019;belgranosur;Eva Duarte;55786
+01/05/2018;belgranosur;Fournier;35662
+01/05/2019;belgranosur;Fournier;43294
+01/05/2019;belgranosur;G. Catan;181753
+01/05/2018;belgranosur;G. Catan;172624
+01/05/2018;belgranosur;I. Casanova;26127
+01/05/2019;belgranosur;I. Casanova;28973
+01/05/2018;belgranosur;Illia;18297
+01/05/2019;belgranosur;Illia;30947
+01/05/2019;belgranosur;Independencia;135579
+01/05/2018;belgranosur;Independencia;128390
+01/05/2019;belgranosur;J. Ingenieros;4426
+01/05/2018;belgranosur;J. Ingenieros;4552
+01/05/2018;belgranosur;KM. 12;3132
+01/05/2019;belgranosur;KM. 12;2025
+01/05/2019;belgranosur;Laferrere;239284
+01/05/2018;belgranosur;Laferrere;202769
+01/05/2018;belgranosur;Libertad;30165
+01/05/2019;belgranosur;Libertad;34651
+01/05/2019;belgranosur;M. Belgrano;41499
+01/05/2018;belgranosur;M. Belgrano;46001
+01/05/2018;belgranosur;Mendeville;7038
+01/05/2019;belgranosur;Mendeville;5916
+01/05/2019;belgranosur;Merlo Gomez;24548
+01/05/2018;belgranosur;Merlo Gomez;25896
+01/05/2019;belgranosur;Querandi;35969
+01/05/2018;belgranosur;Querandi;25982
+01/05/2019;belgranosur;Saenz;267936
+01/05/2018;belgranosur;Saenz;258638
+01/05/2019;belgranosur;Tapiales;39086
+01/05/2018;belgranosur;Tapiales;34914
+01/05/2019;belgranosur;V. Madero;78750
+01/05/2018;belgranosur;V. Madero;70251
+01/05/2018;belgranosur;V. Soldati;35226
+01/05/2019;belgranosur;V. Soldati;42564
+01/05/2018;belgranosur;V.lugano;91999
+01/05/2019;belgranosur;V.lugano;103466
+01/05/2019;belgranosur;Villegas;6069
+01/05/2018;belgranosur;Villegas;6633
+01/05/2017;Mitre;3 DE FEBRERO;20861
+01/05/2019;mitre;3 De Febrero;63189
+01/05/2018;mitre;3 De Febrero;66027
+01/05/2018;mitre;Acassuso;61376
+01/05/2017;Mitre;ACASSUSO;20294
+01/05/2019;mitre;Acassuso;54190
+01/05/2019;mitre;Beccar;61330
+01/05/2018;mitre;Beccar;70483
+01/05/2017;Mitre;BECCAR;71257
+01/05/2017;Mitre;BELGRANO C.;371638
+01/05/2019;mitre;Belgrano C.;257399
+01/05/2018;mitre;Belgrano C.;304036
+01/05/2019;mitre;Belgrano R.;185523
+01/05/2018;mitre;Belgrano R.;199043
+01/05/2017;Mitre;BELGRANO R.;155479
+01/05/2019;mitre;Benavidez;283
+01/05/2018;mitre;Benavidez;559
+01/05/2018;mitre;Carranza;216064
+01/05/2019;mitre;Carranza;183987
+01/05/2017;Mitre;CARRANZA;161563
+01/05/2019;mitre;Carupa;87430
+01/05/2018;mitre;Carupa;90925
+01/05/2017;Mitre;CARUPA;122340
+01/05/2018;mitre;Centrangolo;17713
+01/05/2017;Mitre;CENTRANGOLO;15832
+01/05/2019;mitre;Centrangolo;16810
+01/05/2017;Mitre;CHILAVERT;33799
+01/05/2018;mitre;Chilavert;55386
+01/05/2019;mitre;Chilavert;53502
+01/05/2017;Mitre;COGHLAN;15471
+01/05/2018;mitre;Coghlan;35925
+01/05/2019;mitre;Coghlan;35699
+01/05/2019;mitre;Colegiales;93541
+01/05/2017;Mitre;COLEGIALES;26728
+01/05/2018;mitre;Colegiales;104048
+01/05/2018;mitre;Drago;71092
+01/05/2017;Mitre;DRAGO;28806
+01/05/2019;mitre;Drago;64883
+01/05/2018;mitre;El Talar;61
+01/05/2019;mitre;El Talar;44
+01/05/2018;mitre;Escobar;3581
+01/05/2019;mitre;Escobar;2859
+01/05/2017;Mitre;FLORIDA;15855
+01/05/2019;mitre;Florida;22672
+01/05/2018;mitre;Florida;24122
+01/05/2019;mitre;Garin;1120
+01/05/2018;mitre;Garin;1792
+01/05/2018;mitre;Jose Leon Suarez;253949
+01/05/2017;Mitre;JOSE LEON SUAREZ;205224
+01/05/2019;mitre;Jose Leon Suarez;211514
+01/05/2019;mitre;Juan B. Justo;20636
+01/05/2017;Mitre;JUAN B. JUSTO;2392
+01/05/2018;mitre;Juan B. Justo;27343
+01/05/2017;Mitre;L. DE LA TORRE;62278
+01/05/2017;Mitre;LA LUCILA;61515
+01/05/2019;mitre;La Lucila;47819
+01/05/2018;mitre;La Lucila;62158
+01/05/2019;mitre;Lopez Camelo;368
+01/05/2018;mitre;Lopez Camelo;939
+01/05/2019;mitre;Malaver;29555
+01/05/2018;mitre;Malaver;31096
+01/05/2017;Mitre;MALAVER;2564
+01/05/2019;mitre;Maq. Savio;577
+01/05/2018;mitre;Maq. Savio;2579
+01/05/2018;mitre;Martinez;175173
+01/05/2019;mitre;Martinez;148053
+01/05/2017;Mitre;MARTINEZ;178859
+01/05/2018;mitre;Matheu;1489
+01/05/2019;mitre;Matheu;835
+01/05/2019;mitre;Migueletes;44712
+01/05/2018;mitre;Migueletes;25662
+01/05/2019;mitre;Mitre;74628
+01/05/2018;mitre;Mitre;67243
+01/05/2017;Mitre;MITRE;52950
+01/05/2019;mitre;Nuñez;171134
+01/05/2017;Mitre;NUÑEZ;93578
+01/05/2018;mitre;Nuñez;105108
+01/05/2018;mitre;Olivos;84128
+01/05/2019;mitre;Olivos;86180
+01/05/2017;Mitre;OLIVOS;74947
+01/05/2018;mitre;Pueyrredon;78662
+01/05/2019;mitre;Pueyrredon;68152
+01/05/2017;Mitre;PUEYRREDON;40861
+01/05/2017;Mitre;RETIRO (SUA-MIT);602436
+01/05/2018;mitre;Retiro (Suarez-Mitre);690647
+01/05/2019;mitre;Retiro (Suarez-Mitre);529374
+01/05/2017;Mitre;RETIRO (TIGRE);815150
+01/05/2018;mitre;Retiro (Tigre);807942
+01/05/2019;mitre;Retiro (Tigre);527919
+01/05/2017;Mitre;RIVADAVIA;61680
+01/05/2019;mitre;Rivadavia;91422
+01/05/2018;mitre;Rivadavia;78144
+01/05/2017;Mitre;SAAVEDRA;25933
+01/05/2019;mitre;Saavedra;40401
+01/05/2018;mitre;Saavedra;48630
+01/05/2017;Mitre;SAN ANDRES;10262
+01/05/2018;mitre;San Andres;34991
+01/05/2019;mitre;San Andres;46729
+01/05/2019;mitre;San Fernando;113713
+01/05/2018;mitre;San Fernando;87339
+01/05/2017;Mitre;SAN FERNANDO;81670
+01/05/2019;mitre;San Isidro;282640
+01/05/2017;Mitre;SAN ISIDRO;303140
+01/05/2018;mitre;San Isidro;316073
+01/05/2018;mitre;San Martin;262006
+01/05/2019;mitre;San Martin;197487
+01/05/2017;Mitre;SAN MARTIN;185457
+01/05/2019;mitre;Tigre;252943
+01/05/2018;mitre;Tigre;299357
+01/05/2017;Mitre;TIGRE;281583
+01/05/2019;mitre;Urquiza;221986
+01/05/2017;Mitre;URQUIZA;184591
+01/05/2018;mitre;Urquiza;256814
+01/05/2019;mitre;V. Ballester;150111
+01/05/2017;Mitre;V. BALLESTER;122333
+01/05/2018;mitre;V. Ballester;166656
+01/05/2018;mitre;Vicente Lopez;95774
+01/05/2017;Mitre;VICENTE LOPEZ;77916
+01/05/2019;mitre;Vicente Lopez;65396
+01/05/2019;mitre;Victoria Elect;75341
+01/05/2018;mitre;Victoria Elect;84480
+01/05/2017;Mitre;VICTORIA ELECT;74873
+01/05/2018;mitre;Virreyes;149894
+01/05/2019;mitre;Virreyes;137599
+01/05/2017;Mitre;VIRREYES;115820
+01/05/2018;mitre;Zarate;1030
+01/05/2019;mitre;Zarate;716
+01/05/2018;mitre;Zelaya;351
+01/05/2019;mitre;Zelaya;245
+01/05/2018;roca;A. De Elia;21
+01/05/2019;roca;A. De Elia;4
+01/05/2019;roca;A. Petion;5798
+01/05/2018;roca;A. Petion;5788
+01/05/2017;Roca;A. PETION;1455
+01/05/2018;roca;A.korn;207548
+01/05/2019;roca;A.korn;191394
+01/05/2017;Roca;A.KORN;183090
+01/05/2019;roca;Adrogue;321685
+01/05/2018;roca;Adrogue;297174
+01/05/2017;Roca;ADROGUE;277643
+01/05/2018;roca;Altamirano;2
+01/05/2019;roca;Altamirano;1
+01/05/2017;Roca;ARDIGO;50972
+01/05/2018;roca;Ardigo;134480
+01/05/2019;roca;Ardigo;167697
+01/05/2017;Roca;BANFIELD;533055
+01/05/2019;roca;Banfield;561148
+01/05/2018;roca;Banfield;603721
+01/05/2019;roca;Berazategui;274627
+01/05/2018;roca;Berazategui;261221
+01/05/2017;Roca;BERAZATEGUI;37345
+01/05/2018;roca;Bernal;84417
+01/05/2017;Roca;BERNAL;9165
+01/05/2019;roca;Bernal;187110
+01/05/2019;roca;Bosques;113117
+01/05/2018;roca;Bosques;77285
+01/05/2017;Roca;BOSQUES;5673
+01/05/2019;roca;Brandsen;60
+01/05/2018;roca;Brandsen;1135
+01/05/2017;Roca;BURZACO;488300
+01/05/2018;roca;Burzaco;539365
+01/05/2019;roca;Burzaco;481475
+01/05/2019;roca;Calzada;166677
+01/05/2017;Roca;CALZADA;133380
+01/05/2018;roca;Calzada;161722
+01/05/2017;Roca;CANUELAS;6611
+01/05/2018;roca;Canuelas;27167
+01/05/2019;roca;Canuelas;28921
+01/05/2018;roca;Chascomus;2591
+01/05/2019;roca;Chascomus;48
+01/05/2019;roca;City Bell;52766
+01/05/2017;Roca;CITY BELL;11272
+01/05/2018;roca;City Bell;48738
+01/05/2018;roca;Claypole;247534
+01/05/2017;Roca;CLAYPOLE;310578
+01/05/2019;roca;Claypole;261562
+01/05/2018;roca;Constitucion;4431776
+01/05/2017;Roca;CONSTITUCION;3309393
+01/05/2019;roca;Constitucion;4316562
+01/05/2017;Roca;DARIO Y MAXI;218384
+01/05/2018;roca;Dario Y Maxi;290960
+01/05/2019;roca;Dario Y Maxi;271139
+01/05/2019;roca;Don Bosco;62493
+01/05/2017;Roca;DON BOSCO;2315
+01/05/2018;roca;Don Bosco;48158
+01/05/2018;roca;El Jaguel;203824
+01/05/2017;Roca;EL JAGUEL;164063
+01/05/2019;roca;El Jaguel;198120
+01/05/2018;roca;Escalada;154302
+01/05/2019;roca;Escalada;160158
+01/05/2017;Roca;ESCALADA;114982
+01/05/2018;roca;Ezeiza;531264
+01/05/2019;roca;Ezeiza;490165
+01/05/2017;Roca;EZEIZA;448090
+01/05/2019;roca;Ezpeleta;215713
+01/05/2018;roca;Ezpeleta;170685
+01/05/2017;Roca;EZPELETA;27863
+01/05/2018;roca;F. Varela;242691
+01/05/2019;roca;F. Varela;350293
+01/05/2017;Roca;F. VARELA;57687
+01/05/2017;Roca;GERLI;117018
+01/05/2019;roca;Gerli;145717
+01/05/2018;roca;Gerli;160892
+01/05/2019;roca;Glew;633100
+01/05/2018;roca;Glew;665065
+01/05/2017;Roca;GLEW;594647
+01/05/2018;roca;Gonnet;20058
+01/05/2017;Roca;GONNET;231
+01/05/2019;roca;Gonnet;35533
+01/05/2019;roca;Guernica;192887
+01/05/2017;Roca;GUERNICA;100806
+01/05/2018;roca;Guernica;134123
+01/05/2017;Roca;GUTIERREZ;5046
+01/05/2018;roca;Gutierrez;7786
+01/05/2019;roca;Gutierrez;5645
+01/05/2018;roca;H. Espanol;1
+01/05/2019;roca;H. Espanol;1
+01/05/2017;Roca;HAEDO;575
+01/05/2018;roca;Haedo;2964
+01/05/2019;roca;Haedo;2144
+01/05/2018;roca;Hudson;58973
+01/05/2017;Roca;HUDSON;530
+01/05/2019;roca;Hudson;80448
+01/05/2017;Roca;J. MARMOL;70933
+01/05/2018;roca;J. Marmol;65278
+01/05/2019;roca;J. Marmol;85116
+01/05/2019;roca;Jeppener;1
+01/05/2018;roca;Jeppener;1
+01/05/2018;roca;Juan XXIII;15
+01/05/2019;roca;Juan XXIII;3
+01/05/2018;roca;Kloosterman;143
+01/05/2019;roca;Kloosterman;476
+01/05/2019;roca;Km. 33;4
+01/05/2018;roca;Km. 33;7
+01/05/2019;roca;Km. 34;5
+01/05/2018;roca;Km. 34;2
+01/05/2019;roca;L. De Zamora;1113908
+01/05/2017;Roca;L. DE ZAMORA;900488
+01/05/2018;roca;L. De Zamora;1175425
+01/05/2019;roca;L. Guillon;150478
+01/05/2017;Roca;L. GUILLON;117456
+01/05/2018;roca;L. Guillon;154345
+01/05/2018;roca;La Noria;2
+01/05/2019;roca;La Plata;385051
+01/05/2017;Roca;LA PLATA;1849
+01/05/2018;roca;La Plata;328041
+01/05/2017;Roca;LANUS;779454
+01/05/2019;roca;Lanus;917629
+01/05/2018;roca;Lanus;960820
+01/05/2019;roca;Levene;1481
+01/05/2018;roca;Levene;128
+01/05/2019;roca;Llavallol;98727
+01/05/2017;Roca;LLAVALLOL;74890
+01/05/2018;roca;Llavallol;98971
+01/05/2017;Roca;LONGCHAMPS;422244
+01/05/2018;roca;Longchamps;534160
+01/05/2019;roca;Longchamps;494236
+01/05/2019;roca;Maximo Paz;12585
+01/05/2017;Roca;MAXIMO PAZ;4314
+01/05/2018;roca;Maximo Paz;12355
+01/05/2018;roca;Monte;322
+01/05/2019;roca;Monte Grande;585592
+01/05/2018;roca;Monte Grande;587613
+01/05/2017;Roca;MONTE GRANDE;398411
+01/05/2019;roca;Pereyra;7182
+01/05/2018;roca;Pereyra;1788
+01/05/2018;roca;Platanos;62955
+01/05/2019;roca;Platanos;56948
+01/05/2017;Roca;PLATANOS;6832
+01/05/2019;roca;Quilmes;441725
+01/05/2017;Roca;QUILMES;35451
+01/05/2018;roca;Quilmes;288299
+01/05/2018;roca;Ranelagh;7981
+01/05/2019;roca;Ranelagh;46475
+01/05/2019;roca;Ringuelet;12096
+01/05/2017;Roca;RINGUELET;93
+01/05/2018;roca;Ringuelet;7793
+01/05/2019;roca;San Justo;433
+01/05/2018;roca;San Justo;358
+01/05/2017;Roca;SAN JUSTO;183
+01/05/2017;Roca;SANTA SOFIA;6379
+01/05/2018;roca;Santa Sofia;15699
+01/05/2019;roca;Santa Sofia;11491
+01/05/2019;roca;Sarandi;57840
+01/05/2018;roca;Sarandi;42539
+01/05/2017;Roca;SARANDI;12377
+01/05/2019;roca;Sourigues;43532
+01/05/2018;roca;Sourigues;13567
+01/05/2018;roca;Spegazzini;11616
+01/05/2017;Roca;SPEGAZZINI;4170
+01/05/2019;roca;Spegazzini;15553
+01/05/2018;roca;Tablada;418
+01/05/2019;roca;Tablada;415
+01/05/2018;roca;Temperley;309513
+01/05/2019;roca;Temperley;249072
+01/05/2017;Roca;TEMPERLEY;233434
+01/05/2018;roca;Tolosa;268
+01/05/2019;roca;Tolosa;22985
+01/05/2017;Roca;TOLOSA;57
+01/05/2017;Roca;TRISTAN SUAREZ;2801
+01/05/2018;roca;Tristan Suarez;19967
+01/05/2019;roca;Tristan Suarez;27505
+01/05/2019;roca;Turdera;117945
+01/05/2017;Roca;TURDERA;88987
+01/05/2018;roca;Turdera;107897
+01/05/2018;roca;U. Ferroviaria;163
+01/05/2019;roca;U. Ferroviaria;3033
+01/05/2019;roca;V. Casares;1482
+01/05/2018;roca;V. Casares;165
+01/05/2017;Roca;V. CASARES;379
+01/05/2017;Roca;V. DOMINICO;3489
+01/05/2018;roca;V. Dominico;28949
+01/05/2019;roca;V. Dominico;55163
+01/05/2019;roca;Villa Elisa;52757
+01/05/2018;roca;Villa Elisa;38895
+01/05/2017;Roca;VILLA ELISA;3887
+01/05/2018;roca;Villa Espana;11038
+01/05/2019;roca;Villa Espana;41316
+01/05/2019;roca;Wilde;93263
+01/05/2017;Roca;WILDE;8016
+01/05/2018;roca;Wilde;74359
+01/05/2018;roca;Yrigoyen;99207
+01/05/2017;Roca;YRIGOYEN;83951
+01/05/2019;roca;Yrigoyen;91788
+01/05/2019;roca;Zeballos;122470
+01/05/2017;Roca;ZEBALLOS;22549
+01/05/2018;roca;Zeballos;86254
+01/05/2017;San Martín;BELLA VISTA;149685
+01/05/2017;San Martín;CASEROS;213733
+01/05/2017;San Martín;CHACARITA;200390
+01/05/2017;San Martín;DERQUI;110120
+01/05/2017;San Martín;DEVOTO;151947
+01/05/2017;San Martín;EL PALOMAR;127009
+01/05/2017;San Martín;HURLINGHAM;132123
+01/05/2017;San Martín;JOSE C PAZ;500842
+01/05/2017;San Martín;LA PATERNAL;41845
+01/05/2017;San Martín;MUÑIZ;91022
+01/05/2017;San Martín;PALERMO;355376
+01/05/2017;San Martín;PILAR;135288
+01/05/2017;San Martín;RETIRO;528712
+01/05/2017;San Martín;SAENZ PEÑA;113332
+01/05/2017;San Martín;SAN MIGUEL;379213
+01/05/2017;San Martín;SANTOS LUGARES;39717
+01/05/2017;San Martín;SOL Y VERDE;51177
+01/05/2017;San Martín;VILLA ASTOLFI;14159
+01/05/2017;San Martín;VILLA DEL PARQUE;159105
+01/05/2017;San Martín;WILLIAM MORRIS;75243
+01/05/2018;sanmartin;Astolfi;13627
+01/05/2019;sanmartin;Astolfi;17372
+01/05/2019;sanmartin;B. Vista;106523
+01/05/2018;sanmartin;B. Vista;118878
+01/05/2018;sanmartin;Cabred;1964
+01/05/2019;sanmartin;Cabred;4317
+01/05/2019;sanmartin;Caseros;155432
+01/05/2018;sanmartin;Caseros;173644
+01/05/2018;sanmartin;Chacarita;87688
+01/05/2019;sanmartin;Chacarita;34
+01/05/2019;sanmartin;Derqui;168750
+01/05/2018;sanmartin;Derqui;156406
+01/05/2018;sanmartin;Hurlingham;99528
+01/05/2019;sanmartin;Hurlingham;94624
+01/05/2019;sanmartin;J.C. Paz;476454
+01/05/2018;sanmartin;J.C. Paz;489771
+01/05/2018;sanmartin;Manzanares;895
+01/05/2019;sanmartin;Manzanares;2723
+01/05/2019;sanmartin;Muniz;60436
+01/05/2018;sanmartin;Muniz;73544
+01/05/2018;sanmartin;Palermo;151926
+01/05/2019;sanmartin;Palermo;190
+01/05/2019;sanmartin;Palomar;94816
+01/05/2018;sanmartin;Palomar;108773
+01/05/2018;sanmartin;Paternal;15733
+01/05/2019;sanmartin;Paternal;5
+01/05/2019;sanmartin;Pilar;162258
+01/05/2018;sanmartin;Pilar;146086
+01/05/2018;sanmartin;Retiro;230933
+01/05/2019;sanmartin;Retiro;53
+01/05/2019;sanmartin;S. Lugares;22849
+01/05/2018;sanmartin;S. Lugares;26072
+01/05/2018;sanmartin;Saenz Pena;107936
+01/05/2019;sanmartin;Saenz Pena;85080
+01/05/2019;sanmartin;San Miguel;332505
+01/05/2018;sanmartin;San Miguel;340021
+01/05/2018;sanmartin;Sol Y Verde;75446
+01/05/2019;sanmartin;Sol Y Verde;104839
+01/05/2019;sanmartin;V. Devoto;128001
+01/05/2018;sanmartin;V. Devoto;129948
+01/05/2018;sanmartin;V. Parque;238013
+01/05/2019;sanmartin;V. Parque;335104
+01/05/2019;sanmartin;W. Morris;69105
+01/05/2018;sanmartin;W. Morris;64595
+01/05/2017;Sarmiento;CABALLITO;457
+01/05/2018;sarmiento;Caballito;206083
+01/05/2019;sarmiento;Caballito;214163
+01/05/2019;sarmiento;Castelar;286232
+01/05/2017;Sarmiento;CASTELAR;782838
+01/05/2018;sarmiento;Castelar;265268
+01/05/2018;sarmiento;Ciudadela;126925
+01/05/2017;Sarmiento;CIUDADELA;14091
+01/05/2019;sarmiento;Ciudadela;172070
+01/05/2018;sarmiento;Estacion 25;194
+01/05/2018;sarmiento;Estacion 29;508
+01/05/2018;sarmiento;Estacion 31;295
+01/05/2018;sarmiento;Estacion 32;2317
+01/05/2018;sarmiento;Estacion 33;7565
+01/05/2018;sarmiento;Estacion 36;8541
+01/05/2018;sarmiento;Estacion 40;2558
+01/05/2018;sarmiento;Flores;264499
+01/05/2017;Sarmiento;FLORES;133015
+01/05/2019;sarmiento;Flores;272444
+01/05/2019;sarmiento;Floresta;165505
+01/05/2017;Sarmiento;FLORESTA;196975
+01/05/2018;sarmiento;Floresta;137766
+01/05/2018;sarmiento;Haedo;175577
+01/05/2017;Sarmiento;HAEDO;344723
+01/05/2019;sarmiento;Haedo;185684
+01/05/2019;sarmiento;Ituzaingo;308507
+01/05/2017;Sarmiento;ITUZAINGÓ;201252
+01/05/2018;sarmiento;Ituzaingo;296294
+01/05/2018;sarmiento;Liniers;132972
+01/05/2017;Sarmiento;LINIERS;64384
+01/05/2019;sarmiento;Liniers;587532
+01/05/2019;sarmiento;Merlo;948838
+01/05/2018;sarmiento;Merlo;969277
+01/05/2019;sarmiento;Miserere;225
+01/05/2019;sarmiento;Moreno;813819
+01/05/2018;sarmiento;Moreno;907732
+01/05/2017;Sarmiento;MORÓN;128772
+01/05/2018;sarmiento;Morón;963851
+01/05/2019;sarmiento;Morón;1020463
+01/05/2019;sarmiento;Once;1755671
+01/05/2017;Sarmiento;ONCE;1253288
+01/05/2018;sarmiento;Once;1744599
+01/05/2017;Sarmiento;PASO DEL REY;846037
+01/05/2018;sarmiento;Paso del Rey;181401
+01/05/2019;sarmiento;Paso del Rey;228090
+01/05/2019;sarmiento;Ramos Mejía;519995
+01/05/2017;Sarmiento;RAMOS MEJÍA;137735
+01/05/2018;sarmiento;Ramos Mejía;454491
+01/05/2018;sarmiento;S.A de Padua;295652
+01/05/2019;sarmiento;S.A de Padua;270998
+01/05/2017;Sarmiento;S.A. DE PADUA;190795
+01/05/2018;sarmiento;Villa Luro;101345
+01/05/2017;Sarmiento;VILLA LURO;116788
+01/05/2019;sarmiento;Villa Luro;119342
+01/04/2019;belgranonorte;Boulogne Sur;187870
+01/04/2019;belgranonorte;Del Viso;77095
+01/04/2019;belgranonorte;Don Torcuato;137521
+01/04/2019;belgranonorte;Florida;41887
+01/04/2019;belgranonorte;Grand Bourg;207342
+01/04/2019;belgranonorte;Ing. P. Nogués;119900
+01/04/2019;belgranonorte;Los Polvorines;142513
+01/04/2019;belgranonorte;Munro;112764
+01/04/2019;belgranonorte;R. S. Ortíz;94700
+01/04/2019;belgranonorte;Retiro;634173
+01/04/2019;belgranonorte;Villa Adelina;138040
+01/04/2019;belgranonorte;Villa Rosa;59970
+01/04/2019;belgranosur;Aldo Bonzi;3449
+01/04/2018;belgranosur;Aldo Bonzi;4716
+01/04/2018;belgranosur;Buenos Aires;143198
+01/04/2019;belgranosur;Buenos Aires;1
+01/04/2019;belgranosur;Castello;65721
+01/04/2018;belgranosur;Castello;52274
+01/04/2019;belgranosur;Castillo;36417
+01/04/2018;belgranosur;Castillo;41063
+01/04/2018;belgranosur;Eva Duarte;43770
+01/04/2019;belgranosur;Eva Duarte;51810
+01/04/2018;belgranosur;Fournier;35867
+01/04/2019;belgranosur;Fournier;39121
+01/04/2019;belgranosur;G. Catan;166745
+01/04/2018;belgranosur;G. Catan;172424
+01/04/2019;belgranosur;I. Casanova;26308
+01/04/2018;belgranosur;I. Casanova;24505
+01/04/2018;belgranosur;Illia;16699
+01/04/2019;belgranosur;Illia;26154
+01/04/2018;belgranosur;Independencia;129343
+01/04/2019;belgranosur;Independencia;130125
+01/04/2018;belgranosur;J. Ingenieros;4839
+01/04/2019;belgranosur;J. Ingenieros;4172
+01/04/2018;belgranosur;KM. 12;2932
+01/04/2019;belgranosur;KM. 12;1488
+01/04/2018;belgranosur;Laferrere;209207
+01/04/2019;belgranosur;Laferrere;223261
+01/04/2018;belgranosur;Libertad;30177
+01/04/2019;belgranosur;Libertad;31485
+01/04/2019;belgranosur;M. Belgrano;38244
+01/04/2018;belgranosur;M. Belgrano;47455
+01/04/2018;belgranosur;Mendeville;6875
+01/04/2019;belgranosur;Mendeville;5034
+01/04/2018;belgranosur;Merlo Gomez;23656
+01/04/2019;belgranosur;Merlo Gomez;22627
+01/04/2019;belgranosur;Querandi;31168
+01/04/2018;belgranosur;Querandi;23678
+01/04/2019;belgranosur;Saenz;249444
+01/04/2018;belgranosur;Saenz;147563
+01/04/2019;belgranosur;Tapiales;36216
+01/04/2018;belgranosur;Tapiales;32839
+01/04/2019;belgranosur;V. Madero;72013
+01/04/2018;belgranosur;V. Madero;68746
+01/04/2018;belgranosur;V. Soldati;29837
+01/04/2019;belgranosur;V. Soldati;36898
+01/04/2018;belgranosur;V.lugano;85419
+01/04/2019;belgranosur;V.lugano;92295
+01/04/2018;belgranosur;Villegas;7896
+01/04/2019;belgranosur;Villegas;5451
+01/04/2019;mitre;3 De Febrero;53162
+01/04/2018;mitre;3 De Febrero;40878
+01/04/2018;mitre;Acassuso;57336
+01/04/2019;mitre;Acassuso;34856
+01/04/2019;mitre;Beccar;38299
+01/04/2018;mitre;Beccar;65819
+01/04/2018;mitre;Belgrano C.;274283
+01/04/2019;mitre;Belgrano R.;170786
+01/04/2018;mitre;Belgrano R.;187283
+01/04/2018;mitre;Benavidez;750
+01/04/2019;mitre;Benavidez;503
+01/04/2019;mitre;Capilla Del Señor;42
+01/04/2019;mitre;Carranza;161958
+01/04/2018;mitre;Carranza;198604
+01/04/2018;mitre;Carupa;103461
+01/04/2019;mitre;Carupa;67298
+01/04/2018;mitre;Centrangolo;16166
+01/04/2019;mitre;Centrangolo;14432
+01/04/2018;mitre;Chilavert;52030
+01/04/2019;mitre;Chilavert;50333
+01/04/2019;mitre;Coghlan;31460
+01/04/2018;mitre;Coghlan;33937
+01/04/2018;mitre;Colegiales;97956
+01/04/2019;mitre;Colegiales;86068
+01/04/2018;mitre;Drago;70398
+01/04/2019;mitre;Drago;55646
+01/04/2018;mitre;El Talar;65
+01/04/2019;mitre;El Talar;81
+01/04/2019;mitre;Escobar;2645
+01/04/2018;mitre;Escobar;3806
+01/04/2019;mitre;Florida;12370
+01/04/2018;mitre;Florida;21099
+01/04/2019;mitre;Garin;1038
+01/04/2018;mitre;Garin;550
+01/04/2018;mitre;Jose Leon Suarez;242253
+01/04/2019;mitre;Jose Leon Suarez;206763
+01/04/2018;mitre;Juan B. Justo;22169
+01/04/2019;mitre;Juan B. Justo;16650
+01/04/2018;mitre;La Lucila;58104
+01/04/2019;mitre;La Lucila;28987
+01/04/2019;mitre;Lopez Camelo;298
+01/04/2018;mitre;Los Cardales;203
+01/04/2018;mitre;Malaver;29265
+01/04/2019;mitre;Malaver;26936
+01/04/2018;mitre;Maq. Savio;2223
+01/04/2019;mitre;Maq. Savio;1082
+01/04/2019;mitre;Martinez;109984
+01/04/2018;mitre;Martinez;161648
+01/04/2018;mitre;Matheu;1337
+01/04/2019;mitre;Matheu;1028
+01/04/2019;mitre;Migueletes;40266
+01/04/2018;mitre;Migueletes;24471
+01/04/2018;mitre;Mitre;65601
+01/04/2019;mitre;Mitre;92944
+01/04/2019;mitre;Nuñez;234932
+01/04/2018;mitre;Nuñez;97866
+01/04/2019;mitre;Olivos;83954
+01/04/2018;mitre;Olivos;79918
+01/04/2018;mitre;Pueyrredon;72970
+01/04/2019;mitre;Pueyrredon;62342
+01/04/2018;mitre;Retiro (Suarez-Mitre);611618
+01/04/2019;mitre;Retiro (Suarez-Mitre);396365
+01/04/2019;mitre;Retiro (Tigre);144848
+01/04/2018;mitre;Retiro (Tigre);666593
+01/04/2018;mitre;Rivadavia;92167
+01/04/2019;mitre;Rivadavia;90314
+01/04/2019;mitre;Saavedra;35972
+01/04/2018;mitre;Saavedra;45206
+01/04/2019;mitre;San Andres;44647
+01/04/2018;mitre;San Andres;32264
+01/04/2019;mitre;San Fernando;96743
+01/04/2018;mitre;San Fernando;88824
+01/04/2018;mitre;San Isidro;296800
+01/04/2019;mitre;San Isidro;245964
+01/04/2019;mitre;San Martin;151114
+01/04/2018;mitre;San Martin;247564
+01/04/2019;mitre;Tigre;238577
+01/04/2018;mitre;Tigre;281247
+01/04/2018;mitre;Urquiza;238060
+01/04/2019;mitre;Urquiza;207123
+01/04/2018;mitre;V. Ballester;162396
+01/04/2019;mitre;V. Ballester;133797
+01/04/2019;mitre;Vicente Lopez;37441
+01/04/2018;mitre;Vicente Lopez;87939
+01/04/2018;mitre;Victoria Elect;78539
+01/04/2019;mitre;Victoria Elect;62699
+01/04/2019;mitre;Virreyes;116534
+01/04/2018;mitre;Virreyes;142939
+01/04/2018;mitre;Zarate;1258
+01/04/2019;mitre;Zarate;714
+01/04/2019;mitre;Zelaya;211
+01/04/2018;mitre;Zelaya;294
+01/04/2019;roca;A. De Elia;6
+01/04/2018;roca;A. De Elia;30
+01/04/2019;roca;A. Petion;5415
+01/04/2018;roca;A. Petion;6187
+01/04/2018;roca;A.korn;206044
+01/04/2019;roca;A.korn;202044
+01/04/2019;roca;Abbot;3
+01/04/2019;roca;Adrogue;305523
+01/04/2018;roca;Adrogue;280311
+01/04/2019;roca;Ardigo;148209
+01/04/2018;roca;Ardigo;123272
+01/04/2018;roca;Banfield;572263
+01/04/2019;roca;Banfield;537344
+01/04/2019;roca;Berazategui;264930
+01/04/2018;roca;Berazategui;261504
+01/04/2018;roca;Bernal;88423
+01/04/2019;roca;Bernal;177157
+01/04/2019;roca;Bosques;115081
+01/04/2018;roca;Bosques;78039
+01/04/2018;roca;Brandsen;1166
+01/04/2019;roca;Brandsen;80
+01/04/2018;roca;Brian;2
+01/04/2019;roca;Burzaco;460274
+01/04/2018;roca;Burzaco;514764
+01/04/2018;roca;Calzada;156206
+01/04/2019;roca;Calzada;160218
+01/04/2018;roca;Canuelas;27369
+01/04/2019;roca;Canuelas;29122
+01/04/2019;roca;Chascomus;113
+01/04/2018;roca;Chascomus;3414
+01/04/2019;roca;City Bell;51665
+01/04/2018;roca;City Bell;47666
+01/04/2019;roca;Claypole;241117
+01/04/2018;roca;Claypole;292148
+01/04/2019;roca;Constitucion;4125785
+01/04/2018;roca;Constitucion;4255949
+01/04/2018;roca;Dario Y Maxi;283771
+01/04/2019;roca;Dario Y Maxi;262818
+01/04/2018;roca;Don Bosco;28189
+01/04/2019;roca;Don Bosco;60112
+01/04/2018;roca;El Jaguel;196087
+01/04/2019;roca;El Jaguel;185196
+01/04/2019;roca;Escalada;151228
+01/04/2018;roca;Escalada;149413
+01/04/2019;roca;Ezeiza;467710
+01/04/2018;roca;Ezeiza;512917
+01/04/2018;roca;Ezpeleta;166481
+01/04/2019;roca;Ezpeleta;202302
+01/04/2018;roca;F. Varela;235787
+01/04/2019;roca;F. Varela;335342
+01/04/2019;roca;Gerli;138789
+01/04/2018;roca;Gerli;152492
+01/04/2019;roca;Glew;605830
+01/04/2018;roca;Glew;646409
+01/04/2019;roca;Gonnet;35780
+01/04/2018;roca;Gonnet;19091
+01/04/2018;roca;Guernica;132969
+01/04/2019;roca;Guernica;191945
+01/04/2019;roca;Gutierrez;5732
+01/04/2018;roca;Gutierrez;7686
+01/04/2018;roca;H. Espanol;8
+01/04/2018;roca;Haedo;3077
+01/04/2019;roca;Haedo;1903
+01/04/2018;roca;Hudson;57849
+01/04/2019;roca;Hudson;76618
+01/04/2019;roca;J. Marmol;76269
+01/04/2018;roca;J. Marmol;75084
+01/04/2019;roca;Juan XXIII;2
+01/04/2018;roca;Juan XXIII;6
+01/04/2018;roca;Kloosterman;102
+01/04/2019;roca;Kloosterman;292
+01/04/2018;roca;Km. 33;2
+01/04/2019;roca;Km. 33;2
+01/04/2018;roca;Km. 34;4
+01/04/2019;roca;Km. 34;6
+01/04/2019;roca;L. De Zamora;1059734
+01/04/2018;roca;L. De Zamora;1114096
+01/04/2019;roca;L. Guillon;145950
+01/04/2018;roca;L. Guillon;150536
+01/04/2019;roca;La Noria;4
+01/04/2019;roca;La Plata;377189
+01/04/2018;roca;La Plata;325178
+01/04/2018;roca;Lanus;935272
+01/04/2019;roca;Lanus;858154
+01/04/2018;roca;Levene;199
+01/04/2019;roca;Levene;1275
+01/04/2018;roca;Llavallol;95804
+01/04/2019;roca;Llavallol;98431
+01/04/2018;roca;Longchamps;512007
+01/04/2019;roca;Longchamps;463917
+01/04/2018;roca;Maximo Paz;12463
+01/04/2019;roca;Maximo Paz;11727
+01/04/2019;roca;Monte;4
+01/04/2018;roca;Monte;334
+01/04/2018;roca;Monte Grande;573857
+01/04/2019;roca;Monte Grande;554348
+01/04/2018;roca;Pereyra;2738
+01/04/2019;roca;Pereyra;7469
+01/04/2018;roca;Platanos;61738
+01/04/2019;roca;Platanos;57102
+01/04/2019;roca;Quilmes;435467
+01/04/2018;roca;Quilmes;286125
+01/04/2018;roca;Ranelagh;7810
+01/04/2019;roca;Ranelagh;46768
+01/04/2018;roca;Ringuelet;6430
+01/04/2019;roca;Ringuelet;11643
+01/04/2019;roca;San Justo;337
+01/04/2018;roca;San Justo;519
+01/04/2019;roca;Santa Sofia;11473
+01/04/2018;roca;Santa Sofia;14493
+01/04/2019;roca;Sarandi;56043
+01/04/2018;roca;Sarandi;41607
+01/04/2018;roca;Sourigues;14360
+01/04/2019;roca;Sourigues;41906
+01/04/2019;roca;Spegazzini;14555
+01/04/2018;roca;Spegazzini;11632
+01/04/2018;roca;Tablada;351
+01/04/2019;roca;Tablada;203
+01/04/2019;roca;Temperley;236394
+01/04/2018;roca;Temperley;294339
+01/04/2018;roca;Tolosa;13721
+01/04/2019;roca;Tolosa;21393
+01/04/2018;roca;Tristan Suarez;19480
+01/04/2019;roca;Tristan Suarez;26716
+01/04/2019;roca;Turdera;112099
+01/04/2018;roca;Turdera;100610
+01/04/2019;roca;U. Ferroviaria;2693
+01/04/2018;roca;U. Ferroviaria;111
+01/04/2018;roca;V. Casares;348
+01/04/2019;roca;V. Casares;1629
+01/04/2018;roca;V. Dominico;26604
+01/04/2019;roca;V. Dominico;54811
+01/04/2019;roca;Villa Elisa;51866
+01/04/2018;roca;Villa Elisa;39175
+01/04/2019;roca;Villa Espana;41423
+01/04/2018;roca;Villa Espana;12194
+01/04/2019;roca;Wilde;88781
+01/04/2018;roca;Wilde;53626
+01/04/2018;roca;Yrigoyen;95140
+01/04/2019;roca;Yrigoyen;87106
+01/04/2018;roca;Zeballos;85365
+01/04/2019;roca;Zeballos;119546
+01/04/2019;sanmartin;Astolfi;16637
+01/04/2018;sanmartin;Astolfi;13650
+01/04/2019;sanmartin;B. Vista;101311
+01/04/2018;sanmartin;B. Vista;119408
+01/04/2018;sanmartin;Cabred;1848
+01/04/2019;sanmartin;Cabred;4341
+01/04/2018;sanmartin;Caseros;169413
+01/04/2019;sanmartin;Caseros;150515
+01/04/2018;sanmartin;Chacarita;121634
+01/04/2019;sanmartin;Chacarita;92
+01/04/2019;sanmartin;Derqui;158665
+01/04/2018;sanmartin;Derqui;148161
+01/04/2018;sanmartin;Hurlingham;94406
+01/04/2019;sanmartin;Hurlingham;90247
+01/04/2019;sanmartin;J.C. Paz;446950
+01/04/2018;sanmartin;J.C. Paz;465081
+01/04/2019;sanmartin;Manzanares;3375
+01/04/2018;sanmartin;Manzanares;955
+01/04/2019;sanmartin;Muniz;59650
+01/04/2018;sanmartin;Muniz;71894
+01/04/2018;sanmartin;Palermo;209657
+01/04/2019;sanmartin;Palermo;219
+01/04/2019;sanmartin;Palomar;89594
+01/04/2018;sanmartin;Palomar;103501
+01/04/2018;sanmartin;Paternal;21706
+01/04/2019;sanmartin;Paternal;10
+01/04/2018;sanmartin;Pilar;141452
+01/04/2019;sanmartin;Pilar;154904
+01/04/2019;sanmartin;Retiro;29
+01/04/2018;sanmartin;Retiro;319116
+01/04/2018;sanmartin;S. Lugares;28289
+01/04/2019;sanmartin;S. Lugares;21988
+01/04/2018;sanmartin;Saenz Pena;103976
+01/04/2019;sanmartin;Saenz Pena;102493
+01/04/2018;sanmartin;San Miguel;318332
+01/04/2019;sanmartin;San Miguel;319919
+01/04/2018;sanmartin;Sol Y Verde;68023
+01/04/2019;sanmartin;Sol Y Verde;96636
+01/04/2018;sanmartin;V. Devoto;122806
+01/04/2019;sanmartin;V. Devoto;119659
+01/04/2019;sanmartin;V. Parque;315204
+01/04/2018;sanmartin;V. Parque;177710
+01/04/2019;sanmartin;W. Morris;62116
+01/04/2018;sanmartin;W. Morris;62814
+01/04/2018;sarmiento;Caballito;166892
+01/04/2019;sarmiento;Caballito;195325
+01/04/2019;sarmiento;Castelar;248079
+01/04/2018;sarmiento;Castelar;234841
+01/04/2019;sarmiento;Ciudadela;152492
+01/04/2018;sarmiento;Ciudadela;116189
+01/04/2018;sarmiento;Estacion 25;32
+01/04/2018;sarmiento;Estacion 29;111
+01/04/2018;sarmiento;Estacion 31;490
+01/04/2018;sarmiento;Estacion 32;1658
+01/04/2018;sarmiento;Estacion 33;4452
+01/04/2018;sarmiento;Estacion 36;5857
+01/04/2018;sarmiento;Estacion 40;1321
+01/04/2018;sarmiento;Flores;236102
+01/04/2019;sarmiento;Flores;242767
+01/04/2019;sarmiento;Floresta;144197
+01/04/2018;sarmiento;Floresta;120474
+01/04/2019;sarmiento;Haedo;166057
+01/04/2018;sarmiento;Haedo;153919
+01/04/2018;sarmiento;Ituzaingo;270667
+01/04/2019;sarmiento;Ituzaingo;276261
+01/04/2019;sarmiento;Liniers;519121
+01/04/2018;sarmiento;Liniers;105428
+01/04/2019;sarmiento;Merlo;861500
+01/04/2018;sarmiento;Merlo;864278
+01/04/2019;sarmiento;Miserere;190
+01/04/2018;sarmiento;Moreno;836496
+01/04/2019;sarmiento;Moreno;719220
+01/04/2019;sarmiento;Morón;944828
+01/04/2018;sarmiento;Morón;844875
+01/04/2019;sarmiento;Once;1650607
+01/04/2018;sarmiento;Once;1503214
+01/04/2018;sarmiento;Paso del Rey;225809
+01/04/2019;sarmiento;Paso del Rey;204945
+01/04/2018;sarmiento;Ramos Mejía;377091
+01/04/2019;sarmiento;Ramos Mejía;413412
+01/04/2018;sarmiento;S.A de Padua;296342
+01/04/2019;sarmiento;S.A de Padua;254572
+01/04/2018;sarmiento;Villa Luro;87460
+01/04/2019;sarmiento;Villa Luro;107079
+01/03/2020;belgranonorte;A. del Valle ;97112
+01/03/2020;belgranonorte;Boulogne Sur;108825
+01/03/2019;belgranonorte;Boulogne Sur;186200
+01/03/2020;belgranonorte;Carapachay;30614
+01/03/2020;belgranonorte;Del Viso;45054
+01/03/2019;belgranonorte;Del Viso;52149
+01/03/2019;belgranonorte;Don Torcuato;136493
+01/03/2020;belgranonorte;Don Torcuato;75558
+01/03/2020;belgranonorte;Florida;23641
+01/03/2019;belgranonorte;Florida;40317
+01/03/2019;belgranonorte;Grand Bourg;212752
+01/03/2020;belgranonorte;Grand Bourg;133091
+01/03/2020;belgranonorte;Ing. P. Nogués;59156
+01/03/2019;belgranonorte;Ing. P. Nogués;116618
+01/03/2019;belgranonorte;Los Polvorines;140432
+01/03/2020;belgranonorte;Los Polvorines;79450
+01/03/2020;belgranonorte;Munro;54546
+01/03/2019;belgranonorte;Munro;107135
+01/03/2019;belgranonorte;R. S. Ortíz;48276
+01/03/2020;belgranonorte;R. S. Ortíz;18236
+01/03/2020;belgranonorte;Retiro;250944
+01/03/2019;belgranonorte;Retiro;603399
+01/03/2019;belgranonorte;Villa Adelina;131493
+01/03/2020;belgranonorte;Villa Adelina;55319
+01/03/2020;belgranonorte;Villa Rosa;47376
+01/03/2019;belgranonorte;Villa Rosa;20967
+01/03/2020;belgranosur;20 de Junio;441
+01/03/2020;belgranosur;Aldo Bonzi;1921
+01/03/2018;belgranosur;Aldo Bonzi;4595
+01/03/2019;belgranosur;Aldo Bonzi;3206
+01/03/2018;belgranosur;Buenos Aires;146801
+01/03/2019;belgranosur;Buenos Aires;2
+01/03/2020;belgranosur;Buenos Aires;2
+01/03/2020;belgranosur;Castello;46035
+01/03/2019;belgranosur;Castello;66835
+01/03/2018;belgranosur;Castello;57810
+01/03/2018;belgranosur;Castillo;35537
+01/03/2019;belgranosur;Castillo;33696
+01/03/2020;belgranosur;Castillo;28194
+01/03/2020;belgranosur;Eva Duarte;30737
+01/03/2019;belgranosur;Eva Duarte;50642
+01/03/2018;belgranosur;Eva Duarte;44979
+01/03/2019;belgranosur;Fournier;35826
+01/03/2018;belgranosur;Fournier;32656
+01/03/2020;belgranosur;Fournier;23825
+01/03/2020;belgranosur;G. Catan;134635
+01/03/2018;belgranosur;G. Catan;189669
+01/03/2019;belgranosur;G. Catan;170177
+01/03/2019;belgranosur;I. Casanova;24785
+01/03/2018;belgranosur;I. Casanova;23148
+01/03/2020;belgranosur;I. Casanova;18308
+01/03/2020;belgranosur;Illia;12648
+01/03/2018;belgranosur;Illia;15094
+01/03/2019;belgranosur;Illia;19397
+01/03/2019;belgranosur;Independencia;129939
+01/03/2018;belgranosur;Independencia;133916
+01/03/2020;belgranosur;Independencia;83445
+01/03/2020;belgranosur;J. Ingenieros;2991
+01/03/2018;belgranosur;J. Ingenieros;4807
+01/03/2019;belgranosur;J. Ingenieros;3939
+01/03/2018;belgranosur;KM. 12;2729
+01/03/2019;belgranosur;KM. 12;1797
+01/03/2020;belgranosur;KM. 12;1184
+01/03/2020;belgranosur;Laferrere;141807
+01/03/2018;belgranosur;Laferrere;214812
+01/03/2019;belgranosur;Laferrere;231084
+01/03/2018;belgranosur;Libertad;28403
+01/03/2019;belgranosur;Libertad;27692
+01/03/2020;belgranosur;Libertad;19499
+01/03/2020;belgranosur;M. Belgrano;25084
+01/03/2019;belgranosur;M. Belgrano;37679
+01/03/2018;belgranosur;M. Belgrano;45265
+01/03/2019;belgranosur;Mendeville;4883
+01/03/2018;belgranosur;Mendeville;7192
+01/03/2020;belgranosur;Mendeville;3329
+01/03/2020;belgranosur;Merlo Gomez;11556
+01/03/2018;belgranosur;Merlo Gomez;24177
+01/03/2019;belgranosur;Merlo Gomez;21217
+01/03/2018;belgranosur;Querandi;26001
+01/03/2019;belgranosur;Querandi;29263
+01/03/2020;belgranosur;Querandi;16792
+01/03/2020;belgranosur;Saenz;163708
+01/03/2018;belgranosur;Saenz;150994
+01/03/2019;belgranosur;Saenz;247995
+01/03/2018;belgranosur;Tapiales;35161
+01/03/2019;belgranosur;Tapiales;38311
+01/03/2020;belgranosur;Tapiales;21967
+01/03/2020;belgranosur;V. Madero;48917
+01/03/2018;belgranosur;V. Madero;71254
+01/03/2019;belgranosur;V. Madero;67385
+01/03/2018;belgranosur;V. Soldati;29010
+01/03/2019;belgranosur;V. Soldati;34007
+01/03/2020;belgranosur;V. Soldati;25580
+01/03/2020;belgranosur;V.lugano;64041
+01/03/2018;belgranosur;V.lugano;47217
+01/03/2019;belgranosur;V.lugano;84868
+01/03/2019;belgranosur;Villegas;4999
+01/03/2018;belgranosur;Villegas;6357
+01/03/2020;belgranosur;Villegas;3088
+01/03/2020;mitre;3 De Febrero;25898
+01/03/2019;mitre;3 De Febrero;66065
+01/03/2018;mitre;3 De Febrero;38597
+01/03/2019;mitre;Acassuso;37084
+01/03/2018;mitre;Acassuso;63676
+01/03/2020;mitre;Acassuso;31278
+01/03/2020;mitre;Beccar;39711
+01/03/2018;mitre;Beccar;69106
+01/03/2019;mitre;Beccar;41518
+01/03/2018;mitre;Belgrano C.;375142
+01/03/2020;mitre;Belgrano C.;169061
+01/03/2020;mitre;Belgrano R.;93690
+01/03/2018;mitre;Belgrano R.;199074
+01/03/2019;mitre;Belgrano R.;183704
+01/03/2019;mitre;Benavidez;534
+01/03/2018;mitre;Benavidez;750
+01/03/2020;mitre;Benavidez;279
+01/03/2020;mitre;Capilla Del Señor;137
+01/03/2020;mitre;Carranza;84221
+01/03/2018;mitre;Carranza;201738
+01/03/2019;mitre;Carranza;166775
+01/03/2019;mitre;Carupa;71728
+01/03/2018;mitre;Carupa;109718
+01/03/2020;mitre;Carupa;60550
+01/03/2020;mitre;Centrangolo;7313
+01/03/2019;mitre;Centrangolo;15014
+01/03/2018;mitre;Centrangolo;16835
+01/03/2018;mitre;Chilavert;45403
+01/03/2019;mitre;Chilavert;49853
+01/03/2020;mitre;Chilavert;25141
+01/03/2020;mitre;Coghlan;15623
+01/03/2018;mitre;Coghlan;35210
+01/03/2019;mitre;Coghlan;33183
+01/03/2019;mitre;Colegiales;86543
+01/03/2018;mitre;Colegiales;93234
+01/03/2020;mitre;Colegiales;45165
+01/03/2020;mitre;Drago;27170
+01/03/2018;mitre;Drago;40171
+01/03/2019;mitre;Drago;41778
+01/03/2019;mitre;El Talar;82
+01/03/2018;mitre;El Talar;2
+01/03/2020;mitre;El Talar;8
+01/03/2020;mitre;Escobar;1628
+01/03/2018;mitre;Escobar;4141
+01/03/2019;mitre;Escobar;2339
+01/03/2018;mitre;Florida;22023
+01/03/2019;mitre;Florida;15866
+01/03/2020;mitre;Florida;10021
+01/03/2020;mitre;Garin;482
+01/03/2018;mitre;Garin;627
+01/03/2019;mitre;Garin;1035
+01/03/2018;mitre;Jose Leon Suarez;212784
+01/03/2019;mitre;Jose Leon Suarez;208241
+01/03/2020;mitre;Jose Leon Suarez;121645
+01/03/2020;mitre;Juan B. Justo;8723
+01/03/2019;mitre;Juan B. Justo;19136
+01/03/2018;mitre;Juan B. Justo;18667
+01/03/2020;mitre;L. De La Torre;30823
+01/03/2020;mitre;La Lucila;29177
+01/03/2019;mitre;La Lucila;27541
+01/03/2018;mitre;La Lucila;57976
+01/03/2019;mitre;Lopez Camelo;300
+01/03/2020;mitre;Lopez Camelo;346
+01/03/2018;mitre;Los Cardales;151
+01/03/2018;mitre;Malaver;29188
+01/03/2019;mitre;Malaver;27193
+01/03/2020;mitre;Malaver;14505
+01/03/2020;mitre;Maq. Savio;706
+01/03/2018;mitre;Maq. Savio;2559
+01/03/2019;mitre;Maq. Savio;461
+01/03/2018;mitre;Martinez;174700
+01/03/2019;mitre;Martinez;103675
+01/03/2020;mitre;Martinez;76098
+01/03/2020;mitre;Matheu;58
+01/03/2018;mitre;Matheu;1485
+01/03/2019;mitre;Matheu;867
+01/03/2019;mitre;Migueletes;43382
+01/03/2018;mitre;Migueletes;21438
+01/03/2020;mitre;Migueletes;17792
+01/03/2020;mitre;Mitre;24937
+01/03/2019;mitre;Mitre;110612
+01/03/2018;mitre;Mitre;76395
+01/03/2019;mitre;Nuñez;258957
+01/03/2018;mitre;Nuñez;101875
+01/03/2020;mitre;Nuñez;55323
+01/03/2020;mitre;Olivos;52158
+01/03/2019;mitre;Olivos;95531
+01/03/2018;mitre;Olivos;87053
+01/03/2018;mitre;Pueyrredon;70578
+01/03/2019;mitre;Pueyrredon;64922
+01/03/2020;mitre;Pueyrredon;36306
+01/03/2020;mitre;Retiro (Suarez-Mitre);306998
+01/03/2018;mitre;Retiro (Suarez-Mitre);672626
+01/03/2019;mitre;Retiro (Suarez-Mitre);468788
+01/03/2018;mitre;Retiro (Tigre);715625
+01/03/2019;mitre;Retiro (Tigre);181365
+01/03/2020;mitre;Retiro (Tigre);367012
+01/03/2020;mitre;Rivadavia;58668
+01/03/2019;mitre;Rivadavia;93830
+01/03/2018;mitre;Rivadavia;116200
+01/03/2019;mitre;Saavedra;38539
+01/03/2018;mitre;Saavedra;46289
+01/03/2020;mitre;Saavedra;17414
+01/03/2020;mitre;San Andres;21503
+01/03/2019;mitre;San Andres;45915
+01/03/2018;mitre;San Andres;29541
+01/03/2019;mitre;San Fernando;95954
+01/03/2018;mitre;San Fernando;89432
+01/03/2020;mitre;San Fernando;55513
+01/03/2020;mitre;San Isidro;143450
+01/03/2019;mitre;San Isidro;281532
+01/03/2018;mitre;San Isidro;360772
+01/03/2018;mitre;San Martin;242627
+01/03/2019;mitre;San Martin;205159
+01/03/2020;mitre;San Martin;132929
+01/03/2020;mitre;Tigre;136916
+01/03/2019;mitre;Tigre;245079
+01/03/2018;mitre;Tigre;322292
+01/03/2018;mitre;Urquiza;258675
+01/03/2019;mitre;Urquiza;216471
+01/03/2020;mitre;Urquiza;117457
+01/03/2020;mitre;V. Ballester;81900
+01/03/2019;mitre;V. Ballester;137691
+01/03/2018;mitre;V. Ballester;167863
+01/03/2019;mitre;Vicente Lopez;40985
+01/03/2018;mitre;Vicente Lopez;97217
+01/03/2020;mitre;Vicente Lopez;40888
+01/03/2020;mitre;Victoria Elect;40101
+01/03/2018;mitre;Victoria Elect;80277
+01/03/2019;mitre;Victoria Elect;62274
+01/03/2019;mitre;Virreyes;115155
+01/03/2018;mitre;Virreyes;148083
+01/03/2020;mitre;Virreyes;73053
+01/03/2020;mitre;Zarate;283
+01/03/2018;mitre;Zarate;1255
+01/03/2019;mitre;Zarate;953
+01/03/2019;mitre;Zelaya;268
+01/03/2018;mitre;Zelaya;102
+01/03/2019;roca;A. De Elia;7
+01/03/2018;roca;A. De Elia;33
+01/03/2018;roca;A. Petion;6516
+01/03/2019;roca;A. Petion;5590
+01/03/2020;roca;A. Petion;2782
+01/03/2020;roca;A.korn;119965
+01/03/2019;roca;A.korn;211120
+01/03/2018;roca;A.korn;224674
+01/03/2020;roca;Abbot;267
+01/03/2020;roca;Adrogue;152878
+01/03/2018;roca;Adrogue;286955
+01/03/2019;roca;Adrogue;305419
+01/03/2018;roca;Altamirano;7
+01/03/2020;roca;Altamirano;170
+01/03/2020;roca;Ardigo;91688
+01/03/2018;roca;Ardigo;114003
+01/03/2019;roca;Ardigo;140982
+01/03/2018;roca;Banfield;601526
+01/03/2019;roca;Banfield;539062
+01/03/2020;roca;Banfield;260703
+01/03/2020;roca;Berazategui;164403
+01/03/2018;roca;Berazategui;266260
+01/03/2019;roca;Berazategui;253049
+01/03/2019;roca;Bernal;159039
+01/03/2018;roca;Bernal;113185
+01/03/2020;roca;Bernal;81860
+01/03/2020;roca;Bosques;66287
+01/03/2018;roca;Bosques;81796
+01/03/2019;roca;Bosques;111150
+01/03/2018;roca;Brandsen;1392
+01/03/2019;roca;Brandsen;155
+01/03/2020;roca;Brandsen;1209
+01/03/2018;roca;Brian;1
+01/03/2019;roca;Brian;1
+01/03/2019;roca;Burzaco;471854
+01/03/2018;roca;Burzaco;543788
+01/03/2020;roca;Burzaco;232739
+01/03/2020;roca;Calzada;87084
+01/03/2019;roca;Calzada;155672
+01/03/2018;roca;Calzada;162663
+01/03/2019;roca;Canuelas;27519
+01/03/2018;roca;Canuelas;29763
+01/03/2020;roca;Canuelas;16719
+01/03/2020;roca;Chascomus;5595
+01/03/2019;roca;Chascomus;350
+01/03/2018;roca;Chascomus;4845
+01/03/2019;roca;City Bell;50143
+01/03/2018;roca;City Bell;45904
+01/03/2020;roca;City Bell;27001
+01/03/2020;roca;Claypole;155753
+01/03/2019;roca;Claypole;245437
+01/03/2018;roca;Claypole;317669
+01/03/2019;roca;Constitucion;4235597
+01/03/2018;roca;Constitucion;4433183
+01/03/2020;roca;Constitucion;2230248
+01/03/2020;roca;Dario Y Maxi;107857
+01/03/2019;roca;Dario Y Maxi;241011
+01/03/2018;roca;Dario Y Maxi;269847
+01/03/2020;roca;Domselaar;618
+01/03/2020;roca;Don Bosco;32975
+01/03/2019;roca;Don Bosco;60904
+01/03/2018;roca;Don Bosco;18790
+01/03/2018;roca;El Jaguel;200417
+01/03/2019;roca;El Jaguel;190857
+01/03/2020;roca;El Jaguel;96292
+01/03/2020;roca;Emp. Lobos;148
+01/03/2020;roca;Escalada;76493
+01/03/2018;roca;Escalada;143622
+01/03/2019;roca;Escalada;146515
+01/03/2018;roca;Ezeiza;530982
+01/03/2019;roca;Ezeiza;484034
+01/03/2020;roca;Ezeiza;268932
+01/03/2020;roca;Ezpeleta;109928
+01/03/2019;roca;Ezpeleta;190606
+01/03/2018;roca;Ezpeleta;135409
+01/03/2019;roca;F. Varela;323126
+01/03/2018;roca;F. Varela;260401
+01/03/2020;roca;F. Varela;168084
+01/03/2020;roca;Gandara;11
+01/03/2020;roca;Gerli;62301
+01/03/2019;roca;Gerli;138288
+01/03/2018;roca;Gerli;162037
+01/03/2019;roca;Glew;582779
+01/03/2018;roca;Glew;679634
+01/03/2020;roca;Glew;282907
+01/03/2020;roca;Gonnet;15414
+01/03/2019;roca;Gonnet;34723
+01/03/2018;roca;Gonnet;20688
+01/03/2019;roca;Guernica;168159
+01/03/2018;roca;Guernica;131976
+01/03/2020;roca;Guernica;114848
+01/03/2020;roca;Gutierrez;1885
+01/03/2018;roca;Gutierrez;7491
+01/03/2019;roca;Gutierrez;6168
+01/03/2018;roca;H. Espanol;5
+01/03/2019;roca;H. Espanol;1
+01/03/2018;roca;Haedo;3103
+01/03/2019;roca;Haedo;2096
+01/03/2020;roca;Haedo;8
+01/03/2020;roca;Hudson;42665
+01/03/2018;roca;Hudson;57616
+01/03/2019;roca;Hudson;72228
+01/03/2018;roca;J. Marmol;77731
+01/03/2019;roca;J. Marmol;60695
+01/03/2020;roca;J. Marmol;42212
+01/03/2020;roca;Jeppener;356
+01/03/2018;roca;Jeppener;1
+01/03/2019;roca;Juan XXIII;1
+01/03/2018;roca;Juan XXIII;10
+01/03/2018;roca;Kloosterman;66
+01/03/2019;roca;Kloosterman;522
+01/03/2020;roca;Kloosterman;380
+01/03/2019;roca;Km. 33;6
+01/03/2018;roca;Km. 33;5
+01/03/2018;roca;Km. 34;8
+01/03/2019;roca;Km. 34;8
+01/03/2018;roca;L. De Zamora;1196590
+01/03/2019;roca;L. De Zamora;1061774
+01/03/2020;roca;L. De Zamora;542333
+01/03/2020;roca;L. Guillon;67752
+01/03/2018;roca;L. Guillon;147715
+01/03/2019;roca;L. Guillon;146048
+01/03/2019;roca;La Noria;2
+01/03/2018;roca;La Plata;303502
+01/03/2019;roca;La Plata;358186
+01/03/2020;roca;La Plata;181584
+01/03/2020;roca;Lanus;450312
+01/03/2019;roca;Lanus;838722
+01/03/2018;roca;Lanus;952945
+01/03/2018;roca;Levene;228
+01/03/2019;roca;Levene;832
+01/03/2020;roca;Levene;893
+01/03/2020;roca;Llavallol;50381
+01/03/2019;roca;Llavallol;95152
+01/03/2018;roca;Llavallol;97035
+01/03/2020;roca;Lobos;1316
+01/03/2020;roca;Longchamps;247123
+01/03/2018;roca;Longchamps;540516
+01/03/2019;roca;Longchamps;441778
+01/03/2018;roca;Maximo Paz;9205
+01/03/2019;roca;Maximo Paz;11883
+01/03/2020;roca;Maximo Paz;5030
+01/03/2020;roca;Monte;2023
+01/03/2018;roca;Monte;188
+01/03/2019;roca;Monte;1
+01/03/2018;roca;Monte Grande;600829
+01/03/2019;roca;Monte Grande;543372
+01/03/2020;roca;Monte Grande;311002
+01/03/2020;roca;Pereyra;4971
+01/03/2019;roca;Pereyra;5140
+01/03/2018;roca;Pereyra;3330
+01/03/2019;roca;Platanos;53055
+01/03/2018;roca;Platanos;58880
+01/03/2020;roca;Platanos;29063
+01/03/2020;roca;Quilmes;237443
+01/03/2019;roca;Quilmes;394116
+01/03/2018;roca;Quilmes;303744
+01/03/2019;roca;Ranelagh;37865
+01/03/2018;roca;Ranelagh;8354
+01/03/2020;roca;Ranelagh;25701
+01/03/2020;roca;Ringuelet;6314
+01/03/2018;roca;Ringuelet;901
+01/03/2019;roca;Ringuelet;10921
+01/03/2019;roca;San Justo;351
+01/03/2018;roca;San Justo;294
+01/03/2020;roca;San Justo;3
+01/03/2020;roca;Santa Sofia;4809
+01/03/2019;roca;Santa Sofia;11611
+01/03/2018;roca;Santa Sofia;14171
+01/03/2019;roca;Sarandi;53986
+01/03/2018;roca;Sarandi;43424
+01/03/2020;roca;Sarandi;28130
+01/03/2020;roca;Sourigues;23169
+01/03/2019;roca;Sourigues;38461
+01/03/2018;roca;Sourigues;15600
+01/03/2019;roca;Spegazzini;14310
+01/03/2018;roca;Spegazzini;11077
+01/03/2020;roca;Spegazzini;7406
+01/03/2019;roca;Tablada;336
+01/03/2018;roca;Tablada;22
+01/03/2019;roca;Temperley;242622
+01/03/2018;roca;Temperley;297766
+01/03/2020;roca;Temperley;118338
+01/03/2020;roca;Tolosa;10603
+01/03/2018;roca;Tolosa;4920
+01/03/2019;roca;Tolosa;20871
+01/03/2018;roca;Tristan Suarez;20012
+01/03/2019;roca;Tristan Suarez;25841
+01/03/2020;roca;Tristan Suarez;14278
+01/03/2020;roca;Turdera;57173
+01/03/2018;roca;Turdera;103271
+01/03/2019;roca;Turdera;105196
+01/03/2018;roca;U. Ferroviaria;98
+01/03/2019;roca;U. Ferroviaria;2646
+01/03/2020;roca;U. Ferroviaria;1469
+01/03/2020;roca;Universitario;16763
+01/03/2020;roca;Uribelarrea;416
+01/03/2020;roca;V. Casares;761
+01/03/2019;roca;V. Casares;1495
+01/03/2018;roca;V. Casares;256
+01/03/2019;roca;V. Dominico;53718
+01/03/2018;roca;V. Dominico;25771
+01/03/2020;roca;V. Dominico;26015
+01/03/2020;roca;Villa Elisa;27253
+01/03/2018;roca;Villa Elisa;39911
+01/03/2019;roca;Villa Elisa;49607
+01/03/2018;roca;Villa Espana;13494
+01/03/2019;roca;Villa Espana;36964
+01/03/2020;roca;Villa Espana;22008
+01/03/2020;roca;Wilde;47320
+01/03/2019;roca;Wilde;86633
+01/03/2018;roca;Wilde;47908
+01/03/2018;roca;Yrigoyen;99445
+01/03/2019;roca;Yrigoyen;82172
+01/03/2020;roca;Yrigoyen;38852
+01/03/2020;roca;Zeballos;64257
+01/03/2019;roca;Zeballos;114078
+01/03/2018;roca;Zeballos;88704
+01/03/2019;sanmartin;Astolfi;16960
+01/03/2018;sanmartin;Astolfi;23215
+01/03/2020;sanmartin;Astolfi;6750
+01/03/2020;sanmartin;B. Vista;58551
+01/03/2019;sanmartin;B. Vista;103529
+01/03/2018;sanmartin;B. Vista;126730
+01/03/2018;sanmartin;Cabred;4122
+01/03/2019;sanmartin;Cabred;4159
+01/03/2020;sanmartin;Cabred;2506
+01/03/2020;sanmartin;Caseros;103578
+01/03/2018;sanmartin;Caseros;185817
+01/03/2019;sanmartin;Caseros;147862
+01/03/2018;sanmartin;Chacarita;125933
+01/03/2019;sanmartin;Chacarita;17
+01/03/2020;sanmartin;Chacarita;2
+01/03/2020;sanmartin;Derqui;59078
+01/03/2018;sanmartin;Derqui;187573
+01/03/2019;sanmartin;Derqui;161800
+01/03/2018;sanmartin;Hurlingham;103388
+01/03/2019;sanmartin;Hurlingham;91149
+01/03/2020;sanmartin;Hurlingham;49595
+01/03/2020;sanmartin;J.C. Paz;255308
+01/03/2019;sanmartin;J.C. Paz;455872
+01/03/2018;sanmartin;J.C. Paz;558539
+01/03/2019;sanmartin;Manzanares;2717
+01/03/2018;sanmartin;Manzanares;2580
+01/03/2020;sanmartin;Manzanares;1917
+01/03/2020;sanmartin;Muniz;31008
+01/03/2018;sanmartin;Muniz;74759
+01/03/2019;sanmartin;Muniz;58550
+01/03/2018;sanmartin;Palermo;212387
+01/03/2019;sanmartin;Palermo;181
+01/03/2020;sanmartin;Palermo;158227
+01/03/2020;sanmartin;Palomar;55217
+01/03/2018;sanmartin;Palomar;109538
+01/03/2019;sanmartin;Palomar;87689
+01/03/2018;sanmartin;Paternal;17178
+01/03/2019;sanmartin;Paternal;10
+01/03/2020;sanmartin;Paternal;1
+01/03/2020;sanmartin;Pilar;66745
+01/03/2019;sanmartin;Pilar;151000
+01/03/2018;sanmartin;Pilar;173605
+01/03/2019;sanmartin;Retiro;3
+01/03/2018;sanmartin;Retiro;323981
+01/03/2020;sanmartin;Retiro;236299
+01/03/2020;sanmartin;S. Lugares;15989
+01/03/2019;sanmartin;S. Lugares;22307
+01/03/2018;sanmartin;S. Lugares;30819
+01/03/2019;sanmartin;Saenz Pena;116685
+01/03/2018;sanmartin;Saenz Pena;111513
+01/03/2020;sanmartin;Saenz Pena;49752
+01/03/2020;sanmartin;San Miguel;174254
+01/03/2018;sanmartin;San Miguel;395213
+01/03/2019;sanmartin;San Miguel;323962
+01/03/2018;sanmartin;Sol Y Verde;117532
+01/03/2019;sanmartin;Sol Y Verde;102730
+01/03/2020;sanmartin;Sol Y Verde;32379
+01/03/2020;sanmartin;V. Devoto;75148
+01/03/2019;sanmartin;V. Devoto;117407
+01/03/2018;sanmartin;V. Devoto;131166
+01/03/2018;sanmartin;V. Parque;187768
+01/03/2019;sanmartin;V. Parque;323597
+01/03/2020;sanmartin;V. Parque;103143
+01/03/2020;sanmartin;W. Morris;25849
+01/03/2019;sanmartin;W. Morris;62538
+01/03/2018;sanmartin;W. Morris;72317
+01/03/2019;sarmiento;Caballito;199418
+01/03/2018;sarmiento;Caballito;172207
+01/03/2020;sarmiento;Caballito;97364
+01/03/2020;sarmiento;Castelar;128094
+01/03/2019;sarmiento;Castelar;253380
+01/03/2018;sarmiento;Castelar;241174
+01/03/2019;sarmiento;Ciudadela;150032
+01/03/2018;sarmiento;Ciudadela;124795
+01/03/2020;sarmiento;Ciudadela;87496
+01/03/2018;sarmiento;Estacion 25;43
+01/03/2018;sarmiento;Estacion 29;80
+01/03/2018;sarmiento;Flores;260618
+01/03/2019;sarmiento;Flores;244050
+01/03/2020;sarmiento;Flores;143236
+01/03/2020;sarmiento;Floresta;78480
+01/03/2018;sarmiento;Floresta;139919
+01/03/2019;sarmiento;Floresta;145771
+01/03/2018;sarmiento;Haedo;160501
+01/03/2019;sarmiento;Haedo;160963
+01/03/2020;sarmiento;Haedo;74008
+01/03/2020;sarmiento;Ituzaingo;154156
+01/03/2018;sarmiento;Ituzaingo;288739
+01/03/2019;sarmiento;Ituzaingo;284711
+01/03/2019;sarmiento;Liniers;534766
+01/03/2018;sarmiento;Liniers;103219
+01/03/2020;sarmiento;Liniers;326138
+01/03/2020;sarmiento;Merlo;515686
+01/03/2019;sarmiento;Merlo;883682
+01/03/2018;sarmiento;Merlo;805535
+01/03/2019;sarmiento;Miserere;273
+01/03/2020;sarmiento;Miserere;122
+01/03/2020;sarmiento;Moreno;496891
+01/03/2018;sarmiento;Moreno;859442
+01/03/2019;sarmiento;Moreno;817583
+01/03/2019;sarmiento;Morón;897291
+01/03/2018;sarmiento;Morón;931808
+01/03/2020;sarmiento;Morón;533341
+01/03/2020;sarmiento;Once;901159
+01/03/2018;sarmiento;Once;1590417
+01/03/2019;sarmiento;Once;1669895
+01/03/2019;sarmiento;Paso del Rey;229531
+01/03/2018;sarmiento;Paso del Rey;202873
+01/03/2020;sarmiento;Paso del Rey;106735
+01/03/2020;sarmiento;Ramos Mejía;229953
+01/03/2019;sarmiento;Ramos Mejía;460616
+01/03/2018;sarmiento;Ramos Mejía;380754
+01/03/2018;sarmiento;S.A de Padua;256999
+01/03/2019;sarmiento;S.A de Padua;255982
+01/03/2020;sarmiento;S.A de Padua;139908
+01/03/2020;sarmiento;Villa Luro;50453
+01/03/2018;sarmiento;Villa Luro;90592
+01/03/2019;sarmiento;Villa Luro;107770
+01/02/2020;belgranonorte;A. del Valle ;16802
+01/02/2020;belgranonorte;Boulogne Sur;157123
+01/02/2019;belgranonorte;Boulogne Sur;166882
+01/02/2020;belgranonorte;Carapachay;41521
+01/02/2020;belgranonorte;Del Viso;65181
+01/02/2020;belgranonorte;Don Torcuato;113136
+01/02/2019;belgranonorte;Don Torcuato;120224
+01/02/2019;belgranonorte;Florida;36524
+01/02/2020;belgranonorte;Florida;32482
+01/02/2020;belgranonorte;Grand Bourg;187765
+01/02/2019;belgranonorte;Grand Bourg;190724
+01/02/2019;belgranonorte;Ing. P. Nogués;104087
+01/02/2020;belgranonorte;Ing. P. Nogués;89040
+01/02/2020;belgranonorte;Los Polvorines;121166
+01/02/2019;belgranonorte;Los Polvorines;124584
+01/02/2019;belgranonorte;Munro;95844
+01/02/2020;belgranonorte;Munro;82856
+01/02/2020;belgranonorte;R. S. Ortíz;35686
+01/02/2019;belgranonorte;R. S. Ortíz;36461
+01/02/2019;belgranonorte;Retiro;538013
+01/02/2020;belgranonorte;Retiro;394183
+01/02/2020;belgranonorte;Villa Adelina;85337
+01/02/2019;belgranonorte;Villa Adelina;118923
+01/02/2020;belgranonorte;Villa Rosa;69461
+01/02/2020;belgranosur;20 de Junio;1244
+01/02/2020;belgranosur;Aldo Bonzi;2549
+01/02/2018;belgranosur;Aldo Bonzi;5698
+01/02/2019;belgranosur;Aldo Bonzi;2214
+01/02/2018;belgranosur;Buenos Aires;125439
+01/02/2019;belgranosur;Buenos Aires;3
+01/02/2020;belgranosur;Buenos Aires;50
+01/02/2020;belgranosur;Castello;64224
+01/02/2018;belgranosur;Castello;38130
+01/02/2019;belgranosur;Castello;59286
+01/02/2018;belgranosur;Castillo;27627
+01/02/2019;belgranosur;Castillo;28626
+01/02/2020;belgranosur;Castillo;41180
+01/02/2020;belgranosur;Eva Duarte;43879
+01/02/2018;belgranosur;Eva Duarte;33944
+01/02/2019;belgranosur;Eva Duarte;42989
+01/02/2018;belgranosur;Fournier;24722
+01/02/2019;belgranosur;Fournier;31673
+01/02/2020;belgranosur;Fournier;33122
+01/02/2020;belgranosur;G. Catan;198808
+01/02/2019;belgranosur;G. Catan;148313
+01/02/2018;belgranosur;G. Catan;155446
+01/02/2019;belgranosur;I. Casanova;21400
+01/02/2018;belgranosur;I. Casanova;19263
+01/02/2020;belgranosur;I. Casanova;26944
+01/02/2020;belgranosur;Illia;22906
+01/02/2019;belgranosur;Illia;14166
+01/02/2018;belgranosur;Illia;13506
+01/02/2019;belgranosur;Independencia;114744
+01/02/2018;belgranosur;Independencia;101469
+01/02/2020;belgranosur;Independencia;120282
+01/02/2020;belgranosur;J. Ingenieros;4424
+01/02/2018;belgranosur;J. Ingenieros;3740
+01/02/2019;belgranosur;J. Ingenieros;3482
+01/02/2019;belgranosur;KM. 12;1291
+01/02/2020;belgranosur;KM. 12;1879
+01/02/2020;belgranosur;La Salada;1
+01/02/2020;belgranosur;Laferrere;210564
+01/02/2019;belgranosur;Laferrere;195340
+01/02/2018;belgranosur;Laferrere;167371
+01/02/2018;belgranosur;Libertad;25668
+01/02/2019;belgranosur;Libertad;24551
+01/02/2020;belgranosur;Libertad;30993
+01/02/2020;belgranosur;M. Belgrano;35211
+01/02/2018;belgranosur;M. Belgrano;27565
+01/02/2019;belgranosur;M. Belgrano;35022
+01/02/2019;belgranosur;Mendeville;2640
+01/02/2018;belgranosur;Mendeville;2376
+01/02/2020;belgranosur;Mendeville;4540
+01/02/2020;belgranosur;Merlo Gomez;18218
+01/02/2019;belgranosur;Merlo Gomez;18911
+01/02/2018;belgranosur;Merlo Gomez;19122
+01/02/2018;belgranosur;Puente Alsina;1
+01/02/2019;belgranosur;Querandi;19027
+01/02/2018;belgranosur;Querandi;14314
+01/02/2020;belgranosur;Querandi;20846
+01/02/2020;belgranosur;Saenz;262433
+01/02/2019;belgranosur;Saenz;233308
+01/02/2018;belgranosur;Saenz;116232
+01/02/2019;belgranosur;Tapiales;28887
+01/02/2018;belgranosur;Tapiales;25230
+01/02/2020;belgranosur;Tapiales;33533
+01/02/2020;belgranosur;V. Madero;70240
+01/02/2019;belgranosur;V. Madero;62309
+01/02/2018;belgranosur;V. Madero;48255
+01/02/2019;belgranosur;V. Soldati;31537
+01/02/2018;belgranosur;V. Soldati;20481
+01/02/2020;belgranosur;V. Soldati;34764
+01/02/2020;belgranosur;V.lugano;88024
+01/02/2018;belgranosur;V.lugano;37822
+01/02/2019;belgranosur;V.lugano;78583
+01/02/2019;belgranosur;Villegas;4505
+01/02/2018;belgranosur;Villegas;5475
+01/02/2020;belgranosur;Villegas;5095
+01/02/2020;mitre;3 De Febrero;52418
+01/02/2019;mitre;3 De Febrero;59047
+01/02/2018;mitre;3 De Febrero;31791
+01/02/2019;mitre;Acassuso;34665
+01/02/2018;mitre;Acassuso;46193
+01/02/2020;mitre;Acassuso;53664
+01/02/2020;mitre;Beccar;65682
+01/02/2018;mitre;Beccar;52760
+01/02/2019;mitre;Beccar;39845
+01/02/2018;mitre;Belgrano C.;273020
+01/02/2019;mitre;Belgrano C.;8694
+01/02/2020;mitre;Belgrano C.;314610
+01/02/2020;mitre;Belgrano R.;143751
+01/02/2019;mitre;Belgrano R.;161854
+01/02/2018;mitre;Belgrano R.;145033
+01/02/2019;mitre;Benavidez;593
+01/02/2018;mitre;Benavidez;809
+01/02/2020;mitre;Benavidez;719
+01/02/2020;mitre;Capilla Del Señor;523
+01/02/2018;mitre;Capilla Del Señor;3
+01/02/2018;mitre;Carranza;151190
+01/02/2019;mitre;Carranza;154784
+01/02/2020;mitre;Carranza;129682
+01/02/2020;mitre;Carupa;94056
+01/02/2018;mitre;Carupa;99876
+01/02/2019;mitre;Carupa;65951
+01/02/2018;mitre;Centrangolo;13336
+01/02/2019;mitre;Centrangolo;14056
+01/02/2020;mitre;Centrangolo;11692
+01/02/2020;mitre;Chilavert;41533
+01/02/2019;mitre;Chilavert;48668
+01/02/2018;mitre;Chilavert;36632
+01/02/2018;mitre;Coghlan;28338
+01/02/2019;mitre;Coghlan;29040
+01/02/2020;mitre;Coghlan;24442
+01/02/2020;mitre;Colegiales;68375
+01/02/2019;mitre;Colegiales;78883
+01/02/2018;mitre;Colegiales;68882
+01/02/2019;mitre;Drago;43662
+01/02/2018;mitre;Drago;28617
+01/02/2020;mitre;Drago;42916
+01/02/2020;mitre;El Talar;33
+01/02/2019;mitre;El Talar;61
+01/02/2018;mitre;El Talar;39
+01/02/2019;mitre;Escobar;2640
+01/02/2018;mitre;Escobar;4045
+01/02/2020;mitre;Escobar;3166
+01/02/2020;mitre;Florida;14650
+01/02/2019;mitre;Florida;18323
+01/02/2018;mitre;Florida;16444
+01/02/2019;mitre;Garin;1301
+01/02/2018;mitre;Garin;712
+01/02/2020;mitre;Garin;1134
+01/02/2020;mitre;Jose Leon Suarez;191265
+01/02/2018;mitre;Jose Leon Suarez;211667
+01/02/2019;mitre;Jose Leon Suarez;212917
+01/02/2019;mitre;Juan B. Justo;19964
+01/02/2018;mitre;Juan B. Justo;12517
+01/02/2020;mitre;Juan B. Justo;14570
+01/02/2020;mitre;L. De La Torre;57297
+01/02/2020;mitre;La Lucila;49324
+01/02/2019;mitre;La Lucila;26529
+01/02/2018;mitre;La Lucila;44707
+01/02/2019;mitre;Lopez Camelo;5
+01/02/2020;mitre;Lopez Camelo;890
+01/02/2018;mitre;Los Cardales;24
+01/02/2018;mitre;Malaver;23753
+01/02/2019;mitre;Malaver;27152
+01/02/2020;mitre;Malaver;24333
+01/02/2020;mitre;Maq. Savio;1313
+01/02/2019;mitre;Maq. Savio;1459
+01/02/2018;mitre;Maq. Savio;2128
+01/02/2019;mitre;Martinez;99373
+01/02/2018;mitre;Martinez;132394
+01/02/2020;mitre;Martinez;127502
+01/02/2018;mitre;Matheu;1581
+01/02/2019;mitre;Matheu;999
+01/02/2019;mitre;Migueletes;43344
+01/02/2018;mitre;Migueletes;15346
+01/02/2020;mitre;Migueletes;29925
+01/02/2020;mitre;Mitre;49179
+01/02/2018;mitre;Mitre;58688
+01/02/2019;mitre;Mitre;107582
+01/02/2019;mitre;Nuñez;189356
+01/02/2018;mitre;Nuñez;80285
+01/02/2020;mitre;Nuñez;89303
+01/02/2020;mitre;Olivos;89711
+01/02/2019;mitre;Olivos;64385
+01/02/2018;mitre;Olivos;61302
+01/02/2018;mitre;Pueyrredon;54696
+01/02/2019;mitre;Pueyrredon;66844
+01/02/2020;mitre;Pueyrredon;59003
+01/02/2020;mitre;Retiro (Suarez-Mitre);507518
+01/02/2018;mitre;Retiro (Suarez-Mitre);585384
+01/02/2019;mitre;Retiro (Suarez-Mitre);487011
+01/02/2018;mitre;Retiro (Tigre);552590
+01/02/2019;mitre;Retiro (Tigre);200998
+01/02/2020;mitre;Retiro (Tigre);669417
+01/02/2020;mitre;Rivadavia;95002
+01/02/2019;mitre;Rivadavia;101157
+01/02/2018;mitre;Rivadavia;119126
+01/02/2018;mitre;Saavedra;37451
+01/02/2019;mitre;Saavedra;34776
+01/02/2020;mitre;Saavedra;27669
+01/02/2020;mitre;San Andres;35060
+01/02/2018;mitre;San Andres;23747
+01/02/2019;mitre;San Andres;42022
+01/02/2019;mitre;San Fernando;85204
+01/02/2018;mitre;San Fernando;68543
+01/02/2020;mitre;San Fernando;92918
+01/02/2020;mitre;San Isidro;245847
+01/02/2018;mitre;San Isidro;251929
+01/02/2019;mitre;San Isidro;216732
+01/02/2018;mitre;San Martin;210890
+01/02/2019;mitre;San Martin;198483
+01/02/2020;mitre;San Martin;222686
+01/02/2020;mitre;Tigre;316399
+01/02/2018;mitre;Tigre;322403
+01/02/2019;mitre;Tigre;240232
+01/02/2019;mitre;Urquiza;200012
+01/02/2018;mitre;Urquiza;193751
+01/02/2020;mitre;Urquiza;185762
+01/02/2020;mitre;V. Ballester;130635
+01/02/2018;mitre;V. Ballester;120212
+01/02/2019;mitre;V. Ballester;135012
+01/02/2019;mitre;Vicente Lopez;44091
+01/02/2018;mitre;Vicente Lopez;79111
+01/02/2020;mitre;Vicente Lopez;75567
+01/02/2020;mitre;Victoria Elect;64559
+01/02/2019;mitre;Victoria Elect;51976
+01/02/2018;mitre;Victoria Elect;59277
+01/02/2018;mitre;Virreyes;118969
+01/02/2019;mitre;Virreyes;107536
+01/02/2020;mitre;Virreyes;123239
+01/02/2020;mitre;Zarate;1334
+01/02/2019;mitre;Zarate;1147
+01/02/2018;mitre;Zarate;1661
+01/02/2019;mitre;Zelaya;272
+01/02/2018;roca;A. De Elia;30
+01/02/2019;roca;A. De Elia;8
+01/02/2018;roca;A. Petion;4882
+01/02/2019;roca;A. Petion;4693
+01/02/2020;roca;A. Petion;4395
+01/02/2020;roca;A.korn;206008
+01/02/2018;roca;A.korn;197551
+01/02/2019;roca;A.korn;192668
+01/02/2020;roca;Abbot;646
+01/02/2020;roca;Adrogue;234554
+01/02/2019;roca;Adrogue;260831
+01/02/2018;roca;Adrogue;218885
+01/02/2018;roca;Altamirano;5
+01/02/2020;roca;Altamirano;643
+01/02/2020;roca;Ardigo;132905
+01/02/2019;roca;Ardigo;134214
+01/02/2018;roca;Ardigo;91162
+01/02/2018;roca;Banfield;482117
+01/02/2019;roca;Banfield;468061
+01/02/2020;roca;Banfield;408769
+01/02/2020;roca;Berazategui;257369
+01/02/2018;roca;Berazategui;190437
+01/02/2019;roca;Berazategui;227973
+01/02/2018;roca;Bernal;67156
+01/02/2019;roca;Bernal;121419
+01/02/2020;roca;Bernal;127366
+01/02/2020;roca;Bosques;99252
+01/02/2018;roca;Bosques;68642
+01/02/2019;roca;Bosques;102166
+01/02/2019;roca;Brandsen;301
+01/02/2018;roca;Brandsen;1849
+01/02/2020;roca;Brandsen;1345
+01/02/2018;roca;Brian;3
+01/02/2019;roca;Brian;3
+01/02/2019;roca;Burzaco;419739
+01/02/2018;roca;Burzaco;424676
+01/02/2020;roca;Burzaco;375627
+01/02/2020;roca;Calzada;137891
+01/02/2018;roca;Calzada;131806
+01/02/2019;roca;Calzada;139553
+01/02/2018;roca;Canuelas;25593
+01/02/2019;roca;Canuelas;25876
+01/02/2020;roca;Canuelas;29559
+01/02/2020;roca;Chascomus;30147
+01/02/2019;roca;Chascomus;1306
+01/02/2018;roca;Chascomus;12683
+01/02/2018;roca;City Bell;34668
+01/02/2019;roca;City Bell;40911
+01/02/2020;roca;City Bell;45336
+01/02/2020;roca;Claypole;237160
+01/02/2019;roca;Claypole;226575
+01/02/2018;roca;Claypole;254363
+01/02/2019;roca;Constitucion;3859969
+01/02/2018;roca;Constitucion;3647869
+01/02/2020;roca;Constitucion;3535035
+01/02/2020;roca;Dario Y Maxi;177341
+01/02/2019;roca;Dario Y Maxi;215511
+01/02/2018;roca;Dario Y Maxi;222058
+01/02/2019;roca;Don Bosco;52178
+01/02/2018;roca;Don Bosco;21712
+01/02/2020;roca;Don Bosco;53585
+01/02/2020;roca;El Jaguel;157963
+01/02/2019;roca;El Jaguel;169896
+01/02/2018;roca;El Jaguel;162635
+01/02/2020;roca;Emp. Lobos;302
+01/02/2020;roca;Escalada;141850
+01/02/2018;roca;Escalada;104700
+01/02/2019;roca;Escalada;130777
+01/02/2018;roca;Ezeiza;429200
+01/02/2019;roca;Ezeiza;441300
+01/02/2020;roca;Ezeiza;422698
+01/02/2020;roca;Ezpeleta;166124
+01/02/2018;roca;Ezpeleta;122352
+01/02/2019;roca;Ezpeleta;167826
+01/02/2018;roca;F. Varela;213784
+01/02/2019;roca;F. Varela;298171
+01/02/2020;roca;F. Varela;260548
+01/02/2020;roca;Gandara;159
+01/02/2020;roca;Gerli;101724
+01/02/2019;roca;Gerli;127917
+01/02/2018;roca;Gerli;125869
+01/02/2019;roca;Glew;517075
+01/02/2018;roca;Glew;554992
+01/02/2020;roca;Glew;449506
+01/02/2020;roca;Gonnet;30466
+01/02/2019;roca;Gonnet;30053
+01/02/2018;roca;Gonnet;18242
+01/02/2018;roca;Guernica;99338
+01/02/2019;roca;Guernica;152867
+01/02/2020;roca;Guernica;180962
+01/02/2020;roca;Gutierrez;2994
+01/02/2018;roca;Gutierrez;5649
+01/02/2019;roca;Gutierrez;5776
+01/02/2018;roca;H. Espanol;1
+01/02/2019;roca;H. Espanol;7
+01/02/2018;roca;Haedo;3008
+01/02/2019;roca;Haedo;1881
+01/02/2020;roca;Haedo;11
+01/02/2020;roca;Hudson;66641
+01/02/2019;roca;Hudson;65775
+01/02/2018;roca;Hudson;40376
+01/02/2018;roca;J. Marmol;59197
+01/02/2019;roca;J. Marmol;51796
+01/02/2020;roca;J. Marmol;65242
+01/02/2020;roca;Jeppener;2809
+01/02/2018;roca;Juan XXIII;12
+01/02/2019;roca;Juan XXIII;3
+01/02/2018;roca;Kloosterman;162
+01/02/2019;roca;Kloosterman;525
+01/02/2020;roca;Kloosterman;631
+01/02/2018;roca;Km. 33;15
+01/02/2019;roca;Km. 33;7
+01/02/2018;roca;Km. 34;9
+01/02/2019;roca;Km. 34;4
+01/02/2019;roca;L. De Zamora;950900
+01/02/2018;roca;L. De Zamora;962047
+01/02/2020;roca;L. De Zamora;933209
+01/02/2020;roca;L. Guillon;109896
+01/02/2019;roca;L. Guillon;115401
+01/02/2018;roca;L. Guillon;107367
+01/02/2019;roca;La Plata;289200
+01/02/2018;roca;La Plata;237314
+01/02/2020;roca;La Plata;346169
+01/02/2020;roca;Lanus;732045
+01/02/2019;roca;Lanus;741404
+01/02/2018;roca;Lanus;730422
+01/02/2018;roca;Levene;173
+01/02/2019;roca;Levene;771
+01/02/2020;roca;Levene;1439
+01/02/2020;roca;Llavallol;76189
+01/02/2018;roca;Llavallol;70748
+01/02/2019;roca;Llavallol;79234
+01/02/2020;roca;Lobos;2015
+01/02/2020;roca;Longchamps;394793
+01/02/2019;roca;Longchamps;383635
+01/02/2018;roca;Longchamps;407238
+01/02/2019;roca;Maximo Paz;11475
+01/02/2018;roca;Maximo Paz;10755
+01/02/2020;roca;Maximo Paz;9889
+01/02/2020;roca;Monte;6526
+01/02/2018;roca;Monte;4
+01/02/2019;roca;Monte;35
+01/02/2018;roca;Monte Grande;481015
+01/02/2019;roca;Monte Grande;491833
+01/02/2020;roca;Monte Grande;473039
+01/02/2020;roca;Pereyra;1357
+01/02/2018;roca;Pereyra;316
+01/02/2019;roca;Pereyra;1580
+01/02/2018;roca;Platanos;14440
+01/02/2019;roca;Platanos;44576
+01/02/2020;roca;Platanos;43531
+01/02/2020;roca;Quilmes;389845
+01/02/2018;roca;Quilmes;201035
+01/02/2019;roca;Quilmes;369581
+01/02/2018;roca;Ranelagh;6654
+01/02/2019;roca;Ranelagh;28734
+01/02/2020;roca;Ranelagh;39932
+01/02/2020;roca;Ringuelet;12309
+01/02/2018;roca;Ringuelet;92
+01/02/2019;roca;Ringuelet;8590
+01/02/2019;roca;San Justo;248
+01/02/2018;roca;San Justo;269
+01/02/2020;roca;San Justo;3
+01/02/2020;roca;Santa Sofia;7783
+01/02/2018;roca;Santa Sofia;11331
+01/02/2019;roca;Santa Sofia;10282
+01/02/2019;roca;Sarandi;46120
+01/02/2018;roca;Sarandi;33326
+01/02/2020;roca;Sarandi;45420
+01/02/2020;roca;Sourigues;37498
+01/02/2019;roca;Sourigues;34760
+01/02/2018;roca;Sourigues;13067
+01/02/2018;roca;Spegazzini;7274
+01/02/2019;roca;Spegazzini;12613
+01/02/2020;roca;Spegazzini;12108
+01/02/2020;roca;Tablada;1
+01/02/2018;roca;Tablada;37
+01/02/2019;roca;Tablada;278
+01/02/2018;roca;Temperley;227827
+01/02/2019;roca;Temperley;214126
+01/02/2020;roca;Temperley;179624
+01/02/2020;roca;Tolosa;18232
+01/02/2019;roca;Tolosa;16906
+01/02/2018;roca;Tolosa;1104
+01/02/2019;roca;Tristan Suarez;21754
+01/02/2018;roca;Tristan Suarez;16096
+01/02/2020;roca;Tristan Suarez;20405
+01/02/2020;roca;Turdera;87773
+01/02/2018;roca;Turdera;75699
+01/02/2019;roca;Turdera;87986
+01/02/2019;roca;U. Ferroviaria;1876
+01/02/2018;roca;U. Ferroviaria;271
+01/02/2020;roca;U. Ferroviaria;2121
+01/02/2020;roca;Universitario;34272
+01/02/2020;roca;Uribelarrea;665
+01/02/2020;roca;V. Casares;1172
+01/02/2019;roca;V. Casares;1242
+01/02/2018;roca;V. Casares;142
+01/02/2019;roca;V. Dominico;45384
+01/02/2018;roca;V. Dominico;22425
+01/02/2020;roca;V. Dominico;44954
+01/02/2020;roca;Villa Elisa;41385
+01/02/2018;roca;Villa Elisa;29864
+01/02/2019;roca;Villa Elisa;40095
+01/02/2018;roca;Villa Espana;11860
+01/02/2019;roca;Villa Espana;32304
+01/02/2020;roca;Villa Espana;33460
+01/02/2020;roca;Wilde;76632
+01/02/2019;roca;Wilde;75898
+01/02/2018;roca;Wilde;42946
+01/02/2019;roca;Yrigoyen;81313
+01/02/2018;roca;Yrigoyen;74074
+01/02/2020;roca;Yrigoyen;59368
+01/02/2020;roca;Zeballos;105017
+01/02/2018;roca;Zeballos;68201
+01/02/2019;roca;Zeballos;103797
+01/02/2018;sanmartin;Astolfi;18199
+01/02/2019;sanmartin;Astolfi;15842
+01/02/2020;sanmartin;Astolfi;12442
+01/02/2020;sanmartin;B. Vista;89959
+01/02/2019;sanmartin;B. Vista;88446
+01/02/2018;sanmartin;B. Vista;90614
+01/02/2018;sanmartin;Cabred;3798
+01/02/2019;sanmartin;Cabred;3382
+01/02/2020;sanmartin;Cabred;5105
+01/02/2020;sanmartin;Caseros;152862
+01/02/2019;sanmartin;Caseros;129050
+01/02/2018;sanmartin;Caseros;136031
+01/02/2019;sanmartin;Chacarita;23
+01/02/2018;sanmartin;Chacarita;517
+01/02/2020;sanmartin;Chacarita;7
+01/02/2020;sanmartin;Derqui;106301
+01/02/2019;sanmartin;Derqui;139662
+01/02/2018;sanmartin;Derqui;148399
+01/02/2018;sanmartin;Hurlingham;79594
+01/02/2019;sanmartin;Hurlingham;71586
+01/02/2020;sanmartin;Hurlingham;76392
+01/02/2020;sanmartin;J.C. Paz;436392
+01/02/2019;sanmartin;J.C. Paz;395695
+01/02/2018;sanmartin;J.C. Paz;427654
+01/02/2018;sanmartin;Manzanares;2799
+01/02/2019;sanmartin;Manzanares;2132
+01/02/2020;sanmartin;Manzanares;4017
+01/02/2020;sanmartin;Muniz;49459
+01/02/2018;sanmartin;Muniz;52008
+01/02/2019;sanmartin;Muniz;46083
+01/02/2019;sanmartin;Palermo;78
+01/02/2018;sanmartin;Palermo;1207
+01/02/2020;sanmartin;Palermo;278682
+01/02/2020;sanmartin;Palomar;104868
+01/02/2018;sanmartin;Palomar;82048
+01/02/2019;sanmartin;Palomar;78396
+01/02/2018;sanmartin;Paternal;23
+01/02/2019;sanmartin;Paternal;11
+01/02/2020;sanmartin;Paternal;2
+01/02/2020;sanmartin;Pilar;111364
+01/02/2019;sanmartin;Pilar;122407
+01/02/2018;sanmartin;Pilar;126453
+01/02/2019;sanmartin;Retiro;7
+01/02/2018;sanmartin;Retiro;69
+01/02/2020;sanmartin;Retiro;396288
+01/02/2020;sanmartin;S. Lugares;32415
+01/02/2019;sanmartin;S. Lugares;20725
+01/02/2018;sanmartin;S. Lugares;22761
+01/02/2019;sanmartin;Saenz Pena;99942
+01/02/2018;sanmartin;Saenz Pena;82661
+01/02/2020;sanmartin;Saenz Pena;75614
+01/02/2020;sanmartin;San Miguel;294706
+01/02/2018;sanmartin;San Miguel;303439
+01/02/2019;sanmartin;San Miguel;274877
+01/02/2018;sanmartin;Sol Y Verde;78870
+01/02/2019;sanmartin;Sol Y Verde;79825
+01/02/2020;sanmartin;Sol Y Verde;48165
+01/02/2020;sanmartin;V. Devoto;118398
+01/02/2018;sanmartin;V. Devoto;96727
+01/02/2019;sanmartin;V. Devoto;99363
+01/02/2019;sanmartin;V. Parque;288873
+01/02/2018;sanmartin;V. Parque;278076
+01/02/2020;sanmartin;V. Parque;154159
+01/02/2020;sanmartin;W. Morris;40455
+01/02/2018;sanmartin;W. Morris;51162
+01/02/2019;sanmartin;W. Morris;46814
+01/02/2019;sarmiento;Caballito;184245
+01/02/2018;sarmiento;Caballito;120882
+01/02/2020;sarmiento;Caballito;153305
+01/02/2020;sarmiento;Castelar;208193
+01/02/2019;sarmiento;Castelar;238785
+01/02/2018;sarmiento;Castelar;192117
+01/02/2019;sarmiento;Ciudadela;144492
+01/02/2018;sarmiento;Ciudadela;89654
+01/02/2020;sarmiento;Ciudadela;137244
+01/02/2020;sarmiento;Flores;191293
+01/02/2019;sarmiento;Flores;219415
+01/02/2018;sarmiento;Flores;200124
+01/02/2018;sarmiento;Floresta;101828
+01/02/2019;sarmiento;Floresta;129636
+01/02/2020;sarmiento;Floresta;133181
+01/02/2020;sarmiento;Haedo;132996
+01/02/2018;sarmiento;Haedo;149752
+01/02/2019;sarmiento;Haedo;150637
+01/02/2018;sarmiento;Ituzaingo;191556
+01/02/2019;sarmiento;Ituzaingo;258149
+01/02/2020;sarmiento;Ituzaingo;253325
+01/02/2020;sarmiento;Liniers;540645
+01/02/2019;sarmiento;Liniers;519200
+01/02/2018;sarmiento;Liniers;94923
+01/02/2018;sarmiento;Merlo;560095
+01/02/2019;sarmiento;Merlo;825605
+01/02/2020;sarmiento;Merlo;825676
+01/02/2020;sarmiento;Miserere;226
+01/02/2019;sarmiento;Miserere;325
+01/02/2018;sarmiento;Moreno;669466
+01/02/2019;sarmiento;Moreno;840831
+01/02/2020;sarmiento;Moreno;849957
+01/02/2020;sarmiento;Morón;900722
+01/02/2019;sarmiento;Morón;873112
+01/02/2018;sarmiento;Morón;701584
+01/02/2019;sarmiento;Once;1581104
+01/02/2018;sarmiento;Once;1351825
+01/02/2020;sarmiento;Once;1513669
+01/02/2020;sarmiento;Paso del Rey;171061
+01/02/2019;sarmiento;Paso del Rey;223392
+01/02/2018;sarmiento;Paso del Rey;145742
+01/02/2018;sarmiento;Ramos Mejía;278845
+01/02/2019;sarmiento;Ramos Mejía;444134
+01/02/2020;sarmiento;Ramos Mejía;392621
+01/02/2020;sarmiento;S.A de Padua;227643
+01/02/2019;sarmiento;S.A de Padua;247998
+01/02/2018;sarmiento;S.A de Padua;171335
+01/02/2018;sarmiento;Villa Luro;61353
+01/02/2019;sarmiento;Villa Luro;100924
+01/02/2020;sarmiento;Villa Luro;82349
+01/01/2020;belgranonorte;Boulogne Sur;177165
+01/01/2019;belgranonorte;Boulogne Sur;158777
+01/01/2020;belgranonorte;Carapachay;46992
+01/01/2020;belgranonorte;Del Viso;70780
+01/01/2020;belgranonorte;Don Torcuato;125912
+01/01/2019;belgranonorte;Don Torcuato;119782
+01/01/2019;belgranonorte;Florida;37186
+01/01/2020;belgranonorte;Florida;37890
+01/01/2020;belgranonorte;Grand Bourg;214051
+01/01/2019;belgranonorte;Grand Bourg;189457
+01/01/2019;belgranonorte;Ing. P. Nogués;113096
+01/01/2020;belgranonorte;Ing. P. Nogués;99500
+01/01/2020;belgranonorte;Los Polvorines;136111
+01/01/2019;belgranonorte;Los Polvorines;123321
+01/01/2019;belgranonorte;Munro;97772
+01/01/2020;belgranonorte;Munro;96682
+01/01/2020;belgranonorte;R. S. Ortíz;26728
+01/01/2019;belgranonorte;R. S. Ortíz;25097
+01/01/2019;belgranonorte;Retiro;468077
+01/01/2020;belgranonorte;Retiro;431919
+01/01/2020;belgranonorte;Villa Adelina;96818
+01/01/2019;belgranonorte;Villa Adelina;115475
+01/01/2020;belgranonorte;Villa Rosa;73977
+01/01/2020;belgranosur;20 de Junio;1961
+01/01/2020;belgranosur;Aldo Bonzi;2804
+01/01/2019;belgranosur;Aldo Bonzi;3216
+01/01/2018;belgranosur;Aldo Bonzi;6277
+01/01/2019;belgranosur;Buenos Aires;2
+01/01/2018;belgranosur;Buenos Aires;132023
+01/01/2020;belgranosur;Buenos Aires;1
+01/01/2018;belgranosur;Caraza;1
+01/01/2019;belgranosur;Castello;61716
+01/01/2018;belgranosur;Castello;38806
+01/01/2020;belgranosur;Castello;68870
+01/01/2020;belgranosur;Castillo;42570
+01/01/2019;belgranosur;Castillo;29825
+01/01/2018;belgranosur;Castillo;27244
+01/01/2018;belgranosur;Eva Duarte;35880
+01/01/2019;belgranosur;Eva Duarte;43608
+01/01/2020;belgranosur;Eva Duarte;46764
+01/01/2020;belgranosur;Fournier;39835
+01/01/2018;belgranosur;Fournier;27231
+01/01/2019;belgranosur;Fournier;34195
+01/01/2018;belgranosur;G. Catan;171024
+01/01/2019;belgranosur;G. Catan;152719
+01/01/2020;belgranosur;G. Catan;204648
+01/01/2020;belgranosur;I. Casanova;27675
+01/01/2019;belgranosur;I. Casanova;21457
+01/01/2018;belgranosur;I. Casanova;18492
+01/01/2019;belgranosur;Illia;16651
+01/01/2018;belgranosur;Illia;14237
+01/01/2020;belgranosur;Illia;24104
+01/01/2020;belgranosur;Independencia;127685
+01/01/2018;belgranosur;Independencia;106633
+01/01/2019;belgranosur;Independencia;115682
+01/01/2018;belgranosur;Ing. Budge;1
+01/01/2018;belgranosur;J. Ingenieros;3897
+01/01/2019;belgranosur;J. Ingenieros;3427
+01/01/2020;belgranosur;J. Ingenieros;4943
+01/01/2020;belgranosur;KM. 12;2407
+01/01/2019;belgranosur;KM. 12;1446
+01/01/2018;belgranosur;La Salada;1
+01/01/2019;belgranosur;Laferrere;198464
+01/01/2018;belgranosur;Laferrere;191408
+01/01/2020;belgranosur;Laferrere;219293
+01/01/2020;belgranosur;Libertad;31313
+01/01/2018;belgranosur;Libertad;20442
+01/01/2019;belgranosur;Libertad;25002
+01/01/2018;belgranosur;M. Belgrano;36728
+01/01/2019;belgranosur;M. Belgrano;37311
+01/01/2020;belgranosur;M. Belgrano;38824
+01/01/2020;belgranosur;Mendeville;5183
+01/01/2018;belgranosur;Mendeville;7807
+01/01/2019;belgranosur;Mendeville;4841
+01/01/2019;belgranosur;Merlo Gomez;19901
+01/01/2018;belgranosur;Merlo Gomez;20046
+01/01/2020;belgranosur;Merlo Gomez;20301
+01/01/2018;belgranosur;Puente Alsina;1
+01/01/2019;belgranosur;Querandi;17185
+01/01/2018;belgranosur;Querandi;14847
+01/01/2020;belgranosur;Querandi;21113
+01/01/2020;belgranosur;Saenz;279846
+01/01/2018;belgranosur;Saenz;129214
+01/01/2019;belgranosur;Saenz;243783
+01/01/2018;belgranosur;Tapiales;27896
+01/01/2019;belgranosur;Tapiales;30376
+01/01/2020;belgranosur;Tapiales;33421
+01/01/2020;belgranosur;V. Madero;78613
+01/01/2019;belgranosur;V. Madero;64812
+01/01/2018;belgranosur;V. Madero;55854
+01/01/2019;belgranosur;V. Soldati;30428
+01/01/2018;belgranosur;V. Soldati;23328
+01/01/2020;belgranosur;V. Soldati;36457
+01/01/2020;belgranosur;V.lugano;93982
+01/01/2019;belgranosur;V.lugano;76309
+01/01/2018;belgranosur;V.lugano;62652
+01/01/2018;belgranosur;Villegas;5895
+01/01/2019;belgranosur;Villegas;4777
+01/01/2020;belgranosur;Villegas;5776
+01/01/2020;mitre;3 De Febrero;55488
+01/01/2018;mitre;3 De Febrero;30416
+01/01/2019;mitre;3 De Febrero;66798
+01/01/2018;mitre;Acassuso;45371
+01/01/2019;mitre;Acassuso;48291
+01/01/2020;mitre;Acassuso;55252
+01/01/2020;mitre;Beccar;67197
+01/01/2018;mitre;Beccar;49799
+01/01/2019;mitre;Beccar;56352
+01/01/2018;mitre;Belgrano C.;341671
+01/01/2019;mitre;Belgrano C.;238547
+01/01/2020;mitre;Belgrano C.;323156
+01/01/2020;mitre;Belgrano R.;145045
+01/01/2019;mitre;Belgrano R.;154293
+01/01/2018;mitre;Belgrano R.;139193
+01/01/2019;mitre;Benavidez;664
+01/01/2018;mitre;Benavidez;490
+01/01/2020;mitre;Benavidez;404
+01/01/2020;mitre;Capilla Del Señor;407
+01/01/2018;mitre;Capilla Del Señor;11
+01/01/2019;mitre;Carranza;156981
+01/01/2018;mitre;Carranza;143802
+01/01/2020;mitre;Carranza;135787
+01/01/2020;mitre;Carupa;98679
+01/01/2019;mitre;Carupa;83855
+01/01/2018;mitre;Carupa;113577
+01/01/2019;mitre;Centrangolo;13863
+01/01/2018;mitre;Centrangolo;12816
+01/01/2020;mitre;Centrangolo;12339
+01/01/2020;mitre;Chilavert;41209
+01/01/2019;mitre;Chilavert;47087
+01/01/2018;mitre;Chilavert;36905
+01/01/2018;mitre;Coghlan;29963
+01/01/2019;mitre;Coghlan;29671
+01/01/2020;mitre;Coghlan;25460
+01/01/2020;mitre;Colegiales;73492
+01/01/2018;mitre;Colegiales;72817
+01/01/2019;mitre;Colegiales;75655
+01/01/2019;mitre;Drago;36982
+01/01/2018;mitre;Drago;26907
+01/01/2020;mitre;Drago;41352
+01/01/2020;mitre;El Talar;56
+01/01/2019;mitre;El Talar;25
+01/01/2018;mitre;El Talar;9
+01/01/2019;mitre;Escobar;3561
+01/01/2018;mitre;Escobar;3406
+01/01/2020;mitre;Escobar;2989
+01/01/2020;mitre;Florida;14690
+01/01/2019;mitre;Florida;17669
+01/01/2018;mitre;Florida;14349
+01/01/2018;mitre;Garin;394
+01/01/2019;mitre;Garin;1556
+01/01/2020;mitre;Garin;1390
+01/01/2020;mitre;Jose Leon Suarez;202927
+01/01/2018;mitre;Jose Leon Suarez;226882
+01/01/2019;mitre;Jose Leon Suarez;219653
+01/01/2019;mitre;Juan B. Justo;19046
+01/01/2018;mitre;Juan B. Justo;11846
+01/01/2020;mitre;Juan B. Justo;15101
+01/01/2020;mitre;L. De La Torre;55965
+01/01/2020;mitre;La Lucila;52336
+01/01/2018;mitre;La Lucila;45732
+01/01/2019;mitre;La Lucila;45803
+01/01/2020;mitre;Lopez Camelo;900
+01/01/2018;mitre;Los Cardales;281
+01/01/2019;mitre;Malaver;26559
+01/01/2018;mitre;Malaver;22059
+01/01/2020;mitre;Malaver;25558
+01/01/2020;mitre;Maq. Savio;2013
+01/01/2019;mitre;Maq. Savio;1584
+01/01/2018;mitre;Maq. Savio;744
+01/01/2019;mitre;Martinez;133884
+01/01/2018;mitre;Martinez;144332
+01/01/2020;mitre;Martinez;134617
+01/01/2020;mitre;Matheu;226
+01/01/2018;mitre;Matheu;1029
+01/01/2019;mitre;Matheu;703
+01/01/2018;mitre;Migueletes;10154
+01/01/2019;mitre;Migueletes;43588
+01/01/2020;mitre;Migueletes;25367
+01/01/2020;mitre;Mitre;47718
+01/01/2018;mitre;Mitre;58107
+01/01/2019;mitre;Mitre;2318
+01/01/2018;mitre;Nuñez;80899
+01/01/2019;mitre;Nuñez;94573
+01/01/2020;mitre;Nuñez;94382
+01/01/2020;mitre;Olivos;96512
+01/01/2019;mitre;Olivos;71681
+01/01/2018;mitre;Olivos;57037
+01/01/2019;mitre;Pueyrredon;70860
+01/01/2018;mitre;Pueyrredon;50293
+01/01/2020;mitre;Pueyrredon;60816
+01/01/2020;mitre;Retiro (Suarez-Mitre);543207
+01/01/2019;mitre;Retiro (Suarez-Mitre);646508
+01/01/2018;mitre;Retiro (Suarez-Mitre);610939
+01/01/2018;mitre;Retiro (Tigre);703313
+01/01/2019;mitre;Retiro (Tigre);651995
+01/01/2020;mitre;Retiro (Tigre);697103
+01/01/2020;mitre;Rivadavia;106890
+01/01/2018;mitre;Rivadavia;67882
+01/01/2019;mitre;Rivadavia;50846
+01/01/2019;mitre;Saavedra;39276
+01/01/2018;mitre;Saavedra;34400
+01/01/2020;mitre;Saavedra;30708
+01/01/2020;mitre;San Andres;36101
+01/01/2018;mitre;San Andres;21664
+01/01/2019;mitre;San Andres;45036
+01/01/2019;mitre;San Fernando;90483
+01/01/2018;mitre;San Fernando;67553
+01/01/2020;mitre;San Fernando;96796
+01/01/2020;mitre;San Isidro;232452
+01/01/2018;mitre;San Isidro;257746
+01/01/2019;mitre;San Isidro;237914
+01/01/2019;mitre;San Martin;203368
+01/01/2018;mitre;San Martin;211457
+01/01/2020;mitre;San Martin;190222
+01/01/2020;mitre;Tigre;345833
+01/01/2018;mitre;Tigre;329384
+01/01/2019;mitre;Tigre;302920
+01/01/2019;mitre;Urquiza;203475
+01/01/2018;mitre;Urquiza;194373
+01/01/2020;mitre;Urquiza;191508
+01/01/2020;mitre;V. Ballester;130264
+01/01/2018;mitre;V. Ballester;124306
+01/01/2019;mitre;V. Ballester;134033
+01/01/2019;mitre;Vicente Lopez;78126
+01/01/2018;mitre;Vicente Lopez;86358
+01/01/2020;mitre;Vicente Lopez;79918
+01/01/2020;mitre;Victoria Elect;67582
+01/01/2018;mitre;Victoria Elect;59135
+01/01/2019;mitre;Victoria Elect;61708
+01/01/2018;mitre;Virreyes;107785
+01/01/2019;mitre;Virreyes;124637
+01/01/2020;mitre;Virreyes;128015
+01/01/2020;mitre;Zarate;1346
+01/01/2019;mitre;Zarate;1083
+01/01/2018;mitre;Zarate;1171
+01/01/2019;mitre;Zelaya;266
+01/01/2020;mitre;Zelaya;105
+01/01/2019;roca;A. De Elia;3
+01/01/2018;roca;A. De Elia;45
+01/01/2019;roca;A. Petion;5051
+01/01/2018;roca;A. Petion;4946
+01/01/2020;roca;A. Petion;4766
+01/01/2020;roca;A.korn;213126
+01/01/2018;roca;A.korn;204521
+01/01/2019;roca;A.korn;194760
+01/01/2020;roca;Abbot;694
+01/01/2020;roca;Adrogue;246767
+01/01/2018;roca;Adrogue;229322
+01/01/2019;roca;Adrogue;258498
+01/01/2018;roca;Altamirano;1
+01/01/2020;roca;Altamirano;670
+01/01/2020;roca;Ardigo;140793
+01/01/2018;roca;Ardigo;109570
+01/01/2019;roca;Ardigo;144298
+01/01/2019;roca;Banfield;467672
+01/01/2018;roca;Banfield;482772
+01/01/2020;roca;Banfield;423236
+01/01/2020;roca;Berazategui;248904
+01/01/2018;roca;Berazategui;205091
+01/01/2019;roca;Berazategui;218468
+01/01/2019;roca;Bernal;106130
+01/01/2018;roca;Bernal;69207
+01/01/2020;roca;Bernal;110749
+01/01/2020;roca;Bosques;100735
+01/01/2019;roca;Bosques;109944
+01/01/2018;roca;Bosques;83485
+01/01/2018;roca;Brandsen;2443
+01/01/2019;roca;Brandsen;329
+01/01/2020;roca;Brandsen;1600
+01/01/2020;roca;Burzaco;406131
+01/01/2019;roca;Burzaco;422498
+01/01/2018;roca;Burzaco;441152
+01/01/2018;roca;Calzada;134707
+01/01/2019;roca;Calzada;144223
+01/01/2020;roca;Calzada;149783
+01/01/2020;roca;Canuelas;29113
+01/01/2019;roca;Canuelas;25074
+01/01/2018;roca;Canuelas;27399
+01/01/2018;roca;Chascomus;9536
+01/01/2019;roca;Chascomus;1000
+01/01/2020;roca;Chascomus;31334
+01/01/2020;roca;City Bell;42487
+01/01/2019;roca;City Bell;37804
+01/01/2018;roca;City Bell;30835
+01/01/2019;roca;Claypole;234960
+01/01/2018;roca;Claypole;248356
+01/01/2020;roca;Claypole;255855
+01/01/2020;roca;Constitucion;3627268
+01/01/2019;roca;Constitucion;3972558
+01/01/2018;roca;Constitucion;3850549
+01/01/2019;roca;Dario Y Maxi;210905
+01/01/2018;roca;Dario Y Maxi;228105
+01/01/2020;roca;Dario Y Maxi;181920
+01/01/2020;roca;Don Bosco;54757
+01/01/2019;roca;Don Bosco;51314
+01/01/2018;roca;Don Bosco;24806
+01/01/2018;roca;El Jaguel;173079
+01/01/2019;roca;El Jaguel;175320
+01/01/2020;roca;El Jaguel;170365
+01/01/2020;roca;Emp. Lobos;360
+01/01/2020;roca;Escalada;109231
+01/01/2018;roca;Escalada;100255
+01/01/2019;roca;Escalada;119086
+01/01/2018;roca;Ezeiza;466073
+01/01/2019;roca;Ezeiza;446121
+01/01/2020;roca;Ezeiza;453577
+01/01/2020;roca;Ezpeleta;171916
+01/01/2019;roca;Ezpeleta;180328
+01/01/2018;roca;Ezpeleta;128715
+01/01/2019;roca;F. Varela;293602
+01/01/2018;roca;F. Varela;209377
+01/01/2020;roca;F. Varela;265499
+01/01/2020;roca;Gandara;298
+01/01/2020;roca;Gerli;102565
+01/01/2019;roca;Gerli;138295
+01/01/2018;roca;Gerli;135510
+01/01/2018;roca;Glew;579458
+01/01/2019;roca;Glew;517383
+01/01/2020;roca;Glew;470917
+01/01/2020;roca;Gonnet;29537
+01/01/2019;roca;Gonnet;26767
+01/01/2018;roca;Gonnet;16594
+01/01/2018;roca;Guernica;102693
+01/01/2019;roca;Guernica;151584
+01/01/2020;roca;Guernica;182813
+01/01/2020;roca;Gutierrez;3425
+01/01/2019;roca;Gutierrez;5651
+01/01/2018;roca;Gutierrez;8553
+01/01/2018;roca;H. Espanol;3
+01/01/2019;roca;H. Espanol;11
+01/01/2019;roca;Haedo;2022
+01/01/2018;roca;Haedo;3271
+01/01/2020;roca;Haedo;22
+01/01/2020;roca;Hudson;62900
+01/01/2018;roca;Hudson;42300
+01/01/2019;roca;Hudson;59242
+01/01/2019;roca;J. Marmol;54759
+01/01/2018;roca;J. Marmol;59555
+01/01/2020;roca;J. Marmol;68020
+01/01/2020;roca;Jeppener;3043
+01/01/2019;roca;Jeppener;3
+01/01/2018;roca;Jeppener;9
+01/01/2018;roca;Juan XXIII;12
+01/01/2018;roca;Kloosterman;244
+01/01/2019;roca;Kloosterman;263
+01/01/2020;roca;Kloosterman;665
+01/01/2018;roca;Km. 33;9
+01/01/2019;roca;Km. 33;10
+01/01/2018;roca;Km. 34;11
+01/01/2019;roca;Km. 34;4
+01/01/2019;roca;L. De Zamora;966751
+01/01/2018;roca;L. De Zamora;979112
+01/01/2020;roca;L. De Zamora;926479
+01/01/2020;roca;L. Guillon;112633
+01/01/2019;roca;L. Guillon;115446
+01/01/2018;roca;L. Guillon;110420
+01/01/2019;roca;La Noria;3
+01/01/2019;roca;La Plata;220985
+01/01/2018;roca;La Plata;168304
+01/01/2020;roca;La Plata;269023
+01/01/2020;roca;Lanus;732679
+01/01/2018;roca;Lanus;770324
+01/01/2019;roca;Lanus;768849
+01/01/2018;roca;Levene;186
+01/01/2019;roca;Levene;197
+01/01/2020;roca;Levene;1603
+01/01/2020;roca;Llavallol;78693
+01/01/2019;roca;Llavallol;79311
+01/01/2018;roca;Llavallol;69851
+01/01/2020;roca;Lobos;2202
+01/01/2020;roca;Longchamps;415178
+01/01/2018;roca;Longchamps;390856
+01/01/2019;roca;Longchamps;382484
+01/01/2018;roca;Maximo Paz;10308
+01/01/2019;roca;Maximo Paz;10678
+01/01/2020;roca;Maximo Paz;10401
+01/01/2020;roca;Monte;7631
+01/01/2019;roca;Monte;35
+01/01/2018;roca;Monte Grande;493318
+01/01/2019;roca;Monte Grande;489135
+01/01/2020;roca;Monte Grande;495109
+01/01/2020;roca;Pereyra;986
+01/01/2018;roca;Pereyra;144
+01/01/2019;roca;Pereyra;1492
+01/01/2019;roca;Platanos;43563
+01/01/2018;roca;Platanos;36497
+01/01/2020;roca;Platanos;42877
+01/01/2020;roca;Quilmes;384389
+01/01/2018;roca;Quilmes;267089
+01/01/2019;roca;Quilmes;367129
+01/01/2019;roca;Ranelagh;32742
+01/01/2018;roca;Ranelagh;10123
+01/01/2020;roca;Ranelagh;42011
+01/01/2020;roca;Ringuelet;11983
+01/01/2018;roca;Ringuelet;151
+01/01/2019;roca;Ringuelet;7755
+01/01/2018;roca;San Justo;250
+01/01/2019;roca;San Justo;277
+01/01/2019;roca;Santa Sofia;11296
+01/01/2018;roca;Santa Sofia;15071
+01/01/2020;roca;Santa Sofia;8658
+01/01/2020;roca;Sarandi;45960
+01/01/2018;roca;Sarandi;34411
+01/01/2019;roca;Sarandi;44941
+01/01/2019;roca;Sourigues;39795
+01/01/2018;roca;Sourigues;16967
+01/01/2020;roca;Sourigues;39440
+01/01/2020;roca;Spegazzini;13211
+01/01/2018;roca;Spegazzini;9164
+01/01/2019;roca;Spegazzini;13488
+01/01/2019;roca;Sta. Catalina;2
+01/01/2018;roca;Sta. Catalina;3
+01/01/2018;roca;Tablada;46
+01/01/2019;roca;Tablada;299
+01/01/2019;roca;Temperley;219456
+01/01/2018;roca;Temperley;220960
+01/01/2020;roca;Temperley;186325
+01/01/2020;roca;Tolosa;17852
+01/01/2018;roca;Tolosa;2450
+01/01/2019;roca;Tolosa;15783
+01/01/2019;roca;Tristan Suarez;22177
+01/01/2018;roca;Tristan Suarez;17602
+01/01/2020;roca;Tristan Suarez;22201
+01/01/2020;roca;Turdera;92665
+01/01/2019;roca;Turdera;86270
+01/01/2018;roca;Turdera;80509
+01/01/2019;roca;U. Ferroviaria;2112
+01/01/2018;roca;U. Ferroviaria;136
+01/01/2020;roca;U. Ferroviaria;2347
+01/01/2020;roca;Universitario;747
+01/01/2020;roca;Uribelarrea;777
+01/01/2020;roca;V. Casares;1045
+01/01/2019;roca;V. Casares;819
+01/01/2018;roca;V. Casares;438
+01/01/2019;roca;V. Dominico;42696
+01/01/2018;roca;V. Dominico;23707
+01/01/2020;roca;V. Dominico;42191
+01/01/2020;roca;Villa Elisa;40744
+01/01/2019;roca;Villa Elisa;35694
+01/01/2018;roca;Villa Elisa;30596
+01/01/2018;roca;Villa Espana;18881
+01/01/2019;roca;Villa Espana;36487
+01/01/2020;roca;Villa Espana;38105
+01/01/2018;roca;Vucetich;3
+01/01/2019;roca;Vucetich;1
+01/01/2019;roca;Wilde;73392
+01/01/2018;roca;Wilde;48023
+01/01/2020;roca;Wilde;76877
+01/01/2020;roca;Yrigoyen;65434
+01/01/2019;roca;Yrigoyen;83809
+01/01/2018;roca;Yrigoyen;79851
+01/01/2018;roca;Zeballos;71140
+01/01/2019;roca;Zeballos;102614
+01/01/2020;roca;Zeballos;104683
+01/01/2020;sanmartin;Astolfi;13614
+01/01/2018;sanmartin;Astolfi;20642
+01/01/2019;sanmartin;Astolfi;6326
+01/01/2018;sanmartin;B. Vista;108753
+01/01/2019;sanmartin;B. Vista;93467
+01/01/2020;sanmartin;B. Vista;103940
+01/01/2020;sanmartin;Cabred;5136
+01/01/2019;sanmartin;Cabred;4294
+01/01/2018;sanmartin;Cabred;4816
+01/01/2018;sanmartin;Caseros;160911
+01/01/2019;sanmartin;Caseros;129536
+01/01/2020;sanmartin;Caseros;162416
+01/01/2020;sanmartin;Chacarita;14
+01/01/2018;sanmartin;Chacarita;74324
+01/01/2019;sanmartin;Chacarita;22
+01/01/2019;sanmartin;Derqui;117080
+01/01/2018;sanmartin;Derqui;160820
+01/01/2020;sanmartin;Derqui;114342
+01/01/2020;sanmartin;Hurlingham;80379
+01/01/2018;sanmartin;Hurlingham;95461
+01/01/2019;sanmartin;Hurlingham;76518
+01/01/2018;sanmartin;J.C. Paz;503972
+01/01/2019;sanmartin;J.C. Paz;404628
+01/01/2020;sanmartin;J.C. Paz;475910
+01/01/2020;sanmartin;Manzanares;4136
+01/01/2018;sanmartin;Manzanares;3275
+01/01/2019;sanmartin;Manzanares;2839
+01/01/2018;sanmartin;Muniz;63295
+01/01/2019;sanmartin;Muniz;53611
+01/01/2020;sanmartin;Muniz;54364
+01/01/2020;sanmartin;Palermo;296429
+01/01/2018;sanmartin;Palermo;105913
+01/01/2019;sanmartin;Palermo;80
+01/01/2019;sanmartin;Palomar;84881
+01/01/2018;sanmartin;Palomar;83612
+01/01/2020;sanmartin;Palomar;114597
+01/01/2020;sanmartin;Paternal;1
+01/01/2018;sanmartin;Paternal;215
+01/01/2019;sanmartin;Paternal;7
+01/01/2018;sanmartin;Pilar;149059
+01/01/2019;sanmartin;Pilar;140828
+01/01/2020;sanmartin;Pilar;113503
+01/01/2020;sanmartin;Retiro;425002
+01/01/2018;sanmartin;Retiro;182798
+01/01/2019;sanmartin;Retiro;2
+01/01/2018;sanmartin;S. Lugares;27431
+01/01/2019;sanmartin;S. Lugares;19546
+01/01/2020;sanmartin;S. Lugares;31725
+01/01/2020;sanmartin;Saenz Pena;85762
+01/01/2019;sanmartin;Saenz Pena;103697
+01/01/2018;sanmartin;Saenz Pena;109019
+01/01/2019;sanmartin;San Miguel;283459
+01/01/2018;sanmartin;San Miguel;352298
+01/01/2020;sanmartin;San Miguel;313914
+01/01/2020;sanmartin;Sol Y Verde;52599
+01/01/2019;sanmartin;Sol Y Verde;80033
+01/01/2018;sanmartin;Sol Y Verde;97534
+01/01/2019;sanmartin;V. Devoto;111612
+01/01/2018;sanmartin;V. Devoto;111249
+01/01/2020;sanmartin;V. Devoto;132477
+01/01/2020;sanmartin;V. Parque;185003
+01/01/2018;sanmartin;V. Parque;229702
+01/01/2019;sanmartin;V. Parque;285597
+01/01/2018;sanmartin;W. Morris;62647
+01/01/2019;sanmartin;W. Morris;54670
+01/01/2020;sanmartin;W. Morris;50230
+01/01/2020;sarmiento;Caballito;182097
+01/01/2018;sarmiento;Caballito;357
+01/01/2019;sarmiento;Caballito;176381
+01/01/2019;sarmiento;Castelar;243684
+01/01/2018;sarmiento;Castelar;676037
+01/01/2020;sarmiento;Castelar;250424
+01/01/2020;sarmiento;Ciudadela;144046
+01/01/2019;sarmiento;Ciudadela;147564
+01/01/2018;sarmiento;Ciudadela;72342
+01/01/2018;sarmiento;Estacion 25;45
+01/01/2018;sarmiento;Estacion 29;142
+01/01/2018;sarmiento;Estacion 31;182
+01/01/2018;sarmiento;Estacion 32;314
+01/01/2018;sarmiento;Estacion 33;1703
+01/01/2018;sarmiento;Estacion 36;743
+01/01/2018;sarmiento;Flores;118380
+01/01/2019;sarmiento;Flores;232726
+01/01/2020;sarmiento;Flores;246379
+01/01/2020;sarmiento;Floresta;153875
+01/01/2019;sarmiento;Floresta;127821
+01/01/2018;sarmiento;Floresta;213832
+01/01/2018;sarmiento;Haedo;312548
+01/01/2019;sarmiento;Haedo;146590
+01/01/2020;sarmiento;Haedo;139341
+01/01/2020;sarmiento;Ituzaingo;288208
+01/01/2019;sarmiento;Ituzaingo;262216
+01/01/2018;sarmiento;Ituzaingo;202193
+01/01/2019;sarmiento;Liniers;501163
+01/01/2018;sarmiento;Liniers;71426
+01/01/2020;sarmiento;Liniers;610676
+01/01/2020;sarmiento;Merlo;932148
+01/01/2019;sarmiento;Merlo;824884
+01/01/2018;sarmiento;Merlo;183540
+01/01/2018;sarmiento;Miserere;715086
+01/01/2019;sarmiento;Miserere;231
+01/01/2020;sarmiento;Miserere;252
+01/01/2020;sarmiento;Moreno;851380
+01/01/2019;sarmiento;Moreno;796351
+01/01/2018;sarmiento;Moreno;157654
+01/01/2018;sarmiento;Morón;128046
+01/01/2019;sarmiento;Morón;804252
+01/01/2020;sarmiento;Morón;892382
+01/01/2020;sarmiento;Once;1585324
+01/01/2018;sarmiento;Once;1512095
+01/01/2019;sarmiento;Once;1575054
+01/01/2019;sarmiento;Paso del Rey;203616
+01/01/2018;sarmiento;Paso del Rey;648616
+01/01/2020;sarmiento;Paso del Rey;175575
+01/01/2020;sarmiento;Ramos Mejía;430453
+01/01/2019;sarmiento;Ramos Mejía;401038
+01/01/2018;sarmiento;Ramos Mejía;96526
+01/01/2018;sarmiento;S.A de Padua;206342
+01/01/2019;sarmiento;S.A de Padua;243244
+01/01/2020;sarmiento;S.A de Padua;245921
+01/01/2020;sarmiento;Villa Luro;96734
+01/01/2018;sarmiento;Villa Luro;109364
+01/01/2019;sarmiento;Villa Luro;96404
